@@ -1,0 +1,42 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "scope": "FIRST_READY_BATCH_ONLY",
+  "platforms": [
+    "B站",
+    "YouTube"
+  ],
+  "video": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+  "video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "tags": [
+    "AI",
+    "游戏开发",
+    "艾尔登法环",
+    "agent",
+    "codex"
+  ],
+  "native_drafts": {
+    "B站": {
+      "draft_id": "4024625",
+      "account": "Eli-AI/432834855",
+      "url": "https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=4024625",
+      "saved_reopened": true,
+      "duplicate_check": "本轮原生全部稿件8、进行中0、已发布8；本条仅草稿1，无同标题投稿。",
+      "evidence": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-five-tags-before-send-v1.txt"
+    },
+    "YouTube": {
+      "video_id": "2ZQ6YZ8Yv34",
+      "account": "Eli-AI/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "url": "https://studio.youtube.com/video/2ZQ6YZ8Yv34/edit",
+      "saved": true,
+      "save_button_enabled": false,
+      "draft_state_confirmed": true,
+      "public_description_has_exact_five_tags": true,
+      "backend_tags_exact_five": true,
+      "HD_processed": true,
+      "evidence": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-five-tags-before-send-v1.txt"
+    }
+  },
+  "other_platforms_prepared": false,
+  "other_work": "抖音需从当前会话恢复原稿；小红书及其余四站在后续可用原生页面准备，视频号本人手动，不能据本批通过写九站全备。",
+  "full_AV_not_added": true
+}

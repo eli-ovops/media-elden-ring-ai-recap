@@ -1,0 +1,327 @@
+[
+  {
+    "key": "fred-preview:T02h-1-preview.mp4",
+    "id": "component:fred-wave3-40-t02h",
+    "label": "T02h",
+    "title": "几个必备文件",
+    "source": "Fred 归档预览",
+    "group": "fred-wave3-40-20261012",
+    "category": "讲解段落",
+    "description": "几个文件卡依次立起 → 每张翻面露出一句用途",
+    "use": "先展示几份文件的外观和开头，再翻面讲清每份文件的用途。",
+    "entry": "文件本体是重建图形，预览文字由调用方提供；若从真实目录拆出文件，应适配同名/位置保持来源，不能凭图形暗示已读文件内容。",
+    "exit": "翻过的保持用途面，可选一张继续解释；原API没有单卡focus，需适配其x/y/正反面。许可证用途说明不等于已经核准所有素材许可。",
+    "avoid": "把手填预览文字当自动读取文件，或把.gitignore存在当秘密未上传的证明。",
+    "capacity": "files空回默认、最多4，注释2–4非硬下限；preview只显示前4行；用途按1–3行枚举均衡分配、统一字号，高亮按码点范围可跨行。文件名长会统一缩字。",
+    "variant": "T02h",
+    "filename": "T02h-1-preview.mp4",
+    "seconds": 6,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T02h-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/21b9c2a38aa6c124ad0de8ce",
+      "bytes": 371529,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T02h-1-preview.mp4",
+      "sha256": "aa99d90800118b426df9ca558b1411d7dc0bb3822e18549f14c162f70714a4d5",
+      "expected_sha256": "aa99d90800118b426df9ca558b1411d7dc0bb3822e18549f14c162f70714a4d5",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T02h.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/ae7f71c73335c5cfe1fb2ea6",
+      "bytes": 4776,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T02h.md",
+      "sha256": "08ac59c915a883f7ce8eeae4734ee2a104934a54c1b65d557d23f9c146d89ae6"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T02h.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/d327859a08dda9c05af7c498",
+      "bytes": 19125,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T02h.json",
+      "sha256": "ddbb0e7ada9fe3c2f302448d969f43b49cbfc86f02ea45bca4cd16494d8386fa"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T02h-FileTrio.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/47f203e0e5e17727affcda61",
+        "bytes": 9598,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T02h-FileTrio.tsx",
+        "sha256": "bd990c0957d87377e87b68f56a679dc01e0c69295ae9438bf39e05dbe811a7b1",
+        "expected_sha256": "bd990c0957d87377e87b68f56a679dc01e0c69295ae9438bf39e05dbe811a7b1",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/f553e266491d83e2395bef5d",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/59a73643dfe9c81867f5fbe3",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "先展示几份文件的外观和开头，再翻面讲清每份文件的用途。 把手填预览文字当自动读取文件，或把.gitignore存在当秘密未上传的证明。 files空回默认、最多4，注释2–4非硬下限；preview只显示前4行；用途按1–3行枚举均衡分配、统一字号，高亮按码点范围可跨行。文件名长会统一缩字。 文件本体是重建图形，预览文字由调用方提供；若从真实目录拆出文件，应适配同名/位置保持来源，不能凭图形暗示已读文件内容。 翻过的保持用途面，可选一张继续解释；原API没有单卡focus，需适配其x/y/正反面。许可证用途说明不等于已经核准所有素材许可。 每卡i*.13起.78秒spring绕底边立起；flipAt=cues[i]或1.45+i*1.05，rotateY180用.62秒。翻面时上抬26、轻放大5%，用途背面已排好并随面出现。 files:{name:string,preview:string[],purpose:string,highlight?:string}[]; cues?:number[]; enter/exit/exitAt。 几个文件卡依次立起 → 每张翻面露出一句用途",
+    "current_installation": {
+      "id": "component:fred-wave3-40-t02h",
+      "label": "T02h",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/bd990c0957d87377e87b68f56a679dc01e0c69295ae9438bf39e05dbe811a7b1",
+          "label": "T02h-FileTrio.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:T17c-1-preview.mp4",
+    "id": "component:fred-wave3-40-t17c",
+    "label": "T17c",
+    "title": "文件夹结构",
+    "source": "Fred 归档预览",
+    "group": "fred-wave3-40-20261012",
+    "category": "讲解段落",
+    "description": "一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+    "use": "逐层展开一个目录结构，再把关键行的用途沿同一行延伸到右侧。",
+    "entry": "根先成立、每层展开时按当帧份额推后行；不是一口气淡入整棵树。目录来自props，真实工程必须先核原目录。",
+    "exit": "树让左后可保留关键行导航接文件内容；黑条与反白字为同组裁显，不另起孤立说明卡。接某文件时保持该行锚点与真实对应。",
+    "avoid": "未经核对的tree冒充真实磁盘扫描结果；不合法depth顺序也不会被组件自动纠正。",
+    "capacity": "tree空回默认、最多14行，depth非负取整；行高min(92,860/n)，树名与note共同估宽到1640。层数/长名只压字号，不能无限加；层级必须按显示顺序正确组织。",
+    "variant": "T17c",
+    "filename": "T17c-1-preview.mp4",
+    "seconds": 5,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T17c-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/9000561952c64e612e8c9348",
+      "bytes": 298219,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T17c-1-preview.mp4",
+      "sha256": "255961422fe9c5da3ed61969df6b330699dc447d0b9596432ae67a45ff406f13",
+      "expected_sha256": "255961422fe9c5da3ed61969df6b330699dc447d0b9596432ae67a45ff406f13",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T17c.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/b1ef0a9996c962f2eeb5121f",
+      "bytes": 4355,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T17c.md",
+      "sha256": "b0dca4ff71cccaba236a309ad3562b5c8d0ca7fa341c0e6bbd84cea18f8f2ad9"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T17c.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/6566a54aabfdeee3275bec5d",
+      "bytes": 17111,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T17c.json",
+      "sha256": "e798fae287c1400b2cc04b55c3a8541c0f27562179cfd9777144e14ccc572e6d"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T17c-FileTree.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/68514574a9b2a05b96c4acfb",
+        "bytes": 8752,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T17c-FileTree.tsx",
+        "sha256": "7203e4b06fde78b80f43f600b022d835c6723b9c1348687509f80472cc4feccf",
+        "expected_sha256": "7203e4b06fde78b80f43f600b022d835c6723b9c1348687509f80472cc4feccf",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/f553e266491d83e2395bef5d",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/59a73643dfe9c81867f5fbe3",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "逐层展开一个目录结构，再把关键行的用途沿同一行延伸到右侧。 未经核对的tree冒充真实磁盘扫描结果；不合法depth顺序也不会被组件自动纠正。 tree空回默认、最多14行，depth非负取整；行高min(92,860/n)，树名与note共同估宽到1640。层数/长名只压字号，不能无限加；层级必须按显示顺序正确组织。 根先成立、每层展开时按当帧份额推后行；不是一口气淡入整棵树。目录来自props，真实工程必须先核原目录。 树让左后可保留关键行导航接文件内容；黑条与反白字为同组裁显，不另起孤立说明卡。接某文件时保持该行锚点与真实对应。 layerAt=cues[d-1]或.42+(d-1)*layerGap，同级错.055，展开.42秒；后续cue按maxDepth+k控制每个note点亮，黑条.55秒。默认末条高亮目标4.15前，但自定义层cue很晚会算负lightGap，需显式重绑全部note cue。 tree:{name:string,depth:number,note?:string}[]; cues?:number[]; enter/exit/exitAt。 一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+    "current_installation": {
+      "id": "component:fred-wave3-40-t17c",
+      "label": "T17c",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/7203e4b06fde78b80f43f600b022d835c6723b9c1348687509f80472cc4feccf",
+          "label": "T17c-FileTree.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:L81-R005-1-preview.mp4",
+    "id": "component:library-legacy81-r005",
+    "label": "L81-R005",
+    "title": "数字展开为分类分支",
+    "source": "Fred 归档预览",
+    "group": "原公开场景归档（见准确调用卡）",
+    "category": "讲解段落",
+    "description": "数字展开为分类分支",
+    "use": "总量拆成类别，强调同一数字继承到下一阶段。",
+    "entry": "接前镜最终数字，保留同一总量的位置/大小状态。",
+    "exit": "选一支的对象作下一镜输入，其他支退后。",
+    "avoid": "50/30/10/10为示例；默认句与数字短暂重复叠在一处，交接需调alpha。",
+    "capacity": "3分支；总数50写死JSX，值/label/开始字时点长度耦合；不能仅改pillText。",
+    "variant": "L81-R005",
+    "filename": "L81-R005-1-preview.mp4",
+    "seconds": null,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R005-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/ee74c0f56acc2df3c5b5a759",
+      "bytes": 625848,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/L81-R005-1-preview.mp4",
+      "sha256": "5cae6c5d1d71b12ea264ddf4f84165384a1676fcceb00257e9069c9b8e96a63f",
+      "expected_sha256": "5cae6c5d1d71b12ea264ddf4f84165384a1676fcceb00257e9069c9b8e96a63f",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/6c9e355135358d695ba87d32",
+      "bytes": 2819,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.md",
+      "sha256": "f798a6e81cb930f6d0feb3b619589f6b6fb672c516164e12238ec27d4554805d"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/b64ebd94c4d41b882496628b",
+      "bytes": 11545,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/L81-R005.json",
+      "sha256": "f37e560b5933b76c060e26f66f2ae3578e6c53c2d3ad42a9bdc69c8aced5f404"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/3b92e49f9e0109cd03d9fd9a",
+        "bytes": 2333,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx",
+        "sha256": "34bc3837d0988b40b403bc04e59964b062f3341f7d40bf3b14fb78e55bd58c69",
+        "expected_sha256": "34bc3837d0988b40b403bc04e59964b062f3341f7d40bf3b14fb78e55bd58c69",
+        "hash_match": true
+      }
+    ],
+    "kits": [],
+    "status": "有本地预览",
+    "search": "总量拆成类别，强调同一数字继承到下一阶段。 50/30/10/10为示例；默认句与数字短暂重复叠在一处，交接需调alpha。 3分支；总数50写死JSX，值/label/开始字时点长度耦合；不能仅改pillText。 接前镜最终数字，保留同一总量的位置/大小状态。 选一支的对象作下一镜输入，其他支退后。   数字展开为分类分支",
+    "current_installation": {
+      "id": "component:library-legacy81-r005",
+      "label": "L81-R005",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx",
+          "label": "CountV3.tsx",
+          "exists": true,
+          "url": "/asset/1690d21e4aedbb8b3ceefdb2",
+          "bytes": 2333,
+          "realpath": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/d864313852a2/groups/r/legacy/src/CountV3.tsx",
+          "sha256": "34bc3837d0988b40b403bc04e59964b062f3341f7d40bf3b14fb78e55bd58c69"
+        }
+      ],
+      "installed_any": true,
+      "installed_all": true
+    }
+  }
+]

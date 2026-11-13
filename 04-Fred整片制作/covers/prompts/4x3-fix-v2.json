@@ -1,0 +1,8 @@
+{
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-generated-v1.png",
+    "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/02-思考分析-图5-深蓝衬衫.png"
+  ],
+  "transparent_background": false,
+  "prompt": "Precisely edit Image1 cover, keep its 4:3 layout and all exact typography, wording, colors and man's identity/grey hoodie/face and gestures. Image2 confirms original identity. Fix ONLY the knight helmet plume overlapping the purple word 长这样. Reduce knight-and-horse as a single intact object by 18%, keeping its feet and tail aligned above the same left palm; the entire helmet plume must be below the bottom edge of purple title with clear white gap. Do not move or alter any lettering. Do not change face, glasses or hairstyle. Do not crop horse, do not add new text, no boxes or background decoration. Keep pure white background. Target 1440x1080, landscape4:3."
+}

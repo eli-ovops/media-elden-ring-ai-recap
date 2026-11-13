@@ -1,0 +1,18 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "02",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "RESUME_AND_REVISE",
+  "at": "2026-10-23T13:57:07.047707+08:00",
+  "human_source": "本聊天用户：感觉不行，继续回到我的法环的项目吧。继续做之前openloop的。",
+  "reason": "按已存卡恢复，合并玩家共鸣新开头；旧v1.1不覆盖。",
+  "preserved_scope": [
+    "01来源基线和旧稿不变",
+    "脚本与声画规划授权延续",
+    "游戏工程及04/05/06不释放"
+  ],
+  "remaining_required_work": [
+    "02交完整v2口播/声画表/事实表",
+    "PMO审实际原件后交用户看稿"
+  ]
+}

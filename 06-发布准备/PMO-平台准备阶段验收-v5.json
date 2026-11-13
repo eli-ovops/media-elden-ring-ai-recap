@@ -1,0 +1,105 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "reviewed_at_utc": "2026-10-23T15:03:28.058Z",
+  "trigger": "用户问：还没可以发送吗？一次当前Owner快照及当前原件审阅。",
+  "decision": "PARTIAL_PREPARATION_CONFIRMED_NOT_FORMAL_STAGE06_PASS",
+  "publication_authorized": false,
+  "sends_verified": 0,
+  "source_video": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+  "source_video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "ready_saved_drafts": [
+    "抖音",
+    "B站",
+    "YouTube"
+  ],
+  "page_filled_saved_unknown": [
+    "小红书"
+  ],
+  "manual_package_only": [
+    "视频号"
+  ],
+  "pending_native_preparation": [
+    "微博",
+    "LinkedIn",
+    "X",
+    "TikTok"
+  ],
+  "evidence_read": [
+    "准备回执-v1.json",
+    "douyin-reopened-DOM-v5.txt",
+    "douyin-reopened-v5.png",
+    "xiaohongshu-filled-DOM-v5.txt",
+    "xiaohongshu-filled-v5.png",
+    "xiaohongshu-top-v5.png",
+    "bilibili-reopened-DOM-v5.txt",
+    "bilibili-reopened-v5.png",
+    "youtube-final-DOM-v5.txt",
+    "youtube-final-v5.png"
+  ],
+  "own_review": "抖音此前已审保存后重开；本次补审B站原生上传完成、标题、简介段落、三标签与AI声明回读及封面截图；YouTube实读草稿/已保存所有更改/高清处理完成/源文件名并看最终繁体正文与9:16封面；小红书顶部截图确认封面、标题、正文与话题，暂存失败保存仍UNKNOWN。",
+  "owner_snapshot": {
+    "timedOut": false,
+    "wake": {
+      "reason": "inactiveStatus",
+      "threadId": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+      "hostId": "local"
+    },
+    "polls": [
+      {
+        "schemaVersion": 1,
+        "cursor": "43b0e811-1a1c-4cb0-a3c9-69fa38d2b6a1:1",
+        "revision": 1,
+        "changed": true,
+        "cursorReset": true,
+        "thread": {
+          "id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+          "hostId": "local",
+          "status": {
+            "type": "notLoaded"
+          }
+        },
+        "latestTurn": {
+          "id": "01a168dd-9ce3-74c2-af9c-ea98f1b93c6a",
+          "status": "failed",
+          "error": {
+            "message": "{\"detail\":\"The 'gpt-6.1-sol' model is not supported when using Codex with a ChatGPT account.\"}"
+          },
+          "startedAt": 1792760716,
+          "completedAt": 1792766416,
+          "durationMs": 5700089
+        },
+        "latestAssistantMessageId": "msg_082e977710995fa0016adb715c707481918f1195ee6d5daa7f",
+        "latestAssistantMessage": {
+          "id": "msg_082e977710995fa0016adb715c707481918f1195ee6d5daa7f",
+          "turnId": "01a168dd-9ce3-74c2-af9c-ea98f1b93c6a",
+          "phase": "commentary",
+          "text": "YouTube 已显示“已保存所有更改”，仍为草稿。9:16预览的标题、人像和模型主体完整可见，裁字问题已修正。继续其余四站。"
+        },
+        "latestToolMarkerId": "call_ab0b04338e9c49adaa9f4acc634dbb1f",
+        "latestToolMarker": {
+          "id": "call_ab0b04338e9c49adaa9f4acc634dbb1f",
+          "turnId": "01a168dd-9ce3-74c2-af9c-ea98f1b93c6a",
+          "type": "mcpToolCall",
+          "name": "js",
+          "status": "completed"
+        }
+      }
+    ]
+  },
+  "usage_readback": {
+    "ordinaryUsageAllowed": false,
+    "usedPercent": 100,
+    "windowDurationMins": 10080,
+    "spendControlReached": false,
+    "rateLimitReachedType": "rate_limit_reached"
+  },
+  "resume_attempted": false,
+  "next_action": "原06因gpt-6.1-sol账号不支持报错已failed；当前ordinaryUsageAllowed=false，不启动替代模型任务、不消耗重置/购买/改付费配置。保留三已保存草稿和小红书原页，待真实可用条件满足后沿同Owner继续四站；本次不发布。",
+  "retained_limits": [
+    "未核完整连续声画/直接听音；沿用户已选择版本的非公开准备范围，不倒填全AV验收",
+    "其余四站未准备，小红书未证保存，formal06未通过",
+    "模型/额度阻断不是浏览器再次不可用证据",
+    "没有安装后台失败监控，不恢复旧自动化"
+  ]
+}

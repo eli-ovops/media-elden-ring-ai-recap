@@ -1,0 +1,143 @@
+{
+  "scope": "v1文件身份/调用链，非声画验收；未变文件后续只复用此证据",
+  "checks": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v1.mp4",
+      "expected": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0",
+      "actual": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edit/voice-master-v2.wav",
+      "expected": "6af515f35c1ec81894aa0ca43eacd0b76f3911f6dbdf5784811b917b697f97a3",
+      "actual": "6af515f35c1ec81894aa0ca43eacd0b76f3911f6dbdf5784811b917b697f97a3",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/同步字幕-v2.srt",
+      "expected": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72",
+      "actual": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/源时码与剪辑EDL-v2.json",
+      "expected": "bc8a3711dec5981c61d1b31dc046af11f630bde28e1ae67e2b499fd45d6b290f",
+      "actual": "bc8a3711dec5981c61d1b31dc046af11f630bde28e1ae67e2b499fd45d6b290f",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-1080x1440-v1.png",
+      "expected": "8a69eea37520d328c357f6b06402a761c5184b6a46f2f020aea85778af944209",
+      "actual": "8a69eea37520d328c357f6b06402a761c5184b6a46f2f020aea85778af944209",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-1080x1920-v2.png",
+      "expected": "efa41ceaebb268829be101d61d6aab5fb01ba3f5037d0382e2194127ab17f883",
+      "actual": "efa41ceaebb268829be101d61d6aab5fb01ba3f5037d0382e2194127ab17f883",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-1920x1080-v1.png",
+      "expected": "7f0ebac7e56d6c1b2b4aa760312d23d6aef7b9f6384449cbdb3fe244468211f3",
+      "actual": "7f0ebac7e56d6c1b2b4aa760312d23d6aef7b9f6384449cbdb3fe244468211f3",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-1440x1080-v1.png",
+      "expected": "25a49fecac543e306cd2cde90cce230a5dd8b910057f54a2197b8a64d0eee7e1",
+      "actual": "25a49fecac543e306cd2cde90cce230a5dd8b910057f54a2197b8a64d0eee7e1",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+      "expected": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+      "actual": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T14e-StatTriplet.tsx",
+      "expected": "47ddc3cd5dfc32306b4b333ce894817507e068ce8c67fc83f49a6e8c1f5e0ab0",
+      "actual": "47ddc3cd5dfc32306b4b333ce894817507e068ce8c67fc83f49a6e8c1f5e0ab0",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/full-index.tsx",
+      "expected": "79255de5248978a2ebf2572f48819858daaab915d098c5f424114a88bbee5f74",
+      "actual": "79255de5248978a2ebf2572f48819858daaab915d098c5f424114a88bbee5f74",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+      "expected": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "actual": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+      "expected": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+      "actual": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/theme.ts",
+      "expected": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "actual": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/ui.tsx",
+      "expected": "1c714745f0a5989c8c21ccbb163c258ce85236c2b2dda77ee00cad17daca7ffd",
+      "actual": "1c714745f0a5989c8c21ccbb163c258ce85236c2b2dda77ee00cad17daca7ffd",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T17c-FileTree.tsx",
+      "expected": "7203e4b06fde78b80f43f600b022d835c6723b9c1348687509f80472cc4feccf",
+      "actual": "7203e4b06fde78b80f43f600b022d835c6723b9c1348687509f80472cc4feccf",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T17c-FileTree.tsx",
+      "expected": "8edf28c02cd25d08b921ef8599d8a3f4f8d3b89f3a1d4ffb63c1d2415b3a6d20",
+      "actual": "8edf28c02cd25d08b921ef8599d8a3f4f8d3b89f3a1d4ffb63c1d2415b3a6d20",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-probe.json",
+      "expected": "14cb19efb9fc2f27fd5eadab9dae886c73f32be7da09ba02e27099b90384ab0f",
+      "actual": "14cb19efb9fc2f27fd5eadab9dae886c73f32be7da09ba02e27099b90384ab0f",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-decode-errors.txt",
+      "expected": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "actual": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-frame-map.json",
+      "expected": "689db0ac191de22099f77b0b60bada7f7f2861c49539b798fbddd9045f2e4d28",
+      "actual": "689db0ac191de22099f77b0b60bada7f7f2861c49539b798fbddd9045f2e4d28",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/audio-numeric-check.json",
+      "expected": "8ff5c843da1db8bf5d42d1b6c726717883aae04156cda262ba6349bd547bbf23",
+      "actual": "8ff5c843da1db8bf5d42d1b6c726717883aae04156cda262ba6349bd547bbf23",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-review-v1.json",
+      "expected": "2aacf92acf16f246e2af4cd66d85554b11925a6001b234c05d62add5e3c60d1f",
+      "actual": "2aacf92acf16f246e2af4cd66d85554b11925a6001b234c05d62add5e3c60d1f",
+      "match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v1.srt",
+      "expected": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72",
+      "actual": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72",
+      "match": true
+    }
+  ]
+}

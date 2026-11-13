@@ -1,0 +1,365 @@
+[
+  {
+    "key": "fred-preview:T15e-1-preview.mp4",
+    "id": "component:fred-wave3-40-t15e",
+    "label": "T15e",
+    "title": "折线走势",
+    "source": "Fred 归档预览",
+    "group": "fred-wave3-40-20261012",
+    "category": "数值与图表",
+    "description": "一条折线逐段画出 → 关键点落下数值标签",
+    "use": "沿同一坐标系比较成本与结果走势，再在曲线到达某点时标出关键读数。",
+    "entry": "先给坐标意义和单位，再让线走；输入数据需另有证据。默认点部分为作者手读近似，仅作动效材料。",
+    "exit": "同一高亮点可推近进详情，保持其series/point身份与坐标；没有原生单点focus，需要按真实box适配，避免新起第二套曲线。",
+    "avoid": "默认手读近似点当精确评测，或截断y轴却暗示从0开始；不能把作者历史模型示例当当前榜单。",
+    "capacity": "series截前3、按x排序、过滤少于2点组，注释2–8点但无8点上限；labels前4，series/at须对应处理后的组与点。长图例/标签碰撞未全局解决。",
+    "variant": "T15e",
+    "filename": "T15e-1-preview.mp4",
+    "seconds": 6,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T15e-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/d86205bd7c4a66feb7a17506",
+      "bytes": 296708,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T15e-1-preview.mp4",
+      "sha256": "51c7d74e9d71db52c8b7e6df67505e440a0577ff0b9012bd9b163997842fdb2a",
+      "expected_sha256": "51c7d74e9d71db52c8b7e6df67505e440a0577ff0b9012bd9b163997842fdb2a",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T15e.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/fe18d241d996abe17b9a408d",
+      "bytes": 5045,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T15e.md",
+      "sha256": "8224aa5d450f069391f1da84069fab17172a14aaec9b2dca2351412264dda6b0"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T15e.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/f83e2711b57422dfbc9be041",
+      "bytes": 19708,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T15e.json",
+      "sha256": "096ac08357457d2915e8d26ae3ad5e1cf0a3018feb83b57a8abf95da46d84121"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15e-TrendLine.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/61e5d3b0fd0d789e08257351",
+        "bytes": 11694,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15e-TrendLine.tsx",
+        "sha256": "61b6b9907c1894041335ef551a4a4b072f8e399399c81dd31235dd1bbb4d7beb",
+        "expected_sha256": "61b6b9907c1894041335ef551a4a4b072f8e399399c81dd31235dd1bbb4d7beb",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/f553e266491d83e2395bef5d",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/59a73643dfe9c81867f5fbe3",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "沿同一坐标系比较成本与结果走势，再在曲线到达某点时标出关键读数。 默认手读近似点当精确评测，或截断y轴却暗示从0开始；不能把作者历史模型示例当当前榜单。 series截前3、按x排序、过滤少于2点组，注释2–8点但无8点上限；labels前4，series/at须对应处理后的组与点。长图例/标签碰撞未全局解决。 先给坐标意义和单位，再让线走；输入数据需另有证据。默认点部分为作者手读近似，仅作动效材料。 同一高亮点可推近进详情，保持其series/point身份与坐标；没有原生单点focus，需要按真实box适配，避免新起第二套曲线。 cues[0]主线默认.6，参考max(.2,lineAt-.3)，主/参考描线3/2.4秒；按屏幕弧长走点，标签默认反解q到达+.02、最多5.2秒；显式后续cues可覆盖并须避免早于点到达。 series:{name,points:{x,y}[],ref?}[]; labels:{series,at,text}[]; highlight:number; xDomain/yDomain:[number,number]|null; xTicks/yTicks:number[]|null; xPrefix/xSuffix/yPrefix/ySuffix; xTitle/yTitle; cues; enter/exit/exitAt。 一条折线逐段画出 → 关键点落下数值标签",
+    "current_installation": {
+      "id": "component:fred-wave3-40-t15e",
+      "label": "T15e",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/61b6b9907c1894041335ef551a4a4b072f8e399399c81dd31235dd1bbb4d7beb",
+          "label": "T15e-TrendLine.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:T14e-1-preview.mp4",
+    "id": "component:fred-wave3-40-t14e",
+    "label": "T14e",
+    "title": "三个关键数字",
+    "source": "Fred 归档预览",
+    "group": "fred-wave3-40-20261012",
+    "category": "数值与图表",
+    "description": "几项指标 → 数字同时滚动、依次落定成一排",
+    "use": "把几项并列数字一屏落定，最后突出其中一项。",
+    "entry": "同组指标先说明是否同口径。源码承认默认原图未写美元/百万token，该单位是作者补写，正式价格与单位必须另核。",
+    "exit": "让主角卡变成下一解释的同一载体，保留真实指标/单位；原接口无独立取卡移动，需适配而不是重新弹入。",
+    "avoid": "未核单位与价格直接用默认定价；此卡不是自动读取实时API计费。",
+    "capacity": "stats截前4，注释2–4无硬2下限；同组取最小数字/标签字号，单位独立。空数组不能当通用空态。hero取整夹范围。",
+    "variant": "T14e",
+    "filename": "T14e-1-preview.mp4",
+    "seconds": 5,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14e-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/4697fd8efa40cb8514a8ebee",
+      "bytes": 323162,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14e-1-preview.mp4",
+      "sha256": "38980c72d42e740fd4fe854a72b54052c54d24553b1f04740d614225ab862181",
+      "expected_sha256": "38980c72d42e740fd4fe854a72b54052c54d24553b1f04740d614225ab862181",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/c5cc999e16331d2bac56f267",
+      "bytes": 4160,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.md",
+      "sha256": "404c31f43504025ba7c7dd13eb303580d82391ce05323e42d09ad136c4747428"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/361da15e4a00b0bad662c323",
+      "bytes": 16893,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14e.json",
+      "sha256": "15df763fbb1bff7158a851d7932ff3b2daa61b30ae9d1f30b942e0dddf89c185"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/873317a82874fcf7cd83b8dd",
+        "bytes": 6252,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+        "sha256": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+        "expected_sha256": "a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/f553e266491d83e2395bef5d",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/59a73643dfe9c81867f5fbe3",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "把几项并列数字一屏落定，最后突出其中一项。 未核单位与价格直接用默认定价；此卡不是自动读取实时API计费。 stats截前4，注释2–4无硬2下限；同组取最小数字/标签字号，单位独立。空数组不能当通用空态。hero取整夹范围。 同组指标先说明是否同口径。源码承认默认原图未写美元/百万token，该单位是作者补写，正式价格与单位必须另核。 让主角卡变成下一解释的同一载体，保留真实指标/单位；原接口无独立取卡移动，需适配而不是重新弹入。 升入.04+i*.07至.55+i*.07；cues[0]roll默认.6，各结束roll+1.25+i*.4；cues[1]hero默认lastEnd+.4，颜色.28秒/放大spring.7秒。 stats:{label,value,decimals?,prefix?,suffix?,unit?}[]; hero:number; cues?:number[]; enter/exit/exitAt。 几项指标 → 数字同时滚动、依次落定成一排",
+    "current_installation": {
+      "id": "component:fred-wave3-40-t14e",
+      "label": "T14e",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a1a8f30bfd9effd7d6ceb7ea57a9031072b3a799ee27129b602bc8319464d071",
+          "label": "T14e-StatTriplet.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:T14c-1-preview.mp4",
+    "id": "component:fred-native-t14c",
+    "label": "T14c",
+    "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+    "source": "Fred 归档预览",
+    "group": "fred-native-16-20261012",
+    "category": "数值与图表",
+    "description": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+    "use": "新价格逐位滚定后让出旧价对照，划旧价，再给差额结论。",
+    "entry": "先说明价格对象和计费单位。",
+    "exit": "差额接原价目页/适用条件，避免动画推导事实。",
+    "avoid": "deltaText手填不自动算；默认价格不是当前报价。",
+    "capacity": "value/compareValue有限、decimals合法；同币种单位；长label/unit/delta会溢出且时序固定。",
+    "variant": "T14c",
+    "filename": "T14c-1-preview.mp4",
+    "seconds": 5.0,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14c-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/43d56344df38542153074d42",
+      "bytes": 327581,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T14c-1-preview.mp4",
+      "sha256": "b6ef45b4616f2d77db9fd623f3e017a50dbadac4f5b3859475d56eef4d9c9045",
+      "expected_sha256": "b6ef45b4616f2d77db9fd623f3e017a50dbadac4f5b3859475d56eef4d9c9045",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14c.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/b3a6c6328bdc99891e09c39b",
+      "bytes": 4150,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14c.md",
+      "sha256": "40324a5b5e1f8ad1211d49997880625117b063be2e364ff44cacb516a10e9925"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14c.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/4cd7fd595412a3847e896f65",
+      "bytes": 18050,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T14c.json",
+      "sha256": "4a4dd7427354a0d663f47dccda5cd1d403541cee1831a57b7d91675c621da651"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/components/T14c-PriceLand.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/286fcd794287590120843432",
+        "bytes": 8815,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/components/T14c-PriceLand.tsx",
+        "sha256": "8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398",
+        "expected_sha256": "8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/a70d740f98ea4c5bd67bf776",
+        "bytes": 3161,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/kit/theme.ts",
+        "sha256": "c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e",
+        "expected_sha256": "c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/b42d5180f5bdafb30c74aa0f",
+        "bytes": 7356,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-native-16-20261012/src/kit/ui.tsx",
+        "sha256": "e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390",
+        "expected_sha256": "e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "新价格逐位滚定后让出旧价对照，划旧价，再给差额结论。 deltaText手填不自动算；默认价格不是当前报价。 value/compareValue有限、decimals合法；同币种单位；长label/unit/delta会溢出且时序固定。 先说明价格对象和计费单位。 差额接原价目页/适用条件，避免动画推导事实。 roll .25起，位落1.15+i×.14，shift2–2.6，旧价2.1–2.65，strike2.8，delta3.4。 export type PriceLandProps = { label: string; value: number; decimals: number; prefix: string; unit: string; compareLabel: string; compareValue: number; deltaText: string; deltaKey?: string; background?: string | null; }; 价格落定：数字逐位滚动，旧价划掉，差额亮出",
+    "current_installation": {
+      "id": "component:fred-native-t14c",
+      "label": "T14c",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398",
+          "label": "T14c-PriceLand.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/ec145ef6139ba87d929cc024ab63461c9daf0a287fa23478785f574962935c19",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  }
+]

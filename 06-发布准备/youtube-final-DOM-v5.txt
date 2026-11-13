@@ -1,0 +1,142 @@
+- generic: 已保存所有更改。
+- banner:
+  - button "收起菜单":
+  - link "YouTube Studio 信息中心":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw
+    - img "YouTube Studio 信息中心"
+  - button "跳过导航":
+    - generic: 跳过导航
+  - button "搜索":
+  - button "帮助":
+  - button "通知":
+  - button "问问 Studio":
+    - generic: 问问 Studio
+  - button "创建":
+    - generic: 创建
+  - generic "账号":
+    - button "Account"
+- generic: 此视频处于草稿状态
+- button "编辑草稿":
+  - generic: 编辑草稿
+- navigation:
+  - link "频道内容":
+    - /url: /channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos
+    - generic: 频道内容
+  - img "视频缩略图：用AI折騰三天，我的大樹守衛長這樣"
+  - generic: 1:45
+  - generic: 我的视频
+  - generic: 用AI折騰三天，我的大樹守衛長這樣
+  - menu:
+    - menuitem "详细信息":
+      - generic: 详细信息
+    - menuitem "数据分析":
+      - generic: 数据分析
+    - menuitem "编辑器":
+      - generic: 编辑器
+    - menuitem "评论":
+      - generic: 评论
+    - menuitem "字幕":
+      - generic: 字幕
+    - menuitem "版权声明":
+      - generic: 版权声明
+    - menuitem "剪辑和 Shorts 短视频":
+      - generic: 剪辑和 Shorts 短视频
+  - list:
+    - button "设置":
+      - generic: 设置
+    - button "发送反馈":
+      - generic: 发送反馈
+- main:
+  - heading "视频详细信息" [level=1]
+  - button "撤消更改" [disabled]:
+    - generic: 撤消更改
+  - button "保存" [disabled]:
+    - generic: 保存
+  - button "选项":
+  - generic "Video sync state dialog"
+  - text: 标题（必填）
+  - generic "一个引人注目的标题可以帮助你吸引观看者。在确定视频标题时，最好加入观众在查找类似视频时可能会使用的关键字。 了解详情":
+  - textbox "添加一个可描述你视频的标题（输入 @ 可提及某个频道）"
+  - text: 建议的标签
+  - text: 说明
+  - generic "在说明中加入适当的关键字，可以帮助观看者通过搜索更轻松地找到你的视频。你可以在说明中大致介绍视频的内容，并将关键字放在说明的开头部分。 了解详情":
+  - textbox "向观看者介绍你的视频（输入 @ 可提及频道）"
+  - generic: 缩略图
+  - text: 设置醒目、能抓住观看者眼球的缩略图。
+  - link "详细了解缩略图":
+    - /url: https://support.google.com/youtube/answer/72431?hl=zh-CN
+    - text: 了解详情
+  - button "已上传的缩略图":
+  - button "选项":
+  - button "获取建议":
+    - generic: 获取建议
+  - generic: 播放列表
+  - text: 将视频整理到一个或多个播放列表中，方便观看者浏览。
+  - link "详细了解播放列表":
+    - /url: https://support.google.com/youtube/answer/57792
+    - text: 了解详情
+  - generic "添加到播放列表":
+    - button "选择播放列表":
+      - button "选择":
+        - generic: 选择
+  - generic: 观众
+  - text: 此视频已设置为非面向儿童的内容
+  - generic: 由你设置
+  - text: 根据法律要求，无论你身在何处，都必须遵守《儿童在线隐私保护法》(COPPA) 和/或其他法律。你必须指明自己的视频是否为面向儿童的内容。
+  - link "什么是面向儿童的内容？":
+    - /url: https://support.google.com/youtube/answer/9528076?hl=zh-CN
+  - text: 面向儿童的视频不支持个性化广告和通知等功能。如果你将视频设置为面向儿童的内容，系统就更有可能在观众观看其他儿童视频时推荐你的视频。
+  - link "详细了解视频的观众群设置":
+    - /url: https://support.google.com/youtube/answer/9527654?hl=zh-CN
+    - text: 了解详情
+  - radiogroup:
+    - radio "是，内容是面向儿童的 . 面向儿童的视频不支持个性化广告和通知等功能。如果你将视频设置为面向儿童的内容，系统就更有可能在观众观看其他儿童视频时推荐你的视频。 了解详情":
+      - text: 是，内容是面向儿童的
+      - generic: .
+      - text: 面向儿童的视频不支持个性化广告和通知等功能。如果你将视频设置为面向儿童的内容，系统就更有可能在观众观看其他儿童视频时推荐你的视频。
+      - link "了解详情":
+        - /url: https://support.google.com/youtube/answer/9527654?hl=zh-CN
+    - radio "不，内容不是面向儿童的" [checked]:
+      - generic: 不，内容不是面向儿童的
+  - button "年龄限制":
+    - heading "年龄限制" [level=3]
+  - text: 有年龄限制的视频不会显示在 YouTube 的特定部分中，而且只能投放部分广告，或者无法使用广告创收功能。
+  - link "详细了解年龄限制政策":
+    - /url: https://support.google.com/youtube/answer/2950063?hl=zh-CN
+    - text: 了解详情
+  - radiogroup:
+    - radio "是，设为仅限年满 18 周岁的观看者观看":
+      - generic: 是，设为仅限年满 18 周岁的观看者观看
+    - radio "否，不要设为仅限年满 18 周岁的人观看" [checked]:
+      - generic: 否，不要设为仅限年满 18 周岁的人观看
+  - generic "显示高级设置":
+    - button "显示高级设置":
+      - generic: 展开
+  - generic: 付费宣传内容、联合创作等
+  - status
+  - region "视频播放器":
+    - button "播放":
+    - button "静音":
+    - slider "音量"
+    - generic: 0:00 / 1:45
+    - button "全屏":
+  - generic: 视频链接
+  - link "https://youtube.com/shorts/2ZQ6YZ8Yv34":
+    - /url: https://youtube.com/shorts/2ZQ6YZ8Yv34
+  - button "复制视频链接":
+  - generic: 文件名
+  - generic: elden-ring-ai-recap-v2-final.mp4
+  - generic: 视频画质
+  - img "标清版本处理已完成":
+  - img "高清版本处理已完成":
+  - button "获取视频反馈":
+    - generic: 获取视频反馈
+  - button "相关视频 将观众引导至你的与此视频相关的内容。 无":
+    - button "相关视频 将观众引导至你的与此视频相关的内容。 无":
+      - generic: 相关视频
+      - generic "将观众引导至你的与此视频相关的内容。":
+      - generic: 无
+  - button "字幕":
+    - button "字幕":
+      - button "字幕":
+        - generic: 字幕

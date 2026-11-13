@@ -1,0 +1,8 @@
+{
+  "sourceSamples": 4992800,
+  "finalSamples": 4992800,
+  "zeroLagCorrelation": 0.9999894931594553,
+  "rmsGainDB": -0.005905043333768845,
+  "peakDBFS": -1.7922354936599731,
+  "method": "Decoded final AAC versus frozen master at identical sample clock; numeric signal comparison only, not hearing."
+}

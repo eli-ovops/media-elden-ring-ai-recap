@@ -1,0 +1,235 @@
+{
+  "query": "一个 数字 放大 时间 天数",
+  "sceneType": "metric-change",
+  "candidates": [
+    {
+      "id": "fred-wave3-40-t14e",
+      "displayLabel": "T14e",
+      "title": "三个关键数字",
+      "useWhen": "几项指标 → 数字同时滚动、依次落定成一排",
+      "sceneTypes": [
+        "metric-change"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "stats",
+        "hero",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T14e",
+      "score": 174.7,
+      "reasons": [
+        "数值与图表",
+        "原词命中：数字",
+        "相近词：数字"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "data",
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "三个数值",
+          "标签",
+          "单位"
+        ],
+        "action": "几项指标 → 数字同时滚动、依次落定成一排",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t14e --full"
+    },
+    {
+      "id": "fred-native-t14c",
+      "displayLabel": "T14c",
+      "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+      "useWhen": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+      "sceneTypes": [
+        "metric-change"
+      ],
+      "collectionId": "fred-native-16-20261012",
+      "editableParameters": [
+        "label",
+        "value",
+        "decimals",
+        "prefix",
+        "unit",
+        "compareLabel",
+        "compareValue",
+        "deltaText",
+        "deltaKey",
+        "background"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T14c",
+      "score": 174.7,
+      "reasons": [
+        "数值与图表",
+        "原词命中：数字",
+        "相近词：数字"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fred-native",
+        "inputObjects": [
+          "新旧价格",
+          "单位",
+          "结论"
+        ],
+        "action": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-native-t14c --full"
+    },
+    {
+      "id": "fred-wave3-40-t15f",
+      "displayLabel": "T15f",
+      "title": "占比环",
+      "useWhen": "一个圆环 → 各部分依次长出，主角那块抽出并亮出比例",
+      "sceneTypes": [
+        "metric-change"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "segments",
+        "highlight",
+        "decimals",
+        "centerNote",
+        "highlightLabel",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T15f",
+      "score": 156.7,
+      "reasons": [
+        "数值与图表",
+        "原词命中：一个"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "data",
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "占比数据",
+          "环形扇区",
+          "图例"
+        ],
+        "action": "一个圆环 → 各部分依次长出，主角那块抽出并亮出比例",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t15f --full"
+    }
+  ],
+  "crossTypeFallback": false,
+  "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+  "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+  "publicFallbackCandidates": [],
+  "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source."
+}

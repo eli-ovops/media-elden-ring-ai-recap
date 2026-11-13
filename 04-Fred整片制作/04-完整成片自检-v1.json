@@ -1,0 +1,66 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "owner": "04",
+  "status": "PRODUCTION_COMPLETE_SCOPED_SELF_CHECK",
+  "finalOutput": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v1.mp4",
+    "sha256": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0",
+    "durationSeconds": 104.01666666666667,
+    "frames": 6241,
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "bytes": 164559034
+  },
+  "coverage": {
+    "decodedAV": "complete file; error log empty",
+    "actualExportSampleFrames": 133,
+    "contactSheets": 6,
+    "visualMethod": "1fps plus selected seams and component middle states; all 6 contact sheets reviewed. 360x640 samples; representative and T17c native stills reviewed earlier.",
+    "observations": "已检采样中本人头脸、字幕与实材主体可见；无采样黑帧/白闪；39条字幕按冻结源时钟。原行走片仅0.7秒一次，不循环伪造长实机。",
+    "sources": "T14e / T17c exact source+kit, actual import/call/output hashes bound in Manifest; reference preview contact sheets previously viewed.",
+    "audioNumeric": {
+      "sourceSamples": 4992800,
+      "finalSamples": 4992800,
+      "zeroLagCorrelation": 0.9999894931594553,
+      "rmsGainDB": -0.005905043333768845,
+      "peakDBFS": -1.7922354936599731,
+      "method": "Decoded final AAC versus frozen master at identical sample clock; numeric signal comparison only, not hearing."
+    },
+    "audioNumericCaveat": "Counts in numeric report are aligned minimum comparison length, not independent full decoded length. Container audio duration104.016000 vs video104.016667 differs0.000667 seconds. Signal comparison is not hearing.",
+    "covers": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-review-v1.json",
+      "sha256": "2aacf92acf16f246e2af4cd66d85554b11925a6001b234c05d62add5e3c60d1f"
+    },
+    "preview": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/preview-check-v1.json",
+      "sha256": "435310f0e03021e474a1611d47aaa000485e66f04715fa6948ce1e531d490c95"
+    }
+  },
+  "gates": {
+    "suggestion": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/gate-final-suggestion.json",
+      "sha256": "034258a9502c48adacf0c305ed8dc29d829ebe68dc8a972d6da8a7eeaf96bf93"
+    },
+    "keyframes": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/gate-final-keyframes.json",
+      "sha256": "09d321e58bbff1f946d9556d03e546b0f4e14d4af84a9605a4d281c974075fd9"
+    }
+  },
+  "limits": {
+    "directHearing": "UNKNOWN; PMO范围补充明确不阻断制作，用户终审PENDING",
+    "continuousAV": "UNKNOWN",
+    "subtitlePrecision": "候选句内时码，未作听核PASS",
+    "sourceCrop": "约67–70秒第三方原片背景英文句子被竖屏裁切，主要作者场景主体与本期中文字幕可见；未宣称保留原片所有画面文字。",
+    "externalAcceptance": "PMO full-film review / 05 independent review / user final review PENDING",
+    "sampling": "Sparse actual-export frames and contact sheets, not continuous normal-speed playback or all-frame inspection."
+  },
+  "acceptances": {
+    "representativePMO": "PASS_FOR_FULL_PRODUCTION_SCOPED",
+    "fullPMO": "PENDING",
+    "independent05": "NOT_RELEASED_BY_PMO",
+    "user": "PENDING",
+    "published": "NO"
+  },
+  "recovery": "Existing render DONE verified after app interruption; reused file, no duplicate render. Current final voice mux and evidence completed."
+}

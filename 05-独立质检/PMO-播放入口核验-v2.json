@@ -1,0 +1,51 @@
+{
+  "at": "2026-10-23T18:05:57.833550+08:00",
+  "url": "http://127.0.0.1:55323/preview-v2.html",
+  "browser": "Codex in-app browser / iab2",
+  "tab_id": "1",
+  "markDeliverable": true,
+  "actual_read_via": "cua_repl live DOM media properties and AX+screenshot",
+  "video": {
+    "currentSrc": "http://127.0.0.1:55323/output/elden-ring-ai-recap-v2-final.mp4",
+    "width": 1080,
+    "height": 1920,
+    "duration": 104.016667,
+    "readyState": 4,
+    "error": null,
+    "paused": true,
+    "seekable": [
+      [
+        0,
+        104.016667
+      ]
+    ]
+  },
+  "covers": [
+    {
+      "file": "cover-3x4-1080x1440-v1.png",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "file": "cover-9x16-1080x1920-v2.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "cover-16x9-1920x1080-v1.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "cover-4x3-1440x1080-v1.png",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "covers_loaded": true,
+  "screenshot": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO-最终播放页-v2.png",
+    "sha256": "2eb464c9e1d33c6abdb818a86ed6fbc6c501ac097f85cdaec825d1ca01c80242"
+  },
+  "scope": "当前入口加载、版本/规格/可拖动范围和封面加载，不是直接听音或完整连续播放检查"
+}

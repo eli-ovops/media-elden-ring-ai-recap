@@ -1,0 +1,36 @@
+{
+  "at": "2026-10-23T13:58:03.139580+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "owner_thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "task": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/02-恢复与玩家开头任务-v2.md",
+  "tool": "mcp__codex_app__send_message_to_thread",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a70-35e6-7db1-86ac-80a7ce40a9cb\"}"
+      }
+    ],
+    "isError": false
+  },
+  "accepted": true,
+  "owner_completed": true,
+  "pmo_received_report": true,
+  "pmo_reviewed_outputs": true,
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "pre_dispatch_snapshot": {
+    "status": "idle",
+    "after_cursor": "fd4b8af7-4167-4802-ab6a-82907769d7c2:13"
+  },
+  "usage_before_dispatch": {
+    "weekly_used_percent": 31,
+    "five_hour_window": "UNKNOWN",
+    "spend_control_reached": false
+  },
+  "pmo_review": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/PMO-脚本与节奏验收-v2.json",
+  "received_at": "2026-10-23T14:04:50.360493+08:00"
+}

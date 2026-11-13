@@ -1,0 +1,26 @@
+{
+  "original_post": "https://x.com/Saccc_c/status/2109962425512734739",
+  "workflow_article": "https://x.com/Saccc_c/status/2110694725640474759",
+  "video": "/tmp/eli-little-prince-reference-20261023/little-prince-270.mp4",
+  "sha256": "f1222e3471b28a55c8bf51bc852951965663c5749aca2a3126112e10df6457a9",
+  "coverage": "Original post and full author workflow article read; complete 63.46-second 480x270 source downloaded, with 32 visual samples inspected at approximately 2-second intervals across the video. No direct listening or continuous audiovisual review performed.",
+  "new_files": [
+    "/tmp/eli-little-prince-reference-20261023/little-prince.fhls-19968.mp4.part-Frag2.part",
+    "/tmp/eli-little-prince-reference-20261023/visual-sheet-01.jpg",
+    "/tmp/eli-little-prince-reference-20261023/little-prince-720.mp4.part",
+    "/tmp/eli-little-prince-reference-20261023/visual-sheet-02.jpg",
+    "/tmp/eli-little-prince-reference-20261023/little-prince-270.mp4",
+    "/tmp/eli-little-prince-reference-20261023/little-prince.info.json",
+    "/tmp/eli-little-prince-reference-20261023/author-workflow.txt",
+    "/tmp/eli-little-prince-reference-20261023/little-prince.description",
+    "/tmp/eli-little-prince-reference-20261023/little-prince.fhls-19968.mp4.part",
+    "/tmp/eli-little-prince-reference-20261023/little-prince.fhls-19968.mp4.ytdl"
+  ],
+  "findings": [
+    "Author states 16 days of development.",
+    "Author workflow assigns PRD to Fable 5.1, reference images to Image 2.5, core 3D assets to Tripo, core code to Opus 5.5, iterative optimization and bug fixes to Astra.",
+    "Author uses Blender, paid Auto-Rig Pro, Mixamo motions and Unity.",
+    "Visual samples show cloud-top grass landscapes, sunset, palace, theater, library, rose garden, fox, train and desert scenes. These samples do not prove full-game quality or model-specific causation."
+  ],
+  "intermediates": "Interrupted 4K and 720p downloads remain as exact recorded partial files; no existing assets were modified or deleted."
+}

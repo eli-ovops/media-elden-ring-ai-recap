@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2880
+			},
+			"text": "不过我为什么忽然想要做游戏呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,880",
+				"to": "00:00:04,320"
+			},
+			"offsets": {
+				"from": 2880,
+				"to": 4320
+			},
+			"text": "其实是有原因的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,320",
+				"to": "00:00:07,800"
+			},
+			"offsets": {
+				"from": 4320,
+				"to": 7800
+			},
+			"text": "因为前几天我刷到有大神"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,800",
+				"to": "00:00:10,640"
+			},
+			"offsets": {
+				"from": 7800,
+				"to": 10640
+			},
+			"text": "用opus5.5做了一个小王子啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,160",
+				"to": "00:00:14,400"
+			},
+			"offsets": {
+				"from": 11160,
+				"to": 14400
+			},
+			"text": "他的那个小王子有云海上的草地"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,400",
+				"to": "00:00:15,640"
+			},
+			"offsets": {
+				"from": 14400,
+				"to": 15640
+			},
+			"text": "还有弓墊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,640",
+				"to": "00:00:17,080"
+			},
+			"offsets": {
+				"from": 15640,
+				"to": 17080
+			},
+			"text": "还有玫瑰花园"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,080",
+				"to": "00:00:18,760"
+			},
+			"offsets": {
+				"from": 17080,
+				"to": 18760
+			},
+			"text": "我看完了我就想过"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,760",
+				"to": "00:00:21,200"
+			},
+			"offsets": {
+				"from": 19760,
+				"to": 21200
+			},
+			"text": "为什么我不能试一下呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,200",
+				"to": "00:00:23,040"
+			},
+			"offsets": {
+				"from": 21200,
+				"to": 23040
+			},
+			"text": "然后我就开始尝试"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,840",
+				"to": "00:00:27,000"
+			},
+			"offsets": {
+				"from": 23840,
+				"to": 27000
+			},
+			"text": "这个作者他总共花了16天"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,000",
+				"to": "00:00:28,160"
+			},
+			"offsets": {
+				"from": 27000,
+				"to": 28160
+			},
+			"text": "然后结合了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,160",
+				"to": "00:00:30,160"
+			},
+			"offsets": {
+				"from": 28160,
+				"to": 30160
+			},
+			"text": "claw的然后austra"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,160",
+				"to": "00:00:32,160"
+			},
+			"offsets": {
+				"from": 30160,
+				"to": 32160
+			},
+			"text": "然后用austra再去"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,280",
+				"to": "00:00:34,800"
+			},
+			"offsets": {
+				"from": 33280,
+				"to": 34800
+			},
+			"text": "运用那些blander"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,440",
+				"to": "00:00:38,160"
+			},
+			"offsets": {
+				"from": 35440,
+				"to": 38160
+			},
+			"text": "最终完成了优化和修Bug"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,680",
+				"to": "00:00:40,520"
+			},
+			"offsets": {
+				"from": 38680,
+				"to": 40520
+			},
+			"text": "然后才能呈现出来我们"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,920",
+				"to": "00:00:42,680"
+			},
+			"offsets": {
+				"from": 40920,
+				"to": 42680
+			},
+			"text": "最终看到的小王子"
+		}
+	]
+}

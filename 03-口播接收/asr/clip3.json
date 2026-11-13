@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,020"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5020
+			},
+			"text": "玩过爱顿法环的玩家应该都还记得有一个东西叫大树手"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,020",
+				"to": "00:00:05,440"
+			},
+			"offsets": {
+				"from": 5020,
+				"to": 5440
+			},
+			"text": "卫"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,440",
+				"to": "00:00:08,440"
+			},
+			"offsets": {
+				"from": 5440,
+				"to": 8440
+			},
+			"text": "真的是每个新手的恶梦啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,440",
+				"to": "00:00:15,440"
+			},
+			"offsets": {
+				"from": 8440,
+				"to": 15440
+			},
+			"text": "然后前两天我让我的Codex帮我付科了一半大树手"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,440",
+				"to": "00:00:16,040"
+			},
+			"offsets": {
+				"from": 15440,
+				"to": 16040
+			},
+			"text": "卫"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,040",
+				"to": "00:00:22,330"
+			},
+			"offsets": {
+				"from": 16040,
+				"to": 22330
+			},
+			"text": "我用的模型是Astra还有Soul6.1的Aut"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,330",
+				"to": "00:00:22,640"
+			},
+			"offsets": {
+				"from": 22330,
+				"to": 22640
+			},
+			"text": "ra"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,640",
+				"to": "00:00:24,600"
+			},
+			"offsets": {
+				"from": 22640,
+				"to": 24600
+			},
+			"text": "然后折腾了整整三天"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,600",
+				"to": "00:00:28,280"
+			},
+			"offsets": {
+				"from": 24600,
+				"to": 28280
+			},
+			"text": "花了差不多70个亿左右的Token"
+		}
+	]
+}

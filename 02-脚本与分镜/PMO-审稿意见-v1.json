@@ -1,0 +1,38 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "02",
+  "decision": "NEEDS_TARGETED_REVISION",
+  "at": "2026-10-23T10:17:14.980923+08:00",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/完整口播稿-v1.md",
+      "sha256": "feabcbc85f3a99b410161753b6bc9b06816feef19a8f9edf0ff9530a1d258a94",
+      "owner_report_hash_match": true,
+      "pmo_read_full": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/画面与节奏-v1.md",
+      "sha256": "fd4aaea653ea303f680a11e750100b1298291e5e0230f2a4a25ceb9f7f1ac9d8",
+      "owner_report_hash_match": true,
+      "pmo_read_full": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/事实与素材核对-v1.md",
+      "sha256": "19b755a56cc6bafb61c21485586d0bcba93466aaf1df5b8f08cfa2836cce8800",
+      "owner_report_hash_match": true,
+      "pmo_read_full": true
+    }
+  ],
+  "facts": "Key source/number boundaries accepted for draft; no continuous audiovisual acceptance or recording implied.",
+  "issues": [
+    "正文两处辩解式边界改留后台，口播自然明确账号三天总用量。",
+    "开头缩短并按说到谁就展示谁，避免小王子语义下切我方导致归属混淆。",
+    "去除空泛强调，将期待聚焦大树守卫一关，标题与估时随轻修同步。"
+  ],
+  "preserved_scope": "原主线、真实图片/数字、16天多工具含Astra事实、用户失望与结尾均保留。",
+  "revision_owner": "02/01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "target_revision": "v1.1",
+  "new_production_authorized": false,
+  "publication_authorized": false
+}

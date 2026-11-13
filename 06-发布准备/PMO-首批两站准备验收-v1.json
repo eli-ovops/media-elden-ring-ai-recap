@@ -1,0 +1,23 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "06",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "仅用户最新要求就绪即发的首批B站、YouTube准备，非原九站全体完成；其余未完成保留。",
+  "scope_human_source": "本聊天用户最新原话：准备好了就直接发送吧，我要睡觉了。你直接帮我把能够发送的平台直接先发送了",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-five-tags-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-five-tags-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/PMO-平台准备阶段验收-v5.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/就绪平台发布授权补充-v2.json"
+  ],
+  "remaining_required_work": [],
+  "retained_unfinished_outside_this_batch": [
+    "抖音当前聊天空白入口需恢复",
+    "小红书保存UNKNOWN",
+    "微博/LinkedIn/X/TikTok未准备",
+    "视频号安全限制本人手动"
+  ],
+  "retained_review_limits": "不增加直接听音/连续声画PASS，不改原05限定结论。",
+  "native_tag_changes": "两站已核五个准确标签；YouTube正文同样使用用户明确给定简体tag而保留繁体正文。"
+}

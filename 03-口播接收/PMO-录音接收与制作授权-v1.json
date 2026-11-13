@@ -1,0 +1,24 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "03",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "EXPAND_AUTHORIZED_INTAKE_TO_RECORDED_SPEECH_AND_FULL_PRODUCTION",
+  "at": "2026-10-23T15:25:26.040243+08:00",
+  "human_source": "用户本轮上传三条原片并明确：部分稿子已删，按实际语音表达，开始剪辑制作整套流程。",
+  "preserved_scope": [
+    "所有原片/来源/旧稿保护",
+    "已验16份游戏实材与GitHub公开来源复用",
+    "同02/04/05串行必要阶段，无新Owner"
+  ],
+  "changed_scope": [
+    "实际录音替代v2正文和估计时钟",
+    "本条整片制作/内部质检授权已明确",
+    "ChatCut本期可辅助，但Fred v2组件与质感要求保持"
+  ],
+  "not_authorized": [
+    "公开发布",
+    "新增费用/私有云上传/读取秘密",
+    "修改游戏工程或其他内容",
+    "恢复Grok及旧自动化"
+  ]
+}

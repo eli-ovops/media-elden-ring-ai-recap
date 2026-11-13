@@ -1,0 +1,54 @@
+{
+  "at": "2026-10-23T16:47:39.680927+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "human_source": "本聊天用户：继续你的工作，刚才闪退了",
+  "owner_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "snapshot": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"timedOut\":false,\"wake\":{\"reason\":\"inactiveStatus\",\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\",\"hostId\":\"local\"},\"polls\":[{\"schemaVersion\":1,\"cursor\":\"5b8fceef-5e3b-4de4-8097-454a01e85d7c:1\",\"revision\":1,\"changed\":true,\"cursorReset\":true,\"thread\":{\"id\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\",\"hostId\":\"local\",\"status\":{\"type\":\"notLoaded\"}},\"latestTurn\":{\"id\":\"01a167ba-953a-7213-aa5d-ecfec6edb0d2\",\"status\":\"interrupted\",\"error\":null,\"startedAt\":1792741643,\"completedAt\":1792744723,\"durationMs\":3080079},\"latestAssistantMessageId\":\"msg_0b4559065a954fa8016adb1bcdd6148191b529f4c5684df830\",\"latestAssistantMessage\":{\"id\":\"msg_0b4559065a954fa8016adb1bcdd6148191b529f4c5684df830\",\"turnId\":\"01a167ba-953a-7213-aa5d-ecfec6edb0d2\",\"phase\":\"commentary\",\"text\":\"两张横版的遮字问题已修正，四版均保留黑色“三天后”、紫色“长这样”和本人身份参考。接下来规范为要求的精确尺寸，并保存提示词、输入来源和哈希；整片仍在渲染中。\"},\"latestToolMarkerId\":\"exec-8b8c9809-9f06-4027-8be8-151f27692c1f\",\"latestToolMarker\":{\"id\":\"exec-8b8c9809-9f06-4027-8be8-151f27692c1f\",\"turnId\":\"01a167ba-953a-7213-aa5d-ecfec6edb0d2\",\"type\":\"commandExecution\",\"name\":\"commandExecution\",\"status\":\"completed\"}}]}"
+      }
+    ],
+    "isError": false
+  },
+  "observed_existing_outputs": [
+    "output/full-picture-v1.mp4",
+    "covers/cover-3x4-1080x1440-v1.png",
+    "covers/cover-9x16-1080x1920-v1.png",
+    "covers/cover-16x9-1920x1080-v1.png",
+    "covers/cover-4x3-1440x1080-v1.png",
+    "covers/dimensions-sha.json",
+    "Manifest.json"
+  ],
+  "render_log": "evidence/render-full-v1.log末行DONE，尚不代替完整性/声画验收",
+  "active_render_processes_found": false,
+  "scope": "原04在现有完整画面/封面基础上收尾音轨、必要自检与完整交付，已有代表片段放行持续有效，不重派01/02/05，不恢复其他内容或发布",
+  "quota": {
+    "ordinary_usage_allowed": true,
+    "weekly_used_percent": 38,
+    "five_hour_window": "UNKNOWN"
+  },
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "status": "TOOL_ACCEPTED_AWAIT_OWNER_REPORT",
+  "resume_tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "owner_received": "UNKNOWN",
+  "coordination_note": {
+    "source_thread_id": "01a123a1-2a77-77d3-a812-dcf71bd743d6",
+    "received": "协调PMO主动告知其亦对同interrupted断点发过一次续接",
+    "same_scope_resume_messages": 2,
+    "handling": "已同步本片由主PMO接报告/验收/释放05；不再给04第三次派单，不新建Owner，不因两个消息重做成片",
+    "receipt_boundary": "协调方声称已工具接受，本PMO未另查其原始发送回执"
+  }
+}

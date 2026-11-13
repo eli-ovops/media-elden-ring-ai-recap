@@ -1,0 +1,57 @@
+{
+  "at": "2026-10-23T17:48:11.082526+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "05",
+  "owner_thread_id": "01a11a79-f636-7823-9350-3c5f7526e6c7",
+  "host_id": "local",
+  "pre_dispatch_snapshot": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"timedOut\":false,\"wake\":{\"reason\":\"inactiveStatus\",\"threadId\":\"01a11a79-f636-7823-9350-3c5f7526e6c7\",\"hostId\":\"local\"},\"polls\":[{\"schemaVersion\":1,\"cursor\":\"8b7b345a-32f1-442d-ace5-157e6d46a014:1\",\"revision\":1,\"changed\":true,\"thread\":{\"id\":\"01a11a79-f636-7823-9350-3c5f7526e6c7\",\"hostId\":\"local\",\"status\":{\"type\":\"notLoaded\"}},\"latestTurn\":{\"id\":\"01a15ef2-b56e-7e23-b911-745b6f6f689c\",\"status\":\"completed\",\"error\":null,\"startedAt\":1792594326,\"completedAt\":1792594466,\"durationMs\":139553},\"latestAssistantMessageId\":\"msg_012ee63031d21f92016ad8d21f6a0c8191a5ec01074003a7f4\",\"latestAssistantMessage\":{\"id\":\"msg_012ee63031d21f92016ad8d21f6a0c8191a5ec01074003a7f4\",\"turnId\":\"01a15ef2-b56e-7e23-b911-745b6f6f689c\",\"phase\":\"final_answer\",\"text\":\"v2定向补验通过：Q1标题/Star出画、Q2截图交接闪白均已修复，17/20/22秒抽查未见新增退化。报告已发送PMO。 连续声画与直接听音仍未核实，不作全项PASS。 复核报告\"},\"latestToolMarkerId\":\"exec-47495ef9-378e-42a3-b07d-e311013b2e56\",\"latestToolMarker\":{\"id\":\"exec-47495ef9-378e-42a3-b07d-e311013b2e56\",\"turnId\":\"01a15ef2-b56e-7e23-b911-745b6f6f689c\",\"type\":\"fileChange\",\"name\":\"fileChange\",\"status\":\"completed\"}}]}"
+      }
+    ],
+    "isError": false
+  },
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "reason": "当前完整视频的首次独立视觉与声画证据检查，按视觉Astra优先，不需要高强度重制",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "quota": {
+    "weekly_used_percent": 40,
+    "ordinaryUsageAllowed": true,
+    "five_hour_window": "UNKNOWN"
+  },
+  "status": "COMPLETED_REPORTED_PMO_SCOPED_REVIEW_ACCEPTED",
+  "user_final_review": "PENDING",
+  "publication_authorized": false,
+  "at_dispatched": "2026-10-23T17:49:29.587839+08:00",
+  "gate_release": {
+    "chunk_id": "92158f",
+    "wall_time_seconds": 0.163948,
+    "exit_code": 0,
+    "original_token_count": 17,
+    "output": "{\"saved\": true, \"active_content\": \"elden-ring-ai-recap-20261023\"}\n"
+  },
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a79-f636-7823-9350-3c5f7526e6c7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "owner_report_received": true,
+  "pre_dispatch_cursor": "8b7b345a-32f1-442d-ace5-157e6d46a014:1",
+  "current_video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "owner_report_received_at": "2026-10-23T18:05:57.833550+08:00",
+  "owner_report": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/审查-v2.md",
+    "sha256": "068a41f02722e2826375ff7f3ff2d67895d2e7b8b54f9843cc6425cc111cd595",
+    "owner_decision": "SCOPED_VISUAL_REVIEW_NO_NEW_MUST_FIX"
+  },
+  "pmo_acceptance": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO-独立质检接收-v2.json",
+  "formal_user_review": "PENDING"
+}

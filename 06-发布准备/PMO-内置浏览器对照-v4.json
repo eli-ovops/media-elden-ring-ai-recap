@@ -1,0 +1,74 @@
+{
+  "at": "2026-10-23T20:46:57.338078+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "user_authority": "现在试试",
+  "scope": "PMO只读跨聊天对照；无平台业务填写或上传",
+  "owner_evidence": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/浏览器恢复复测原始回执-v4.json",
+    "sha256": "f9c64b5b7b87b1385387442522b896728c787a5315b1918610328aeb5be2ce17",
+    "read_by_pmo": true,
+    "reported_result": "single createBrowserTab timed out at 60.0359s"
+  },
+  "pmo_calls": [
+    {
+      "code": "await cua.getState();",
+      "result": "IAB id2 bound to PMO current chat; tabs initially empty",
+      "wall_time_seconds": 0.8081
+    },
+    {
+      "code": "var pmoPublishReadV4 = await cua.createBrowserTab('iab', 'https://creator.douyin.com/creator-micro/content/manage', {visible:false});",
+      "result": "js execution timed out; kernel reset, rerun your request",
+      "wall_time_seconds": 60.0142
+    },
+    {
+      "code": "await cua.getState();",
+      "result": "same IAB id2; tab1 creator URL/title now listed; no page content read",
+      "wall_time_seconds": 0.9044
+    },
+    {
+      "code": "await (await pmoVisibleBrowserV4.capabilities.get('visibility')).set(true); var pmoShownTabV4 = await cua.getTab('1', {browser:'2'});",
+      "result": "js execution timed out; kernel reset, rerun your request",
+      "wall_time_seconds": 60.0251,
+      "timeout_substep": "UNKNOWN; combined call cannot prove visibility command completion"
+    },
+    {
+      "code": "var pmoDomTabV4 = await pmoDomBrowserV4.tabs.get('1'); nodeRepl.write({tabId:pmoDomTabV4.id, url:await pmoDomTabV4.url()});",
+      "result": {
+        "tabId": "1",
+        "url": "https://creator.douyin.com/creator-micro/content/manage"
+      },
+      "wall_time_seconds": 10.0218
+    },
+    {
+      "code": "nodeRepl.write(await pmoDomTabV4.playwright.domSnapshot());",
+      "result": "js execution timed out; kernel reset, rerun your request",
+      "wall_time_seconds": 30.0092
+    }
+  ],
+  "documentation_read": [
+    "browser-troubleshooting",
+    "visibility capability",
+    "selected IAB documented tabs/playwright API"
+  ],
+  "decision": "PAGE_CONTENT_READ_NOT_RESTORED_IN_OWNER_OR_PMO_CONTEXT",
+  "known_working_layer": "inventory, existing tab binding, URL metadata",
+  "unknown_layers": [
+    "actual page content",
+    "account login",
+    "existing posts/drafts",
+    "ability to upload/fill/save"
+  ],
+  "side_effects": {
+    "uploads": 0,
+    "filled_fields": 0,
+    "saved_drafts": 0,
+    "published": 0,
+    "native_apps_used": false,
+    "alternate_browser_used": false,
+    "permissions_or_network_changed": false,
+    "pmo_created_temporary_tabs": 1,
+    "tab_lifecycle": "agent-created temporary tab; normal end-of-turn cleanup not yet observed"
+  },
+  "business_acceptance": "06 remains incomplete; no stage approval; local nine-platform package retained"
+}

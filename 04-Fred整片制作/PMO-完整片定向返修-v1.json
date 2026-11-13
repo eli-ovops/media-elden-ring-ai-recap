@@ -1,0 +1,143 @@
+{
+  "at": "2026-10-23T17:11:43.701019+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "REQUEST_TARGETED_REVISION",
+  "input_output": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v1.mp4",
+    "sha256": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0"
+  },
+  "review_scope": "已审当前完整片的6张133帧联系表、原T14e/T17c参考与源码差异、四封面原图及代表段；另为竖屏疑点提取2张原源全宽帧做有限对照。不是连续视听或直接听音。",
+  "findings": [
+    {
+      "id": "C1",
+      "severity": "MUST_FIX",
+      "global_range_seconds": [
+        39.393333,
+        42.633333
+      ],
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-frames/sample-052.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/PMO-crop-review-v1/prince-source-8.607.png"
+      ],
+      "problem": "整片42.0秒中心cover把在原源完整可见的小王子裁在右边缘，仅局部头/身体。原源8.606667秒人物位于右侧，属于本期再裁切造成的主体丢失。",
+      "required": "适配连续云海段取景或跟随主体，人物与草地/云海关系清楚；不要长期用一成不变小窗掩盖。"
+    },
+    {
+      "id": "C2",
+      "severity": "MUST_FIX",
+      "global_boundary_seconds": 39.393333,
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/full-index.tsx"
+      ],
+      "problem": "前一Prince片段32.55—39.393从原源2秒播放，末尾到约8.843秒；下一段39.393—42.633重新从6秒开始，回跳约2.843秒并重复步行。两段实际是同一云海媒体，不应无理由重置播放时钟。",
+      "required": "为32.55—42.633秒选择一次连续且合语义的源范围，或以确有表达理由的不同镜头明确交接；保证媒体末首时钟、裁切和主体连续，不伪装循环。"
+    },
+    {
+      "id": "C3",
+      "severity": "MUST_FIX",
+      "global_range_seconds": [
+        66.6,
+        70.5
+      ],
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-frames/sample-083.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/final-frames/sample-084.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/PMO-crop-review-v1/prince-source-45.333.png"
+      ],
+      "problem": "原源45.333秒小王子在左、狐狸在右同框，英文句子完整；本期中心cover把小王子完全裁出，狐狸挤到右边，背景英文半截。不是仅无关英文缺失，原对象关系也丢失。",
+      "required": "用适配本段的较宽取景或另一个完整对象关系的真实镜头恢复小王子与狐狸同框；兼顾源文字完整或选没有残缺字的镜头。不能只将此列限制后放行。"
+    }
+  ],
+  "preserve_scope": [
+    "冻结原声master/EDLv2/39条SRT、104.016667秒6241帧及1倍速",
+    "已通过T14e代表段20.4—32.55秒、T17c完整源码/kit/动作",
+    "未受影响真人、实材镜头及两端接缝",
+    "当前四封面，其中9x16用v2；PMO已查看，未改三张哈希一致"
+  ],
+  "next_owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "next_action": "同04定向返修，交新版本完整MP4+新Manifest/SHA/播放入口；可安全局部渲染则优先，但精确拼接/时钟优先于盲目stream-copy。只新增受影响区间与相邻接缝证据，不重跑ASR或未变全片测试。05尚未释放。",
+  "outstanding_capabilities": {
+    "direct_hearing": "UNKNOWN",
+    "continuous_AV": "UNKNOWN",
+    "user_acceptance": "PENDING"
+  },
+  "dispatch": {
+    "tool_result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\"}"
+        }
+      ],
+      "isError": false
+    },
+    "status": "TOOL_ACCEPTED",
+    "owner_received": "UNKNOWN",
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "identity_check": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/PMO-v1-identity-check.json",
+  "review_details": {
+    "actual_output_observations": {
+      "fullOutputSha": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0",
+      "reviewedContacts": [
+        "contact-1.jpg",
+        "contact-2.jpg",
+        "contact-3.jpg",
+        "contact-4.jpg",
+        "contact-5.jpg",
+        "contact-6.jpg"
+      ],
+      "coversCurrent9x16": "cover-9x16-1080x1920-v2.png",
+      "cover9x16Sha": "efa41ceaebb268829be101d61d6aab5fb01ba3f5037d0382e2194127ab17f883",
+      "sourceBindingCheck": "evidence/PMO-v1-identity-check.json",
+      "clearChecks": [
+        "三条真人与原型/历史测试/引用短片交替，不是全片文字PPT；0.7秒测试只一次。",
+        "账号总量69.4亿与黑紫主卡、后段源码/Release目录树主题清楚；原始源头和成熟组件完整调用链成立。",
+        "全片字幕在已检样本中不压眼镜/嘴部；无新增旧稿语句的画面文字强塞。",
+        "四封面原图/手机号缩图、字色与艺术照身份、尺寸/当前SHA对上；9x16v2已修武器右缘。"
+      ],
+      "unresolved": "C1/C2/C3已经同一批交04定向修复，不批准原v1整片；直接听音/连续AV UNKNOWN，不虚填。"
+    },
+    "source_comparison": {
+      "reviewedAt": "2026-10-23 during crash-resume",
+      "paths": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/full-index.tsx",
+        "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T17c-FileTree.tsx",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T17c-FileTree.tsx"
+      ],
+      "observations": [
+        "完整源文件另为full-index.tsx，代表段index.tsx仍保留；两者没有用同一路径覆盖，历史代表段源码SHA可追。",
+        "完整片以三条静音视频沿源时钟作底，游戏短静帧/0.7秒真实历史测试及小王子参考穿插；声音未由这三个Video重复播放。",
+        "T14e AccountScene延续已验代表段参数；T17c HandoffScene真实import/FileTree调用，不是借编号手写近似卡片。",
+        "原T17c到本期差异限竖屏LH/FS与最大宽920、中心点540/970、SVG1080×1920、wipe边界1080及去未核音效；树展开w/shown/ys/lines、原位黑条反白机制保留。"
+      ],
+      "limits": "源审不能代替实际导出画面/运动/听音，完整MP4交付报告到达后绑定版本并审实际证据。"
+    },
+    "prior_cover_comparison": {
+      "scope": "四张已保存PNG的完整图视觉核对；非用户认可或平台裁切验收",
+      "files": [
+        "cover-3x4-1080x1440-v1.png",
+        "cover-9x16-1080x1920-v1.png",
+        "cover-16x9-1920x1080-v1.png",
+        "cover-4x3-1440x1080-v1.png"
+      ],
+      "outcome": "SCOPED_PASS",
+      "observations": [
+        "四张均为白底、黑色AI复刻大树守卫/三天后、紫色长这样，逐字正确；未写游戏独占70亿。",
+        "与本轮已查看入选图2/图5艺术照对照，眼镜、脸形、眉眼与本人可辨识；灰色连帽衫/掌托或指向骑兵为本期新姿势，未沿用固定棕西装坐姿。",
+        "四比例为独立构图：竖版大标题在上、真人及骑兵在下；16:9左文字右真人/骑兵；4:3真人在右指向掌上小骑兵。",
+        "标题、眼睛、眼镜、面部无明显遮挡或双重轮廓；9:16右侧武器有少量出画，核心骑乘主体和标题完整，平台自动裁切仍未验。",
+        "不是把视频kit卡片当作封面；不同画幅没有变形拉伸现象。"
+      ],
+      "remaining": "最终文件SHA与当前dimensions-sha.json/04正式交付版本绑定；05独立检查待做。"
+    },
+    "current_cover_update": "本轮另实际查看9x16-v2完整图及current phone-review.jpg，武器边缘已修，标题/身份成立；旧v1武器出画注记不再描述当前v2",
+    "handoff_phone_view": "已查看实际最终sample-113.png 360×640，Source/Content/blender/export与中文注释在手机尺度可辨；黑条中态与原机制一致",
+    "preservation_boundary": "以上为未变范围的已做PMO检查；不能代替05独立层/连续AV/直接听音，也不对C1/C2/C3授予通过"
+  }
+}

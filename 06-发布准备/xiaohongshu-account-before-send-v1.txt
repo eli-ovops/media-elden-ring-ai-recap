@@ -1,0 +1,100 @@
+- button "打开创作助手":
+- generic: 创作服务平台
+- generic: Eli AI FDE
+- main:
+  - generic: 发布笔记
+  - generic: 首页
+  - generic: 笔记管理
+  - generic: Builder hub
+  - generic: 小工具
+  - generic: Red Skill
+  - generic: 数据看板
+  - generic: 活动中心
+  - generic: 笔记灵感
+  - generic: 创作学院
+  - generic: 创作百科
+  - generic: 收起侧边栏
+  - generic: 全部 20
+  - generic: 已发布
+  - generic: 审核中
+  - generic: 未通过
+  - textbox "搜索已发布的笔记"
+  - generic: 01:34
+  - generic: DeepSeek把省钱引擎开源了
+  - generic: 2026-10-21 14:57
+  - generic: "144"
+  - generic: "0"
+  - generic: "3"
+  - generic: "1"
+  - generic: "0"
+  - generic: 02:30
+  - generic: AI认知漏斗，你在第几层？
+  - generic: 2026-10-20 21:17
+  - generic: "49"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: 01:35
+  - generic: 做大决定前，先让AI反对你
+  - generic: 2026-10-20 09:44
+  - generic: "112"
+  - generic: "0"
+  - generic: "1"
+  - generic: "1"
+  - generic: "1"
+  - generic: 01:53
+  - generic: 155个App拒绝了豆包
+  - generic: 2026-10-17 13:44
+  - generic: "1"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: 01:42
+  - generic: 千问Go：AI开始替你跑腿了？
+  - generic: 2026-10-14 13:37
+  - generic: "6"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: 00:15
+  - generic: 把AI用起来｜我是Eli
+  - generic: 2026-10-10 19:29
+  - generic: "85"
+  - generic: "0"
+  - generic: "1"
+  - generic: "0"
+  - generic: "1"
+  - generic: 04:32
+  - generic: 没人脉、没资源，普通人怎么抓住AI机会？
+  - generic: 2026-10-09 19:10
+  - generic: "376"
+  - generic: "1"
+  - generic: "4"
+  - generic: "1"
+  - generic: "2"
+  - generic: 00:59
+  - generic: GitHub高性价比人生指南
+  - generic: 2026-10-08 21:54
+  - generic: "117"
+  - generic: "0"
+  - generic: "1"
+  - generic: "0"
+  - generic: "0"
+  - generic: 我的像素风 App，终于能试玩了🌍
+  - generic: 2026-09-09 16:45
+  - generic: "55"
+  - generic: "0"
+  - generic: "1"
+  - generic: "2"
+  - generic: "0"
+  - generic: 我的像素风 App，终于能试玩了🌍
+  - generic: 2026-09-09 11:07
+  - generic: "54"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: "0"
+  - generic: 正在加载中...

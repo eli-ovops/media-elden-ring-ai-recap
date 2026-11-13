@@ -1,0 +1,75 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "target_stage": "02",
+  "decision": "PASS_BASELINE_ONLY",
+  "at": "2026-10-23T10:05:06.218440+08:00",
+  "human_change_source": "本聊天2026-10-23用户明确：就按这个方向，让02写一版完整口播稿，把小王子和我的大树守卫对比、三天多和近70亿tokens的反差讲出来，画面和节奏也规划好，先给我看稿。",
+  "preserved_scope": "用户已选题；PMO已读取的原帖、完整作者教程、全片32张采样和用户统计图作为写稿输入。不是虚构01曾执行任务，也不批准制作或发布。",
+  "known_defects": [
+    "63.46秒参考仅480x270及每约2秒视觉采样，未连续视听或实际试玩。",
+    "69.4亿为三天账号合计，单项目归因和缓存/价格未知。",
+    "我方连续游戏录屏尚未采集；动作规划待实际拍录。",
+    "第三方是16天多工具组合且包括Astra，不能据此归因单模型能力。"
+  ],
+  "prior_stage_evidence": {
+    "01": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/来源文件清单.json",
+        "sha256": "5e57677a3cb2401a321d0c6cf6f67ab5fb29d42989410dd4bc5f793b48c76dc7"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/Sac-制作教程原文.txt",
+        "sha256": "3e724654ea0bec5353d9040d9ccf70ee1fe40754712d17d5b68541c9524066be"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-samples-02.jpg",
+        "sha256": "71cb5bcc5bbc59b19d32ba1714e08350b5b759ccb5209023430a46c296c86875"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-goal-timer.png",
+        "sha256": "0db4e6e7708172d12e557dd015e9d2ddc7feadf4844324d7d8b7f2137709900d"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-samples-01.jpg",
+        "sha256": "7f9e54537b1f4e48604a938275df8b8aad5088e4c6fff6db43c2e129f9adb90a"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261019.png",
+        "sha256": "6a5c863272347d0f6e4c680d92415f82fe1a0368ef9df2ac06d31ad12469b8e9"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261020.png",
+        "sha256": "261fc2d4b2135ebdf72ffdc2376018113e9943971c7c1a68b3172aefbd0c0a66"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261021.png",
+        "sha256": "a636d6e1e27a4d24548ecc0caf546958f04db69cbd3b675592f1bb88e8eb4b87"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/对标读取记录.json",
+        "sha256": "fdf65f414e0dcdadf125594af0082b749f4d9451f7d02bef94f86abb2343655c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/own-player-p82.png",
+        "sha256": "9e20c6e93d825afabdf42869ea8fa81331469af100deeb08242a3a7c03f45e8c"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/own-gameplay-20261023.png",
+        "sha256": "5750166fe8a118ac60a3099e2491777b53dea28f62a92901717a9840f4395e4e"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-reference-480x270.mp4",
+        "sha256": "f1222e3471b28a55c8bf51bc852951965663c5749aca2a3126112e10df6457a9"
+      }
+    ]
+  },
+  "evidence_read": [
+    "本轮已保存的11项来源清单及哈希",
+    "先前本聊天直接读原帖与完整制作教程",
+    "32张覆盖0至62秒采样画面",
+    "用户四张目标计时/账号Token截图",
+    "我方游戏实际画面两张"
+  ],
+  "remaining_required_work_for_script_input": []
+}

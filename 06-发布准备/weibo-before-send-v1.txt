@@ -1,0 +1,63 @@
+- generic: 视频发布
+- generic: 上传视频
+- generic: 发布≥1080P视频，获得更多曝光机会
+- text: 
+- text: 
+- generic: 
+- generic: 上传完成
+- generic: 140.93MB/ 140.93MB
+- generic: 上传字幕删除
+- generic: 类型*
+- radio "原创" [checked]
+- generic: 原创
+- radio "二创"
+- generic: 二创
+- generic: 内容声明*
+- generic "含AI生成内容":
+  - generic: 含AI生成内容
+  - generic: 
+- generic: 标题
+- textbox "填写标题（0～30个字）": 用AI折腾三天，我的大树守卫长这样
+- generic: 16/30
+- link "上传封面":
+  - /url: ""
+- link "裁剪封面":
+  - /url: ""
+- emphasis
+- generic: 可选择以下封面
+- button:
+- generic: 视频文件中截取的封面需要等待文件上传完毕才可选择，你也可以上传自定义封面图
+- generic: 分类
+- generic: 请选择合适的频道
+- generic: 
+- generic: 合集
+- generic: 
+- checkbox
+- switch
+- generic: 关联原视频
+- generic: 为二创视频关联原始完整视频
+- checkbox
+- switch
+- generic: 划重点
+- button "给视频添加重点":
+  - generic: 给视频添加重点
+- generic: 设置
+- generic: 允许剪辑
+- generic: 
+- checkbox [checked]
+- switch
+- generic: 设置微博内容
+- textbox "有什么新鲜事想分享给大家？": "想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？ #AI# #游戏开发# #艾尔登法环# #agent# #codex#"
+- generic: "127"
+- generic: 
+- generic: 表情
+- generic: 话题
+- generic: 地点
+- generic "定时微博":
+- img "定时微博"
+- generic "公开"
+- generic: 
+- button "发布":
+  - generic: 发布
+- generic: 
+- text:   

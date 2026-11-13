@@ -1,0 +1,103 @@
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- link:
+  - /url: https://www.tiktok.com
+- region "Notifications"
+- button:
+- generic: 作品 25
+- generic: 草稿 1
+- generic: 观看次数
+- generic: 赞
+- generic: 评论
+- generic: 隐私
+- textbox:
+  - /placeholder: 搜索作品描述
+- button "内容 (创建时间)":
+  - generic: 内容 (创建时间)
+- generic: 隐私
+- button "观看次数":
+  - generic: 观看次数
+- button "赞":
+  - generic: 赞
+- button "评论":
+  - generic: 评论
+- generic: 操作
+- generic: 01:44
+- 'link "用AI折騰三天，我的大樹守衛長這樣 想讓AI幫我做個大樹守衛，折騰三天多，結果跟想像的差得有點遠。 這次用Astra和Sol 6.1 Ultra從零做遊戲原型：把這次實際做出的樣子和踩過的坑，放出來做一次真實復盤。 你覺得現在的AI，離做出你願意玩的遊戲還差哪一步？ #AI #游戏开发 #艾尔登法环 #agent #codex"':
+  - /url: /@elimakesapps/video/7699897661360442676
+- generic: 内容审查中
+- button "仅自己":
+  - generic: 仅自己
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:34
+- 'link "DeepSeek把省錢引擎開源了。 AI更便宜，不只靠模型。讓顯卡少干等，同樣算力才有機會接更多任務。這次DeepInfer開放了什麼，又有哪些配套還要做？ #DeepSeek #AI #人工智慧 #開源"':
+  - /url: /@elimakesapps/video/7699008468958645510
+- generic: 10月21日 14:45
+- button "所有人":
+  - generic: 所有人
+- generic: "97"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 02:30
+- 'link "AI認知漏斗，你在第幾層？ 有人只跟AI聊天，有人已經讓它做專案。差距只是提示詞嗎？2分半動畫，看懂Karpathy的「AI認知漏斗」。 #AI #人工智慧 #AIAgent"':
+  - /url: /@elimakesapps/video/7698739733651934465
+- generic: 10月20日 21:22
+- button "所有人":
+  - generic: 所有人
+- generic: "115"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:35
+- 'link "做大決定前，先讓AI反對你 AI很容易順著你說能。這三段提示詞逼它把風險說出來，原文在置頂留言，先收藏！ #AI #ChatGPT #AI工具 #prompt #職場 #知識分享"':
+  - /url: /@elimakesapps/video/7698547532716100885
+- generic: 10月20日 8:56
+- button "所有人":
+  - generic: 所有人
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:53
+- 'link "155個App拒絕了豆包 AI想幫你點外賣，平台說不行。據澎湃新聞10月14日報導，有155款App對豆包的螢幕自動化操作說不同意，連DeepSeek也在名單上。 我看就三件事：入口、數據、安全。 不是AI行不行，是平台讓不讓。你怎麼看？ #豆包 #AI #人工智慧 #科技 #AI助理 #網路平台"':
+  - /url: /@elimakesapps/video/7697510164198329620
+- generic: 10月17日 13:50
+- button "所有人":
+  - generic: 所有人
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:42
+- 'link "千問Go：AI開始替你跑腿？ 從買冰箱的公開案例，看個人AI助理怎樣把比價、問客服、查費用和設提醒串起來。你最想讓AI幫你辦什麼？ #qwen #AI #人工智慧 #AIAgent #AI工具"':
+  - /url: /@elimakesapps/video/7696397289497070856
+- generic: 10月14日 13:52
+- button "所有人":
+  - generic: 所有人
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 00:15
+- 'link "把AI用起來｜我是Eli 我是Eli，分享AI實用方法、專案經驗和踩坑過程。一起把AI用進真實任務。 #AI #人工智能 #AI工具 #Agent #FDE"':
+  - /url: /@elimakesapps/video/7695017220467952904
+- generic: 10月10日 20:36
+- button "所有人":
+  - generic: 所有人
+- generic: "94"
+- generic: "2"
+- generic: "0"
+- button:

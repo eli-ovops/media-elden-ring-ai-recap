@@ -1,0 +1,97 @@
+{
+  "status": "SCOPED_VISUAL_REVIEW",
+  "current": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-1080x1440-v1.png",
+      "sha256": "8a69eea37520d328c357f6b06402a761c5184b6a46f2f020aea85778af944209",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-1080x1920-v2.png",
+      "sha256": "efa41ceaebb268829be101d61d6aab5fb01ba3f5037d0382e2194127ab17f883",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-1920x1080-v1.png",
+      "sha256": "7f0ebac7e56d6c1b2b4aa760312d23d6aef7b9f6384449cbdb3fe244468211f3",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-1440x1080-v1.png",
+      "sha256": "25a49fecac543e306cd2cde90cce230a5dd8b910057f54a2197b8a64d0eee7e1",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "identityReference": {
+    "path": "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/02-思考分析-图5-深蓝衬衫.png",
+    "sha256": "d651ab6f21c37f604d80b27e93d80ef2374424206a6294fa19d067a361e551c9"
+  },
+  "prompts": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/16x9-fix-v2.json",
+      "sha256": "c8b6a72634a400c8a6c3866a69c62fb8510da1c784fe97d176fd18dfa0521fb3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/16x9-v1.json",
+      "sha256": "69f6ae2844d728fc04f1e0aece63facbe4ea2c3a50f05669d18605a4ffe3aa25"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/3x4-v1.json",
+      "sha256": "1b47e69320b2468e7368d28c6b0d27978f0561b01c0d7b79115e42b8118d886e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/4x3-fix-v2.json",
+      "sha256": "bd2c32206f709ef6661fb37eef146b0dba346f32774aaeba117389c759b924e1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/4x3-v1.json",
+      "sha256": "1cb660953f1dae16a81a44d25b89af7f9653fd165ee4abfe5381c4d1750e7fc5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/9x16-fix-v2.json",
+      "sha256": "7585d668505e8ab65cc13c8cedd472bcc22ea599e69e5eedaae09cd84b1762a1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/prompts/9x16-v1.json",
+      "sha256": "9b80ec7bb24f628953bab5d002edf596326b5e06e3f20d357fe1efda7d0ddd85"
+    }
+  ],
+  "generatedOriginals": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-generated-v1.png",
+      "sha256": "53a29e9edb2fcf9f78f9fff568049e1076af6d08780cb4c7ca7eac03cb35b466"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-generated-v2.png",
+      "sha256": "96f67aff7dd36a7d891a4a8cd79f84113775b53a737cb420ab89fb3ac3446083"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-generated-v1.png",
+      "sha256": "f205e333c01cb455fd9bde17f9c96b62a188b285126a22fff21eba31575184e2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-generated-v1.png",
+      "sha256": "a87299b50d3c268a451eea5a0b9008e23c3aa6d6aa6955c5d2c9652fc8ef2a24"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-generated-v2.png",
+      "sha256": "32744f4836cec01628548c219d0d17f3a367d212259043f4b9cf08360c56548f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-generated-v1.png",
+      "sha256": "33ea4c6145096d38fd55af1d23513fade13c13a1d78f31d63660ad4b4cea157c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-generated-v2.png",
+      "sha256": "553bb2fc965d3cf7ecd3dfc5e7fcbaff90fd2c84bb8932f6f6b49a2657193e6c"
+    }
+  ],
+  "method": "4 separate imagegen compositions plus 3 targeted imagegen corrections; proportional resizing and white padding only for exact output dimensions; no stretch or blind crop.",
+  "checks": "All four full images reviewed, exact dimensions verified. Latest 9x16 v2 corrected weapon edge; current titles remain AI复刻大树守卫 / 三天后 / 长这样 in black/black/purple. Identity likeness and subject/title margins inspected. Phone contact sheet contains current four outputs.",
+  "acceptance": "PMO/user PENDING",
+  "history": "9x16 normalized v1 and generated v1 variants retained as historical, excluded from delivery."
+}

@@ -1,0 +1,15 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "phase": "BLOCKED_PREPARATION_PARTIAL",
+  "receipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmo_acceptance": "UNKNOWN",
+  "sent_to_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444"
+}

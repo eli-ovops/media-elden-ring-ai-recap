@@ -1,0 +1,66 @@
+{
+  "speed": 1,
+  "duration": 104.01666666666667,
+  "segments": [
+    {
+      "attachment": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9d4b1a182e0f0074ff92bacbe2bbdc82_raw.mp4",
+      "source_in": 0.23333333333333334,
+      "source_out": 28.7,
+      "timeline_in": 0,
+      "timeline_out": 28.466666666666665,
+      "reason": "只收头尾明确低电平准备/收尾，距检测语音活动约0.2秒，句内不剪"
+    },
+    {
+      "attachment": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/ad772cd8d8dcac13349c4b5b0adcfed8_raw.mp4",
+      "source_in": 0.23333333333333334,
+      "source_out": 42.833333333333336,
+      "timeline_in": 28.466666666666665,
+      "timeline_out": 71.06666666666666,
+      "reason": "只收头尾明确低电平准备/收尾，距检测语音活动约0.2秒，句内不剪"
+    },
+    {
+      "attachment": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9a00fbddfbe4a52eb4e8e26fff93833d_raw.mp4",
+      "source_in": 0.55,
+      "source_out": 33.5,
+      "timeline_in": 71.06666666666666,
+      "timeline_out": 104.01666666666667,
+      "reason": "只收头尾明确低电平准备/收尾，距检测语音活动约0.2秒，句内不剪"
+    }
+  ],
+  "deleted": [
+    {
+      "attachment": 3,
+      "source_in": 0,
+      "source_out": 0.23333333333333334
+    },
+    {
+      "attachment": 3,
+      "source_in": 28.7,
+      "source_out": 28.973333
+    },
+    {
+      "attachment": 2,
+      "source_in": 0,
+      "source_out": 0.23333333333333334
+    },
+    {
+      "attachment": 2,
+      "source_in": 42.833333333333336,
+      "source_out": 43.025
+    },
+    {
+      "attachment": 1,
+      "source_in": 0,
+      "source_out": 0.55
+    },
+    {
+      "attachment": 1,
+      "source_in": 33.5,
+      "source_out": 34.475
+    }
+  ],
+  "precision": "视频60fps格点；句内无剪切；头尾依据图像采样及音轨能量，不冒充听核"
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePost": "https://x.com/Saccc_c/status/2109962425512734739",
+  "metadataFile": "/tmp/eli-little-prince-reference-20261023/little-prince.info.json",
+  "format": "http-2176",
+  "host": "video.twimg.com",
+  "path": "/amplify_video/2109941568253927424/vid/avc1/1280x720/ZkFG10_lYdABpHnh.mp4",
+  "method": "one anonymous normal HTTPS GET; no headers/cookie/proxy changes; no retry",
+  "limits": {
+    "bytes": 30000000,
+    "seconds": 45
+  },
+  "status": "DOWNLOADED",
+  "httpStatus": 200,
+  "bytes": 10726893,
+  "sha256": "b04b5947a52ad06b35ffd3e34ee3b050c20561bdb3cac6864f53e691a987c3a5",
+  "file": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/prince-720.mp4",
+  "elapsedSeconds": 11.213
+}

@@ -1,0 +1,66 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "03",
+  "scope": "本批16份真实素材接收及镜头增补",
+  "status": "BATCH_MAPPING_COMPLETE_PENDING_PMO",
+  "stage_complete": false,
+  "gate": {
+    "allowed": true,
+    "content": "elden-ring-ai-recap-20261023",
+    "stage": "03"
+  },
+  "source_manifest": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/取材清单-v1.json",
+  "asset_count": 16,
+  "source_bytes": 20006880,
+  "inspection_provenance": "沿PMO逐份SHA及12静图/4段全21帧接触表记录，本02只读清单，未重复提取或连续视听",
+  "montage": {
+    "seconds": 5.4,
+    "planned_range": [
+      28,
+      33.4
+    ],
+    "source_video_segments": [
+      {
+        "file": "动作测试/p11-walk-ue-20261021.mp4",
+        "in": 0,
+        "out": 0.7
+      },
+      {
+        "file": "动作测试/p13-r3-blender-walk-cycle.mp4",
+        "in": 0,
+        "out": 0.7
+      }
+    ],
+    "timing": "暂定，待本人录音对应，不增加100秒预算"
+  },
+  "pending": [
+    "本人原声",
+    "当前连续玩法",
+    "清晰第三方引用"
+  ],
+  "unknown": [
+    "用户三张截图具体版本/拍摄时间",
+    "实际model/effort/speed"
+  ],
+  "target_route": "gpt-6-astra/medium",
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261022-v3",
+    "CODEX-MEDIA-20261021-v2",
+    "ELI-PRODUCTION-20261022-v4",
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4"
+  ],
+  "unchanged": [
+    "v2三文件",
+    "取材清单与README",
+    "所有原素材",
+    "共享状态",
+    "游戏工程"
+  ],
+  "report": {
+    "send_status": "SUCCESS",
+    "tool_result": {"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+    "pmo_received": "UNKNOWN",
+    "pmo_acceptance": "PENDING"
+  }
+}

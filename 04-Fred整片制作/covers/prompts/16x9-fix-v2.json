@@ -1,0 +1,8 @@
+{
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-generated-v1.png",
+    "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/02-思考分析-图5-深蓝衬衫.png"
+  ],
+  "transparent_background": false,
+  "prompt": "Precise edit of Image1 (wide 16:9 cover); Image2 only confirms identity. Preserve all wording, font style, black/purple colors, white background, man's face/glasses/hair/grey hoodie and hand pose. Fix ONLY the overlap of horse tail with last purple character 样. Make the mounted knight/horse about 15% smaller, keep it on the presenting palm, shift it slightly right, and leave at least 40px clear white gap between every letter of 长这样 and the horse/tail. Do not redraw text, do not add text, do not add boxes, keep all existing title and man positions. Maintain entire helmet plume and tail. 1920x1080 target 16:9."
+}

@@ -1,0 +1,35 @@
+{
+  "speed": 1,
+  "duration": 106.473333,
+  "segments": [
+    {
+      "attachment": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9d4b1a182e0f0074ff92bacbe2bbdc82_raw.mp4",
+      "source_in": 0,
+      "source_out": 28.973333,
+      "timeline_in": 0,
+      "timeline_out": 28.973333,
+      "reason": "完整保留；语义重排，不凭ASR删句内原声"
+    },
+    {
+      "attachment": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/ad772cd8d8dcac13349c4b5b0adcfed8_raw.mp4",
+      "source_in": 0,
+      "source_out": 43.025,
+      "timeline_in": 28.973333,
+      "timeline_out": 71.998333,
+      "reason": "完整保留；语义重排，不凭ASR删句内原声"
+    },
+    {
+      "attachment": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9a00fbddfbe4a52eb4e8e26fff93833d_raw.mp4",
+      "source_in": 0,
+      "source_out": 34.475,
+      "timeline_in": 71.998333,
+      "timeline_out": 106.473333,
+      "reason": "完整保留；语义重排，不凭ASR删句内原声"
+    }
+  ],
+  "deleted": [],
+  "precision": "完整原片边界，非音素级对齐"
+}

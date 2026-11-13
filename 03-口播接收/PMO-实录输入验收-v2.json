@@ -1,0 +1,76 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "03",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "at": "2026-10-23T15:45:46.807049+08:00",
+  "scope": "原片接收、实际正文/顺序、完整原声与源时钟及基础字幕，放行04制作输入；不代表音频感知或成片验收",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/同步字幕-v2.srt",
+      "sha256": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/字幕重映射与校字-v2.json",
+      "sha256": "35bb5d6c7649b86c0d5d035eef5a5e3b29429edf4d8d237c55aaa2ff133c871c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/源时码与剪辑EDL-v2.json",
+      "sha256": "bc8a3711dec5981c61d1b31dc046af11f630bde28e1ae67e2b499fd45d6b290f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edit/voice-master-v2.wav",
+      "sha256": "6af515f35c1ec81894aa0ca43eacd0b76f3911f6dbdf5784811b917b697f97a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/03-接收报告-v2.json",
+      "sha256": "61c5c3ca6bc747fe4292b89d6cb85c5b81499124f76b3708d1c6f79be1df3ad3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/实际口播与顺序-v1.md",
+      "sha256": "9cca69566c1433c09edb07bc7344aeb064dac5c1f9be03ec6a2ca081b03f73a5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edge-review-v2/edge-evidence-v2.json",
+      "sha256": "7fe6624ca867524b2ea68a48880a55b6bf20acf8a9aa7b96d5ce126f09c1792b"
+    }
+  ],
+  "visual_source_review": "PMO实际看3条源2秒样本及3张头尾6帧接触表；未冒称连续视听",
+  "input_decisions": {
+    "order": [
+      3,
+      2,
+      1
+    ],
+    "duration_seconds": 104.01666666666667,
+    "duration_frames_60": 6241,
+    "speed": 1,
+    "edits": "仅6处头尾明确空段，句内原声不变，约0.2秒安全余量",
+    "subtitle_known_fixes": "Codex/资源/的话不拆词，这版/噩梦校字；其余实际口语保留",
+    "wording_authority": "本次实际录音，不补旧稿删除内容",
+    "tokens": "原声近70亿保留；同时视觉清楚标账号三天总量69.4亿"
+  },
+  "remaining_required_work": [],
+  "downstream_obligations": [
+    {
+      "item": "工具名拼写和字幕进一步对齐",
+      "owner": "04，05独立复核",
+      "scope": "附件2源28.16—35.44及新句内cue边界，沿源音轨/已核教程；不伪造听核"
+    },
+    {
+      "item": "实际接缝、自然听感与声画",
+      "owner": "04/05按真实能力，PMO收口准确记录",
+      "scope": "EDL两处源交接及实际导出；ASR/PCM不可替代直接听核，不装大模型/付费API"
+    },
+    {
+      "item": "连续玩法/第三方引用取材",
+      "owner": "04",
+      "scope": "在本片取材授权内处理，不重跑游戏开发"
+    }
+  ],
+  "not_verified": {
+    "direct_listening": false,
+    "continuous_av": false,
+    "user_final_approval": "PENDING"
+  }
+}

@@ -1,0 +1,119 @@
+- button "打开创作助手":
+- generic: 创作服务平台
+- generic: Eli AI FDE
+- main:
+  - generic: 发布笔记
+  - generic: 首页
+  - generic: 笔记管理
+  - generic: Builder hub
+  - generic: 小工具
+  - generic: Red Skill
+  - generic: 数据看板
+  - generic: 活动中心
+  - generic: 笔记灵感
+  - generic: 创作学院
+  - generic: 创作百科
+  - generic: 收起侧边栏
+  - generic: 视频文件
+  - text: 重新上传
+  - button "Choose File"
+  - generic: 视频文件.mp4
+  - generic: 检测为高清视频。清晰的画面能极大提升观看体验，有利于提升观看时长
+  - generic: 设置封面
+  - generic: PK封面
+  - checkbox
+  - generic: 默认截取第一帧作为封面，优质的封面会吸引更多人浏览笔记
+  - generic: 优质封面示例
+  - generic: 智能推荐封面
+  - button "重新生成"
+  - button "应用"
+  - button "应用"
+  - button "应用"
+  - generic: 封面效果评估通过，未发现封面质量问题
+  - textbox "填写标题会有更多赞哦": 用AI折腾三天，我的大树守卫长这样
+  - generic: 智能标题
+  - textbox:
+    - paragraph: 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。
+    - paragraph
+    - paragraph: 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。
+    - paragraph
+    - paragraph: 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？
+    - paragraph
+    - paragraph:
+      - text: "#ai"
+      - generic: "[话题]#"
+      - text: "#游戏开发"
+      - generic: "[话题]#"
+      - text: "#艾尔登法环"
+      - generic: "[话题]#"
+      - text: "#agent"
+      - generic: "[话题]#"
+      - text: "#codex"
+      - generic: "[话题]#"
+  - generic: "#榨干软件howto"
+  - generic: "#我这行的AI路"
+  - generic: "#howto入门codex"
+  - generic: "#人工智能"
+  - text: 更多
+  - button "话题":
+    - text: 话题
+  - button:
+  - button "用户":
+    - text: 用户
+  - button "表情":
+    - text: 表情
+  - text: "148"
+  - generic: /1000
+  - generic: 内容设置
+  - generic: 收起
+  - generic: 添加章节
+  - generic: 清晰的视频结构能提升观看体验，有助于完播率
+  - button "智能生成章节":
+    - generic: 智能生成章节
+  - generic: 加入合集
+  - generic: 汇集系列视频，有利于连续性观看
+  - text: 创建合集
+  - generic: 原创声明
+  - checkbox
+  - generic: 笔记含AI合成内容
+  - generic: 添加组件
+  - textbox
+  - generic: 添加地点
+  - textbox
+  - generic: 选择群聊
+  - generic: 引用笔记
+  - generic: 添加投票
+  - textbox
+  - generic: 添加小工具
+  - generic: 标记地点或标记朋友
+  - generic: 添加路线
+  - generic: 关联活动
+  - button "更多":
+    - text: 更多
+  - button "马路生活节 10-23 至 11-30":
+    - generic: 马路生活节
+    - generic: 10-23 至 11-30
+  - button "关联"
+  - button "Pick你的每周时刻 08-04 至 12-31":
+    - generic: Pick你的每周时刻
+    - generic: 08-04 至 12-31
+  - button "关联"
+  - generic: 更多设置
+  - generic: 收起
+  - generic: 公开可见
+  - generic: 定时发布
+  - checkbox
+  - generic: 笔记预览
+  - generic: 封面预览
+  - text: /
+  - img "头像"
+  - generic: Eli AI FDE
+  - generic: 关注
+  - text: 用AI折腾三天，我的大树守卫长这样 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？
+  - generic: "#ai"
+  - generic: "#游戏开发"
+  - generic: "#艾尔登法环"
+  - generic: "#agent"
+  - generic: "#codex"
+  - generic: 展开
+  - text: / /

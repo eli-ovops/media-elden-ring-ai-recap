@@ -1,0 +1,33 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "03",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS_BATCH_ONLY_STAGE_INCOMPLETE",
+  "at": "2026-10-23T14:28:02.161144+08:00",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/镜头素材对应-v1.md",
+      "sha256": "d5ad16f6d2296e370d5b9ca50a263d2e8abc3c3393fac44ba7ce6a5cdd4a6744"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/接收结果-v1.json",
+      "sha256": "be45b220db6511a44a1cd0d7e0e0365ba1926cb72f25ae182a30c55515bafdc3"
+    }
+  ],
+  "accepted_scope": "16份实材接收与5.4秒蒙太奇映射，可用于后续本片制作；主稿v2不变",
+  "checks": {
+    "source_timing": "0.700秒x21帧与清单一致",
+    "montage_duration": 5.4,
+    "whole_video_budget": "原100秒内重新分配，真实录音后重映射",
+    "source_identity": "历史P7/P11/P13与P78/P82现有原图分开；用户三图时间版本UNKNOWN",
+    "no_duplicate_intake": true
+  },
+  "stage_complete": false,
+  "remaining_required_work": [
+    "本人录音",
+    "当前连续玩法录像",
+    "清晰第三方引用及后续成片实际检查"
+  ],
+  "user_script_approval": "PENDING",
+  "production_release": false
+}

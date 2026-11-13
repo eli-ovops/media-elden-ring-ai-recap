@@ -1,0 +1,9 @@
+{
+  "url": "https://creator.xiaohongshu.com/publish/publish?from=menu&target=video",
+  "nativeFooter": "发布",
+  "nativeSubmitDisabled": "false",
+  "publishTextLocatorCount": 0,
+  "publishClicked": false,
+  "saveAfterTagsUnknown": true,
+  "blocker": "原生底部控件是xhs-publish-btn，内部发布/暂存文字不在可访问DOM中；此前同控件报closed shadow root，本轮可见选择器无法定位具体发布按钮，键盘原生控件焦点尝试亦失败。未穿透封闭根或改通道。"
+}

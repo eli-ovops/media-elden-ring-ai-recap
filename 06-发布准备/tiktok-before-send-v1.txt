@@ -1,0 +1,137 @@
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- link:
+  - /url: https://www.tiktok.com
+- region "Notifications"
+- button:
+- generic: elden-ring-ai-recap-v2-final.mp4
+- generic: 1080P
+- generic: 已上传（147.77MB）
+- button "替换":
+  - text: 替换
+- generic: 详细信息
+- generic: 视频描述
+- combobox:
+  - generic: 用AI折騰三天，我的大樹守衛長這樣
+  - generic: 想讓AI幫我做個大樹守衛，折騰三天多，結果跟想像的差得有點遠。
+  - generic: 這次用Astra和Sol 6.1 Ultra從零做遊戲原型：把這次實際做出的樣子和踩過的坑，放出來做一次真實復盤。
+  - generic: 你覺得現在的AI，離做出你願意玩的遊戲還差哪一步？
+  - generic: "#AI #游戏开发 #艾尔登法环 #agent #codex"
+- button "话题标签":
+  - generic: 话题标签
+- button "@提及":
+  - generic: 提及
+- generic: 169/4000
+- generic: 历史记录
+- button [disabled]:
+- list:
+  - generic: "# DeepSeek"
+  - generic: "# AI"
+  - generic: "# 人工智慧"
+  - generic: "# 開源"
+  - generic: "# AIAgent"
+  - generic: "# qwen"
+  - generic: "# AI工具"
+  - generic: "# 人工智能"
+  - generic: "# Agent"
+  - generic: "# FDE"
+  - generic: "# 孙宇晨"
+  - generic: "# 薄肌"
+  - generic: "# GitHub"
+  - generic: "# 高性价比人生指南"
+  - generic: "# 自我提升"
+- button:
+- text: 封面
+- generic: 编辑封面
+- text: 位置
+- combobox:
+  - textbox "搜索位置"
+- button [disabled]:
+- list:
+  - generic: New York City Center
+  - generic: Los Angeles Angels
+  - generic: United Inn & Suites Hotel
+  - generic: Tokyo
+  - generic: 东京铁塔
+  - generic: Tokyo Disneyland
+  - generic: Nobiro
+  - generic: 非公開住所
+  - generic: 涩谷sky
+  - generic: Tokyo DisneySea
+- button:
+- generic: 设置
+- generic: 何时发布
+- radio "现在" [checked]
+- generic: 现在
+- radio "预约发布"
+- generic: 预约发布
+- generic: 谁可以看
+- combobox:
+  - generic: 所有人
+- generic: 高清上传
+- switch [checked] [disabled]
+- generic: 使用 Web Studio 发布时默认为高清
+- text: 允许用户：
+- generic: 超过 60 秒的视频无法进行合拍/抢镜及拼接
+- checkbox "评论" [checked]
+- generic: 评论
+- checkbox "复用内容" [disabled]
+- generic: 复用内容
+- checkbox "跟拍" [checked]
+- generic: 跟拍
+- generic: 披露作品内容
+- switch
+- text: 告知其他人此作品推广的是品牌、商品或服务。
+- generic: AI 生成的内容
+- switch [checked]
+- text: Add this label for aigc.
+- generic: 了解更多
+- generic: 观众管理
+- switch
+- generic: 设置限制，让你的视频仅对年满 18 周岁的用户可见。
+- generic: 收起
+- generic: 检查
+- generic: 音乐版权检查
+- switch [checked]
+- generic: 未发现问题。
+- generic: 内容快速检查
+- switch [checked]
+- generic: 未发现问题。但请注意，如果你的视频违反了《社区自律公约》，我们仍可能将其移除。
+- generic: 首页推荐
+- generic: 主页
+- generic: 网页端
+- button:
+- img "bottom nav bar"
+- generic: 播放
+- generic: 00:00:00 / 00:01:44
+- generic: 静音
+- generic: 展开视图
+- img "status bar"
+- img "home nav bar"
+- img "interaction"
+- generic: Eli-AI
+- generic: "用AI折騰三天，我的大樹守衛長這樣 想讓AI幫我做個大樹守衛，折騰三天多，結果跟想像的差得有點遠。 這次用Astra和Sol 6.1 Ultra從零做遊戲原型：把這次實際做出的樣子和踩過的坑，放出來做一次真實復盤。 你覺得現在的AI，離做出你願意玩的遊戲還差哪一步？ #AI #游戏开发 #艾尔登法环 #agent #codex"
+- generic: 创作者已标记为由 AI 生成
+- paragraph: 原声 - Eli-AI
+- paragraph: 原声 - Eli-AI
+- button "编辑":
+  - text: 编辑
+- button "音乐":
+  - text: 音乐
+- button "文字":
+  - text: 文字
+- button "发布":
+  - generic: 发布
+- button "保存草稿":
+  - generic: 保存草稿
+- button "放弃":
+  - generic: 放弃

@@ -1,0 +1,384 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友 2":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+  - generic: "2"
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容"
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:52
+- generic: /
+- generic: 01:44
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link "作者声明：内容由 AI 生成":
+  - /url: undefined
+  - generic: 作者声明：内容由 AI 生成
+- generic: 章节要点
+- text: 平台为你智能生成
+- generic: 用AI制作大树守卫的经历分享，虽然花费了三天和70亿Token，但最终成果与预期差距较大。作者将源码和模型资源放在GitHub上，希望有兴趣的人可以继续完善。
+- generic: 00:03
+- generic: 引言
+- generic: 00:13
+- generic: 制作过程
+- paragraph: 使用Astra和Sol 6.1 Ultra制作大树守卫，花费三天和70亿Token。
+- generic: 00:29
+- generic: 制作原因
+- paragraph: 受大神制作小王子启发，尝试制作游戏。
+- generic: 01:17
+- generic: 结语
+- paragraph: 大树守卫与预期差距较大，已将源码和模型资源放GitHub，欢迎继续制作。
+- button "展开"
+- 'heading "用AI折腾三天，我的大树守卫长这样 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？#AI #游戏开发 #艾尔登法环 #agent #codex" [level=1]':
+  - generic: 用AI折腾三天，我的大树守卫长这样 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？
+  - link "#AI":
+    - /url: //www.douyin.com/search/AI?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#游戏开发":
+    - /url: //www.douyin.com/search/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#艾尔登法环":
+    - /url: //www.douyin.com/search/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#agent":
+    - /url: //www.douyin.com/search/agent?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#codex":
+    - /url: //www.douyin.com/search/codex?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: 赞
+- generic: 抢首评
+- generic: 收藏
+- generic: 分享
+- generic: 发布时间：2026-10-23 23:46
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 暂无评论
+- link "Eli-Ai":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai"
+- link "Eli-Ai":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - generic: Eli-Ai
+- paragraph: 粉丝25获赞156
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会 42:01"':
+    - /url: //www.douyin.com/video/7675266052544023871
+    - 'img "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"'
+    - generic: 42:01
+  - 'heading "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会" [level=3]':
+    - 'link "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"':
+      - /url: //www.douyin.com/video/7675266052544023871
+      - generic: 为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀"AI秒出20篇论文""AI无痛设计海报"，可为什么你用起来却像个“人工智障”？
+      - generic: 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？
+      - generic: 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！
+      - generic: 如果你也在"AI太强大了我不配"和"这玩意根本不好用"之间反复横跳，本期或许会治好你的自我怀疑。
+      - generic: 【本期嘉宾】
+      - generic: "刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"
+  - text: "2815"
+  - link "野说商业 Yeah’s talk":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA3zdAtT9Dlo3Co7tJt0hGHufphN5rdpAq1jQBJ0KrB0s?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 野说商业 Yeah’s talk
+  - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中 11:20"':
+    - /url: //www.douyin.com/video/7667894255955823912
+    - 'img "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"'
+    - generic: 11:20
+  - 'heading "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中" [level=3]':
+    - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"':
+      - /url: //www.douyin.com/video/7667894255955823912
+      - generic: "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"
+  - text: "1800"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+  - 'link "【抖音独家】48小时光速重返OpenAI，执掌AI自进化核心 翁荔回归不是再造 GPT，而是带队实现递归自我改进：AI 自己研发下一代 AI，两天上演 AI 圈反转大戏：TML 联创重回 OpenAI，主攻智能爆炸底层工程，不靠堆参数算力！翁荔 Harness 脚手架，打通 AI 自主研发完整闭环，从安全负责人到 RSI 带头人，翁荔手握控制 AI 自我迭代的刹车系统 #AI #抖音精选App征稿中 #vibecoding大赏 #OpenAI #抖音精选App知识充电站 @抖音精选App官方账号 @抖音科技 07:31"':
+    - /url: //www.douyin.com/video/7668164861657877823
+    - 'img "【抖音独家】48小时光速重返OpenAI，执掌AI自进化核心 翁荔回归不是再造 GPT，而是带队实现递归自我改进：AI 自己研发下一代 AI，两天上演 AI 圈反转大戏：TML 联创重回 OpenAI，主攻智能爆炸底层工程，不靠堆参数算力！翁荔 Harness 脚手架，打通 AI 自主研发完整闭环，从安全负责人到 RSI 带头人，翁荔手握控制 AI 自我迭代的刹车系统 #AI #抖音精选App征稿中 #vibecoding大赏 #OpenAI #抖音精选App知识充电站 @抖音精选App官方账号 @抖音科技"'
+    - generic: 07:31
+  - 'heading "【抖音独家】48小时光速重返OpenAI，执掌AI自进化核心 翁荔回归不是再造 GPT，而是带队实现递归自我改进：AI 自己研发下一代 AI，两天上演 AI 圈反转大戏：TML 联创重回 OpenAI，主攻智能爆炸底层工程，不靠堆参数算力！翁荔 Harness 脚手架，打通 AI 自主研发完整闭环，从安全负责人到 RSI 带头人，翁荔手握控制 AI 自我迭代的刹车系统 #AI #抖音精选App征稿中 #vibecoding大赏 #OpenAI #抖音精选App知识充电站 @抖音精选App官方账号 @抖音科技" [level=3]':
+    - 'link "【抖音独家】48小时光速重返OpenAI，执掌AI自进化核心 翁荔回归不是再造 GPT，而是带队实现递归自我改进：AI 自己研发下一代 AI，两天上演 AI 圈反转大戏：TML 联创重回 OpenAI，主攻智能爆炸底层工程，不靠堆参数算力！翁荔 Harness 脚手架，打通 AI 自主研发完整闭环，从安全负责人到 RSI 带头人，翁荔手握控制 AI 自我迭代的刹车系统 #AI #抖音精选App征稿中 #vibecoding大赏 #OpenAI #抖音精选App知识充电站 @抖音精选App官方账号 @抖音科技"':
+      - /url: //www.douyin.com/video/7668164861657877823
+      - generic: "【抖音独家】48小时光速重返OpenAI，执掌AI自进化核心 翁荔回归不是再造 GPT，而是带队实现递归自我改进：AI 自己研发下一代 AI，两天上演 AI 圈反转大戏：TML 联创重回 OpenAI，主攻智能爆炸底层工程，不靠堆参数算力！翁荔 Harness 脚手架，打通 AI 自主研发完整闭环，从安全负责人到 RSI 带头人，翁荔手握控制 AI 自我迭代的刹车系统 #AI #抖音精选App征稿中 #vibecoding大赏 #OpenAI #抖音精选App知识充电站 @抖音精选App官方账号 @抖音科技"
+  - text: "2931"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+  - 'link "手把手教你网站部署上线，打通变现路径 用AI做出了网站，发给别人却打不开，更别谈推广和搞钱了～ 这期手把手带你完成网站部署：买服务器 → 上传网站 → 绑定域名。 把你vibeCoding的作品，变成一个全世界都能访问的网址。个人主页、作品集、产品展示页，都可以从这里开始。 #网站建设 #AI #vibeCoding #网站部署 11:41"':
+    - /url: //www.douyin.com/video/7686491663216479595
+    - 'img "手把手教你网站部署上线，打通变现路径 用AI做出了网站，发给别人却打不开，更别谈推广和搞钱了～ 这期手把手带你完成网站部署：买服务器 → 上传网站 → 绑定域名。 把你vibeCoding的作品，变成一个全世界都能访问的网址。个人主页、作品集、产品展示页，都可以从这里开始。 #网站建设 #AI #vibeCoding #网站部署"'
+    - generic: 11:41
+  - 'heading "手把手教你网站部署上线，打通变现路径 用AI做出了网站，发给别人却打不开，更别谈推广和搞钱了～ 这期手把手带你完成网站部署：买服务器 → 上传网站 → 绑定域名。 把你vibeCoding的作品，变成一个全世界都能访问的网址。个人主页、作品集、产品展示页，都可以从这里开始。 #网站建设 #AI #vibeCoding #网站部署" [level=3]':
+    - 'link "手把手教你网站部署上线，打通变现路径 用AI做出了网站，发给别人却打不开，更别谈推广和搞钱了～ 这期手把手带你完成网站部署：买服务器 → 上传网站 → 绑定域名。 把你vibeCoding的作品，变成一个全世界都能访问的网址。个人主页、作品集、产品展示页，都可以从这里开始。 #网站建设 #AI #vibeCoding #网站部署"':
+      - /url: //www.douyin.com/video/7686491663216479595
+      - generic: 手把手教你网站部署上线，打通变现路径 用AI做出了网站，发给别人却打不开，更别谈推广和搞钱了～
+      - generic: 这期手把手带你完成网站部署：买服务器 → 上传网站 → 绑定域名。
+      - generic: 把你vibeCoding的作品，变成一个全世界都能访问的网址。个人主页、作品集、产品展示页，都可以从这里开始。
+      - generic: "#网站建设 #AI #vibeCoding #网站部署"
+  - text: 1.7万
+  - link "全子哥":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAFN6W1EyfgEdwzEGvamAt8ufVrqOuecXm2MaSuwZB0Vy_4ewyXmi0qYU-EnH8zJF5?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 全子哥
+  - 'link "一条视频搞懂15个主流AI热词 本视频22分钟，全程大白话，一次讲明白，初中生都能听懂，LLM→TOKEN→上下文窗口→Prompt、RAG、Tool、MCP、上下文工程、Skill、Agent、Vibe Coding、Harness工程、DeepSeek Harness、Loop工程、工作流、Workspace Agent。这些AI名词背后都有一条逻辑线，把这些AI术语串起来，搞懂这个逻辑线以后，再出AI新词也不怕了。入门AI基础。#agent #skill #提示词 #harness #就让约会学ai的我们 24:11"':
+    - /url: //www.douyin.com/video/7677789451007649658
+    - 'img "一条视频搞懂15个主流AI热词 本视频22分钟，全程大白话，一次讲明白，初中生都能听懂，LLM→TOKEN→上下文窗口→Prompt、RAG、Tool、MCP、上下文工程、Skill、Agent、Vibe Coding、Harness工程、DeepSeek Harness、Loop工程、工作流、Workspace Agent。这些AI名词背后都有一条逻辑线，把这些AI术语串起来，搞懂这个逻辑线以后，再出AI新词也不怕了。入门AI基础。#agent #skill #提示词 #harness #就让约会学ai的我们"'
+    - generic: 24:11
+  - 'heading "一条视频搞懂15个主流AI热词 本视频22分钟，全程大白话，一次讲明白，初中生都能听懂，LLM→TOKEN→上下文窗口→Prompt、RAG、Tool、MCP、上下文工程、Skill、Agent、Vibe Coding、Harness工程、DeepSeek Harness、Loop工程、工作流、Workspace Agent。这些AI名词背后都有一条逻辑线，把这些AI术语串起来，搞懂这个逻辑线以后，再出AI新词也不怕了。入门AI基础。#agent #skill #提示词 #harness #就让约会学ai的我们" [level=3]':
+    - 'link "一条视频搞懂15个主流AI热词 本视频22分钟，全程大白话，一次讲明白，初中生都能听懂，LLM→TOKEN→上下文窗口→Prompt、RAG、Tool、MCP、上下文工程、Skill、Agent、Vibe Coding、Harness工程、DeepSeek Harness、Loop工程、工作流、Workspace Agent。这些AI名词背后都有一条逻辑线，把这些AI术语串起来，搞懂这个逻辑线以后，再出AI新词也不怕了。入门AI基础。#agent #skill #提示词 #harness #就让约会学ai的我们"':
+      - /url: //www.douyin.com/video/7677789451007649658
+      - generic: "一条视频搞懂15个主流AI热词 本视频22分钟，全程大白话，一次讲明白，初中生都能听懂，LLM→TOKEN→上下文窗口→Prompt、RAG、Tool、MCP、上下文工程、Skill、Agent、Vibe Coding、Harness工程、DeepSeek Harness、Loop工程、工作流、Workspace Agent。这些AI名词背后都有一条逻辑线，把这些AI术语串起来，搞懂这个逻辑线以后，再出AI新词也不怕了。入门AI基础。#agent #skill #提示词 #harness #就让约会学ai的我们"
+  - text: 8.1万
+  - link "智能体阿朱":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA9NzjguuAa_uIYH-uYOn0jmO1uNBX9MgsIpPEszVoFgkKvGY09DqDBtBrspN7L3QQ?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 智能体阿朱
+  - 'link "你对ChatGPT的使用可能不足1% 这是最近他做了这么多次更新之后我的感受！ 但并不是每个功能都是好的，也有很多让我觉得困惑的地方！ 所以这个视频呢，我会分享最近几个比较困惑的点，以及最新的更新，有哪些你用的上的地方！ 00:38 困惑1:个人智能体-Dots 02:36 困惑2:哪个模型的版本更适合你 04:32 更新3:插件功能 07:21 更新4:笔记功能 09:51 更新5:远程操控 11:12 Bouns：分享一个小技巧 #如何用好ai #ChatGPT #ai知识分享 #Dots #ai新星计划 13:48"':
+    - /url: //www.douyin.com/video/7697927038267222705
+    - 'img "你对ChatGPT的使用可能不足1% 这是最近他做了这么多次更新之后我的感受！ 但并不是每个功能都是好的，也有很多让我觉得困惑的地方！ 所以这个视频呢，我会分享最近几个比较困惑的点，以及最新的更新，有哪些你用的上的地方！ 00:38 困惑1:个人智能体-Dots 02:36 困惑2:哪个模型的版本更适合你 04:32 更新3:插件功能 07:21 更新4:笔记功能 09:51 更新5:远程操控 11:12 Bouns：分享一个小技巧 #如何用好ai #ChatGPT #ai知识分享 #Dots #ai新星计划"'
+    - generic: 13:48
+  - 'heading "你对ChatGPT的使用可能不足1% 这是最近他做了这么多次更新之后我的感受！ 但并不是每个功能都是好的，也有很多让我觉得困惑的地方！ 所以这个视频呢，我会分享最近几个比较困惑的点，以及最新的更新，有哪些你用的上的地方！ 00:38 困惑1:个人智能体-Dots 02:36 困惑2:哪个模型的版本更适合你 04:32 更新3:插件功能 07:21 更新4:笔记功能 09:51 更新5:远程操控 11:12 Bouns：分享一个小技巧 #如何用好ai #ChatGPT #ai知识分享 #Dots #ai新星计划" [level=3]':
+    - 'link "你对ChatGPT的使用可能不足1% 这是最近他做了这么多次更新之后我的感受！ 但并不是每个功能都是好的，也有很多让我觉得困惑的地方！ 所以这个视频呢，我会分享最近几个比较困惑的点，以及最新的更新，有哪些你用的上的地方！ 00:38 困惑1:个人智能体-Dots 02:36 困惑2:哪个模型的版本更适合你 04:32 更新3:插件功能 07:21 更新4:笔记功能 09:51 更新5:远程操控 11:12 Bouns：分享一个小技巧 #如何用好ai #ChatGPT #ai知识分享 #Dots #ai新星计划"':
+      - /url: //www.douyin.com/video/7697927038267222705
+      - generic: 你对ChatGPT的使用可能不足1% 这是最近他做了这么多次更新之后我的感受！
+      - generic: 但并不是每个功能都是好的，也有很多让我觉得困惑的地方！
+      - generic: 所以这个视频呢，我会分享最近几个比较困惑的点，以及最新的更新，有哪些你用的上的地方！
+      - generic: 00:38 困惑1:个人智能体-Dots
+      - generic: 02:36 困惑2:哪个模型的版本更适合你
+      - generic: 04:32 更新3:插件功能
+      - generic: 07:21 更新4:笔记功能
+      - generic: 09:51 更新5:远程操控
+      - generic: 11:12 Bouns：分享一个小技巧
+      - generic: "#如何用好ai #ChatGPT #ai知识分享 #Dots #ai新星计划"
+  - text: "451"
+  - link "Gilbert🍃":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAGZTA_v2sBFgmnDRIyYubwvd7cosWXahJ_Ow7VHUaJ-0?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - text: Gilbert
+    - img "🍃"
+  - 'link "vibecoding大赏｜Codex 从入门到精通 #vibecoding大赏 #ai新星计划 #codex #ai教程 #AI剪辑 @抖音科技 27:43"':
+    - /url: //www.douyin.com/video/7680368728127747067
+    - 'img "vibecoding大赏｜Codex 从入门到精通 #vibecoding大赏 #ai新星计划 #codex #ai教程 #AI剪辑 @抖音科技"'
+    - generic: 27:43
+  - 'heading "vibecoding大赏｜Codex 从入门到精通 #vibecoding大赏 #ai新星计划 #codex #ai教程 #AI剪辑 @抖音科技" [level=3]':
+    - 'link "vibecoding大赏｜Codex 从入门到精通 #vibecoding大赏 #ai新星计划 #codex #ai教程 #AI剪辑 @抖音科技"':
+      - /url: //www.douyin.com/video/7680368728127747067
+      - generic: vibecoding大赏｜Codex 从入门到精通
+      - generic: "#vibecoding大赏 #ai新星计划 #codex #ai教程 #AI剪辑 @抖音科技"
+  - text: 3.0万
+  - link "RabbittuX":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA1P5hZTCmTh7c5uoQ60DBEiTlrrg9oBNdVx-oaQ-wb32R6Blt8ghW7IJw6BMQd0dg?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: RabbittuX
+  - 'link "新手也能打造Deepseek Harness满血全模态桌面端 整套搭建方案使用的是DSH Desktop + Agent Anywhere + Agnes + Anysearch组合完成，官方桌面端最近也发布了，官方有的功能DSH Desktop也都有，而且还自带了社区插件市场和手机远程连接的功能，非常适合新手 #dshdesktop #deepseekharness #agnes #anysearch #agent 06:59"':
+    - /url: //www.douyin.com/video/7691602495843388707
+    - 'img "新手也能打造Deepseek Harness满血全模态桌面端 整套搭建方案使用的是DSH Desktop + Agent Anywhere + Agnes + Anysearch组合完成，官方桌面端最近也发布了，官方有的功能DSH Desktop也都有，而且还自带了社区插件市场和手机远程连接的功能，非常适合新手 #dshdesktop #deepseekharness #agnes #anysearch #agent"'
+    - generic: 06:59
+  - 'heading "新手也能打造Deepseek Harness满血全模态桌面端 整套搭建方案使用的是DSH Desktop + Agent Anywhere + Agnes + Anysearch组合完成，官方桌面端最近也发布了，官方有的功能DSH Desktop也都有，而且还自带了社区插件市场和手机远程连接的功能，非常适合新手 #dshdesktop #deepseekharness #agnes #anysearch #agent" [level=3]':
+    - 'link "新手也能打造Deepseek Harness满血全模态桌面端 整套搭建方案使用的是DSH Desktop + Agent Anywhere + Agnes + Anysearch组合完成，官方桌面端最近也发布了，官方有的功能DSH Desktop也都有，而且还自带了社区插件市场和手机远程连接的功能，非常适合新手 #dshdesktop #deepseekharness #agnes #anysearch #agent"':
+      - /url: //www.douyin.com/video/7691602495843388707
+      - generic: 新手也能打造Deepseek Harness满血全模态桌面端 整套搭建方案使用的是DSH Desktop + Agent Anywhere + Agnes + Anysearch组合完成，官方桌面端最近也发布了，官方有的功能DSH Desktop也都有，而且还自带了社区插件市场和手机远程连接的功能，非常适合新手
+      - generic: "#dshdesktop #deepseekharness #agnes #anysearch #agent"
+  - text: 1.8万
+  - link "李君陌":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA6W6jZoRkRkPOa4x-0W8WyLZxUnS0uYgf42CajMf1y1vP0gWa50O843vRr4FicL8p?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 李君陌
+  - link "为什么我们做不出Claude？ Claude Opus 5.5 发布，审美断层领先，直接把 vibe 知识大赏办成了全网狂欢。 但作为国产从业者，我更痛心的是另一件事： 国产厂商和顶尖模型的差距，为什么还在被拉大？ 看完这期你会明白，答案根本不是技术。是商业选择。 一个残酷的铁律：流量为王。 真正的护城河不是技术，是社交关系链 + 用户留存，也就是流量。 于是出现了两个反常现象： 🇨🇳 中国公司根本不做顶尖模型——流量在手，模型够用就行，为什么要烧钱？ 🇺🇸 美国公司拼命卷最强模型——没有流量，只能靠模型抢占用户心智。 你觉得下一个掀桌子的模型，会出自谁家？评论区聊聊#AI#Claude#Qwen#人工智能#科技 05:41":
+    - /url: //www.douyin.com/video/7696855433637580058
+    - img "为什么我们做不出Claude？ Claude Opus 5.5 发布，审美断层领先，直接把 vibe 知识大赏办成了全网狂欢。 但作为国产从业者，我更痛心的是另一件事： 国产厂商和顶尖模型的差距，为什么还在被拉大？ 看完这期你会明白，答案根本不是技术。是商业选择。 一个残酷的铁律：流量为王。 真正的护城河不是技术，是社交关系链 + 用户留存，也就是流量。 于是出现了两个反常现象： 🇨🇳 中国公司根本不做顶尖模型——流量在手，模型够用就行，为什么要烧钱？ 🇺🇸 美国公司拼命卷最强模型——没有流量，只能靠模型抢占用户心智。 你觉得下一个掀桌子的模型，会出自谁家？评论区聊聊#AI#Claude#Qwen#人工智能#科技"
+    - generic: 05:41
+  - heading "为什么我们做不出Claude？ Claude Opus 5.5 发布，审美断层领先，直接把 vibe 知识大赏办成了全网狂欢。 但作为国产从业者，我更痛心的是另一件事： 国产厂商和顶尖模型的差距，为什么还在被拉大？ 看完这期你会明白，答案根本不是技术。是商业选择。 一个残酷的铁律：流量为王。 真正的护城河不是技术，是社交关系链 + 用户留存，也就是流量。 于是出现了两个反常现象： 🇨🇳 中国公司根本不做顶尖模型——流量在手，模型够用就行，为什么要烧钱？ 🇺🇸 美国公司拼命卷最强模型——没有流量，只能靠模型抢占用户心智。 你觉得下一个掀桌子的模型，会出自谁家？评论区聊聊#AI#Claude#Qwen#人工智能#科技" [level=3]:
+    - link "为什么我们做不出Claude？ Claude Opus 5.5 发布，审美断层领先，直接把 vibe 知识大赏办成了全网狂欢。 但作为国产从业者，我更痛心的是另一件事： 国产厂商和顶尖模型的差距，为什么还在被拉大？ 看完这期你会明白，答案根本不是技术。是商业选择。 一个残酷的铁律：流量为王。 真正的护城河不是技术，是社交关系链 + 用户留存，也就是流量。 于是出现了两个反常现象： 🇨🇳 中国公司根本不做顶尖模型——流量在手，模型够用就行，为什么要烧钱？ 🇺🇸 美国公司拼命卷最强模型——没有流量，只能靠模型抢占用户心智。 你觉得下一个掀桌子的模型，会出自谁家？评论区聊聊#AI#Claude#Qwen#人工智能#科技":
+      - /url: //www.douyin.com/video/7696855433637580058
+      - generic: 为什么我们做不出Claude？ Claude Opus 5.5 发布，审美断层领先，直接把 vibe 知识大赏办成了全网狂欢。
+      - generic: 但作为国产从业者，我更痛心的是另一件事：
+      - generic: 国产厂商和顶尖模型的差距，为什么还在被拉大？
+      - generic: 看完这期你会明白，答案根本不是技术。是商业选择。
+      - generic: 一个残酷的铁律：流量为王。
+      - generic: 真正的护城河不是技术，是社交关系链 + 用户留存，也就是流量。
+      - generic: 于是出现了两个反常现象：
+      - img "🇨🇳"
+      - text: 中国公司根本不做顶尖模型——流量在手，模型够用就行，为什么要烧钱？
+      - img "🇺🇸"
+      - text: 美国公司拼命卷最强模型——没有流量，只能靠模型抢占用户心智。
+      - generic: 你觉得下一个掀桌子的模型，会出自谁家？评论区聊聊#AI#Claude#Qwen#人工智能#科技
+  - text: "4478"
+  - link "阿肯":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAUsO9Jz-m4ZC0QAwRPAggbX5hie9GmCtVxUCz3iUc7mA?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 阿肯
+  - 'link "AI 的“大脑地图”：激活图谱、嵌入空间与智能临界点 掀开 ChatGPT 和 AlexNet 的引擎盖，里面没有明显的“智能”，只有一层层矩阵运算。但它们却能把输入慢慢“变形”成输出：写文章、做翻译、识别猫狗，甚至学会“人脸”“金门大桥”这些概念。 本期视频从一张“激活图谱”出发，追溯现代 AI 的临界点——2012 年的 AlexNet。那篇只有 8 页的论文，证明了神经网络在数据和算力规模化之后会强得惊人；它的第二作者 Ilya Sutskever，后来共同创办 OpenAI，并参与打造了 ChatGPT。 我们会看到：图片如何变成张量、卷积核如何检测边缘与色块、激活图如何揭示模型的“视觉词汇”；再进一步，嵌入空间如何让相似概念彼此靠近，甚至让“年龄”“性别”这样的方向具有意义。最后，我们聊聊：为什么简单计算模块的组合能产生智能行为？下一次 AI 突破，会不会只是再扩大三四个数量级？ #人工智能 #神经网络 #CNN #AI科普 #知识科普 15:46"':
+    - /url: //www.douyin.com/video/7684989954551729446
+    - 'img "AI 的“大脑地图”：激活图谱、嵌入空间与智能临界点 掀开 ChatGPT 和 AlexNet 的引擎盖，里面没有明显的“智能”，只有一层层矩阵运算。但它们却能把输入慢慢“变形”成输出：写文章、做翻译、识别猫狗，甚至学会“人脸”“金门大桥”这些概念。 本期视频从一张“激活图谱”出发，追溯现代 AI 的临界点——2012 年的 AlexNet。那篇只有 8 页的论文，证明了神经网络在数据和算力规模化之后会强得惊人；它的第二作者 Ilya Sutskever，后来共同创办 OpenAI，并参与打造了 ChatGPT。 我们会看到：图片如何变成张量、卷积核如何检测边缘与色块、激活图如何揭示模型的“视觉词汇”；再进一步，嵌入空间如何让相似概念彼此靠近，甚至让“年龄”“性别”这样的方向具有意义。最后，我们聊聊：为什么简单计算模块的组合能产生智能行为？下一次 AI 突破，会不会只是再扩大三四个数量级？ #人工智能 #神经网络 #CNN #AI科普 #知识科普"'
+    - generic: 15:46
+  - 'heading "AI 的“大脑地图”：激活图谱、嵌入空间与智能临界点 掀开 ChatGPT 和 AlexNet 的引擎盖，里面没有明显的“智能”，只有一层层矩阵运算。但它们却能把输入慢慢“变形”成输出：写文章、做翻译、识别猫狗，甚至学会“人脸”“金门大桥”这些概念。 本期视频从一张“激活图谱”出发，追溯现代 AI 的临界点——2012 年的 AlexNet。那篇只有 8 页的论文，证明了神经网络在数据和算力规模化之后会强得惊人；它的第二作者 Ilya Sutskever，后来共同创办 OpenAI，并参与打造了 ChatGPT。 我们会看到：图片如何变成张量、卷积核如何检测边缘与色块、激活图如何揭示模型的“视觉词汇”；再进一步，嵌入空间如何让相似概念彼此靠近，甚至让“年龄”“性别”这样的方向具有意义。最后，我们聊聊：为什么简单计算模块的组合能产生智能行为？下一次 AI 突破，会不会只是再扩大三四个数量级？ #人工智能 #神经网络 #CNN #AI科普 #知识科普" [level=3]':
+    - 'link "AI 的“大脑地图”：激活图谱、嵌入空间与智能临界点 掀开 ChatGPT 和 AlexNet 的引擎盖，里面没有明显的“智能”，只有一层层矩阵运算。但它们却能把输入慢慢“变形”成输出：写文章、做翻译、识别猫狗，甚至学会“人脸”“金门大桥”这些概念。 本期视频从一张“激活图谱”出发，追溯现代 AI 的临界点——2012 年的 AlexNet。那篇只有 8 页的论文，证明了神经网络在数据和算力规模化之后会强得惊人；它的第二作者 Ilya Sutskever，后来共同创办 OpenAI，并参与打造了 ChatGPT。 我们会看到：图片如何变成张量、卷积核如何检测边缘与色块、激活图如何揭示模型的“视觉词汇”；再进一步，嵌入空间如何让相似概念彼此靠近，甚至让“年龄”“性别”这样的方向具有意义。最后，我们聊聊：为什么简单计算模块的组合能产生智能行为？下一次 AI 突破，会不会只是再扩大三四个数量级？ #人工智能 #神经网络 #CNN #AI科普 #知识科普"':
+      - /url: //www.douyin.com/video/7684989954551729446
+      - generic: AI 的“大脑地图”：激活图谱、嵌入空间与智能临界点 掀开 ChatGPT 和 AlexNet 的引擎盖，里面没有明显的“智能”，只有一层层矩阵运算。但它们却能把输入慢慢“变形”成输出：写文章、做翻译、识别猫狗，甚至学会“人脸”“金门大桥”这些概念。
+      - generic: 本期视频从一张“激活图谱”出发，追溯现代 AI 的临界点——2012 年的 AlexNet。那篇只有 8 页的论文，证明了神经网络在数据和算力规模化之后会强得惊人；它的第二作者 Ilya Sutskever，后来共同创办 OpenAI，并参与打造了 ChatGPT。
+      - generic: 我们会看到：图片如何变成张量、卷积核如何检测边缘与色块、激活图如何揭示模型的“视觉词汇”；再进一步，嵌入空间如何让相似概念彼此靠近，甚至让“年龄”“性别”这样的方向具有意义。最后，我们聊聊：为什么简单计算模块的组合能产生智能行为？下一次 AI 突破，会不会只是再扩大三四个数量级？
+      - generic: "#人工智能 #神经网络 #CNN #AI科普 #知识科普"
+  - text: "485"
+  - link "01熵":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAY3J1P0y5w7hzttTyvZiLjhMu3iOzF-1yFi6yNtXVHzkmVGFIx7T8s-nRmGNusfh1?author_id=7694255025405690917&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699890072421698857&log_pb=%7B%22impr_id%22%3A%2220261024002116725E0020326238BE7809%22%7D&relation=0
+    - generic: 01熵
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音网页版":
+    - /url: https://www.douyin.com/jingxuan
+  - link "抖音精选":
+    - /url: https://www.douyin.com/jingxuan
+  - link "柳州市壶西实验中学":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAARBd6TBziCCCSRSZPf1x6EDa4U7jpr4FHigWvI6hCnGxmTIstLqHV40xXY8m-_LsK
+  - 'link "PollyEnglish到底值不值得报？听听我的感受... PollyEnglish到底值不值得抱？把我的真实感受分享给你 #PollyEnglish #线上外教 #菲教一对一 #菲教 #线上外教一对一英语"':
+    - /url: https://www.douyin.com/video/7699781640528887270
+  - link "军校录取分数线2025年提前批":
+    - /url: https://www.douyin.com/topic/7509865860329179136
+  - link "广西专项计划批是什么":
+    - /url: https://www.douyin.com/shipin/7509909372919826458
+  - link "高考唯一一次延考":
+    - /url: https://www.douyin.com/search/%E9%AB%98%E8%80%83%E5%94%AF%E4%B8%80%E4%B8%80%E6%AC%A1%E5%BB%B6%E8%80%83
+  - link "2026MSI有哪些看点":
+    - /url: https://www.douyin.com/video/7661953593494326579?source=Baiduspider
+  - 'link "Integrated skills_高中英语（译林版（新））_必修 第三册#高中英语 #名师授课 #公开课优质课 #观摩课"':
+    - /url: https://www.douyin.com/video/7182766238043589944?source=Baiduspider
+  - 'link "陪我妈去海花岛买水果，没想到水果摊主都是我的粉丝，太意外了#海南 #买水果 #自驾游 #候鸟老人 #旅居生活 #海花岛"':
+    - /url: https://www.douyin.com/video/7200611644601339193?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7545342218627861819?source=Baiduspider-sdc
+  - 'link "极氪9x车尾设计现场感受，及展车内饰按键部分瑕疵。 除了一些小瑕疵外，极氪9x还是可以给到90分以上，兼顾家用和商用。也给销售顾问点赞，很专业，对产品介绍非常细致。#极氪 #极氪9x #极氪9x内饰 #抖音汽车新知计划 #带你懂车"':
+    - /url: https://www.douyin.com/video/7548047079072894267?source=Baiduspider
+  - 'link "学二胡这样练 想不进步都困难（1） #二胡教学 #二胡课堂 #零基础学二胡"':
+    - /url: https://www.douyin.com/video/7369997478923423002?source=Baiduspider
+  - 'link "高级感细节 瓷砖和地板的收口 #装修#瓷砖和木地板收口#木地板起拱 #木地板伸缩缝怎么留 #木地板扣条怎么安装"':
+    - /url: https://www.douyin.com/video/7302413896084753679?source=Baiduspider-sdc

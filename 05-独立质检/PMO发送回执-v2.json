@@ -1,0 +1,18 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "version": "v2",
+  "sender_role": "05",
+  "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "sent": true,
+  "pmo_received": "UNKNOWN",
+  "pmo_accepted": "UNKNOWN",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "at": "2026-10-23T19:14:56.912745+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "diagnostic_reason": "约定三个文案/回执文件未落盘，主动完成报告未到，按LOCAL_BLOCKERS B005做一次针对性回读，非定时轮询。",
+  "observed_previous_turn": {
+    "id": "01a1685e-44d9-7192-bf18-2ca0707c0ca0",
+    "status": "completed",
+    "owner_status": "idle",
+    "result": "仅规则补读和Finder定位，未执行九平台准备，无必需交付/PMO主动报告。",
+    "evidence_layer": "read_thread最新一轮及指定交付文件检查"
+  },
+  "root_waiting_issue": "PMO等待主动回报过久，未把消息投递误写成业务完成；现沿同Owner定向续接，未新建替身或重发平台作品。",
+  "usage": {
+    "ordinaryUsageAllowed": true,
+    "usedPercent": 43
+  },
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "tool_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\"}"
+      }
+    ],
+    "isError": false
+  },
+  "public_send_authorized": false,
+  "new_scope_added": false
+}

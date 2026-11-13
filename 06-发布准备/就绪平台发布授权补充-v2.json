@@ -1,0 +1,39 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "human_source": "本聊天用户最新原话：准备好了就直接发送吧，我要睡觉了。你直接帮我把能够发送的平台直接先发送了",
+  "platforms": [
+    "抖音",
+    "小红书",
+    "B站",
+    "视频号",
+    "微博",
+    "YouTube",
+    "LinkedIn",
+    "X",
+    "TikTok"
+  ],
+  "accounts": {
+    "抖音": "Eli-Ai/25296649142",
+    "小红书": "Eli AI FDE，实际登录与原生账号仍在本轮操作前核",
+    "B站": "Eli-AI/432834855",
+    "视频号": "本人手动，本执行不访问",
+    "微博": "沿本期既定Eli账号，原生复核后才提交",
+    "YouTube": "Eli-AI/UCqJaVQRO3FrxD5spt1GG7Iw",
+    "LinkedIn": "沿本期既定Eli账号，原生复核后才提交",
+    "X": "沿本期既定Eli账号，原生复核后才提交",
+    "TikTok": "沿本期既定Eli账号，原生复核后才提交"
+  },
+  "video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "actions": [
+    "使用已选择的本期v2成片、现有封面与已展示文案",
+    "统一AI/游戏开发/艾尔登法环/agent/codex五标签",
+    "原生核账号/重复/版本/必填字段后，就绪一站即单次立即公开提交，不等九站全部齐",
+    "核审核/公开及链接，统一汇总"
+  ],
+  "visibility": "public subject to native review",
+  "time": "immediate per ready platform",
+  "safety_limits": "视频号原明确安全拒绝仍本人手动；验证码/新条款/登录人工阻断停本站继续其他。无评论、置顶、私信、关注、付费、定时或删除。",
+  "executor_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "execution_note": "用户直接给当前PMO发布指令；原06已failed且不新启动模型，由当前会话沿同Owner成果执行已指定具体发布，不新建替身、不改额度/安全配置。"
+}

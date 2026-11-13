@@ -1,0 +1,244 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "created_at": "2026-10-23T14:08:24.812651+08:00",
+  "human_authority": "本聊天用户：真实画面和截图可以放进视频，可以打开提取，展示过程。",
+  "source_policy": "全部复制、不移动/覆盖原件；仅本地；未运行或修改游戏工程",
+  "inspection_method": "静图实际查看；4段动作测试21帧接触表，非连续视听",
+  "assets": [
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-22b0e21f-2fb2-4fa5-b8ba-c11304c5f9ac.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/用户截图/ue-sentinel-editor.png",
+      "sha256": "3b3fc0950f25edfcff3af94e31f93e88e41ab27eb867b8c8c64a5ccc6a927e8a",
+      "bytes": 1257426,
+      "kind": "用户本次提供",
+      "use": "编辑器中的骑兵近景；具体拍摄时间/版本UNKNOWN",
+      "width": 1280,
+      "height": 884
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-4e086d04-883c-435d-ad76-0a1dfe7f7a90.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/用户截图/ue-motion-contact-sheet.png",
+      "sha256": "dbc6db2cd61d533bed20f9fb4174938b17119327ad10682677a4ae5708495ddf",
+      "bytes": 2437000,
+      "kind": "用户本次提供",
+      "use": "Idle/Sweep/Thrust/SideBash/ShieldSlam/Death/Walk测试拼图；不是连续录像",
+      "width": 1600,
+      "height": 1230
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-314530ac-9e51-4c02-b774-63ef0fbaa595.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/用户截图/ue-church-editor.png",
+      "sha256": "69cd45b474d120c445704f9932d0cae0813d5e39ad08bea630edf07a1a90474b",
+      "bytes": 937373,
+      "kind": "用户本次提供",
+      "use": "教堂与黄金树的编辑器截图；具体拍摄时间/版本UNKNOWN",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p78-ue-sentinel.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-sentinel.png",
+      "sha256": "fcb092d26f5e069bb82b596f723cdfda4d1f49e3c12fd307aad3ea4ecc49ea15",
+      "bytes": 1919163,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p78-ue-church_fixed.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-church_fixed.png",
+      "sha256": "c1fa8c4c38553832a8ceaa8d628acf33650014728eb953ddf84894b16b05502c",
+      "bytes": 1595827,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p78-ue-tree.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-tree.png",
+      "sha256": "b73413666865bd1c497a38398ecc73432b2511cc77f54327d7e9158701bc8baa",
+      "bytes": 917001,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p78-ue-church_interior.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-church_interior.png",
+      "sha256": "a7c890aca05758a3f6944ec7be64ec7f20308669c68555552d6296f8e08f2561",
+      "bytes": 1300795,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p82-ue-player-Idle.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p82-ue-player-Idle.png",
+      "sha256": "9e20c6e93d825afabdf42869ea8fa81331469af100deeb08242a3a7c03f45e8c",
+      "bytes": 2016719,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p82-ue-player-Attack.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p82-ue-player-Attack.png",
+      "sha256": "26ba6825b903f5c8e778994f58e7d68001acabdc370722bc9d36d5b432c79480",
+      "bytes": 2004059,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p82-ue-player-Dodge.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p82-ue-player-Dodge.png",
+      "sha256": "e842898ec7b348efc99fc570eaf06882fc040902612e7d70b4ed5e9f0b7cf2f8",
+      "bytes": 1999911,
+      "kind": "既有UE真实导出截图",
+      "use": "P78环境/骑兵或P82角色的静态截图，非本次重新运行",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p7-church-20261021-092249.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/历史过程/p7-church-20261021-092249.png",
+      "sha256": "daf42cfbe5efbc14af50765d56a02ba06e0a344d2219d4a21ac8c17ff1e26ed8",
+      "bytes": 1549286,
+      "kind": "既有早期阶段截图",
+      "use": "只用于历史过程，不冒充最终当前版本",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p7-sentinel-side-20261021-085018.png",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/历史过程/p7-sentinel-side-20261021-085018.png",
+      "sha256": "23268a476e0906d18a680c946ede0648a85725950fac0ff4f72023ea4f389018",
+      "bytes": 1427109,
+      "kind": "既有早期阶段截图",
+      "use": "只用于历史过程，不冒充最终当前版本",
+      "width": 1200,
+      "height": 1000
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p11-walk-ue-20261021.mp4",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/动作测试/p11-walk-ue-20261021.mp4",
+      "sha256": "037650ef64b26f3a484755210e288e3daf3d11d881bcdbb905c32281525d1aef",
+      "bytes": 298764,
+      "kind": "既有P11/P13步态测试短片",
+      "use": "非连续对战实录，不冒充P82当前运动效果",
+      "media_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "30/1",
+            "nb_frames": "21"
+          }
+        ],
+        "format": {
+          "duration": "0.700000",
+          "size": "298764"
+        }
+      },
+      "inspection_contact": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/检视/p11-walk-ue-20261021-all-21-frames.jpg"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p11-walk-r1-20261021.mp4",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/动作测试/p11-walk-r1-20261021.mp4",
+      "sha256": "940bb666a36ff12b677a9ef5416a647a076ea9edf234ea633780cba92773bb3b",
+      "bytes": 84836,
+      "kind": "既有P11/P13步态测试短片",
+      "use": "非连续对战实录，不冒充P82当前运动效果",
+      "media_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 768,
+            "height": 576,
+            "r_frame_rate": "30/1",
+            "nb_frames": "21"
+          }
+        ],
+        "format": {
+          "duration": "0.700000",
+          "size": "84836"
+        }
+      },
+      "inspection_contact": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/检视/p11-walk-r1-20261021-all-21-frames.jpg"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p11-walk-r2-20261021.mp4",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/动作测试/p11-walk-r2-20261021.mp4",
+      "sha256": "734cd8c5b8702cc955a06e19f150bb6cd90e9450c7c2e4a7de87a995ded84b10",
+      "bytes": 88024,
+      "kind": "既有P11/P13步态测试短片",
+      "use": "非连续对战实录，不冒充P82当前运动效果",
+      "media_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 768,
+            "height": 576,
+            "r_frame_rate": "30/1",
+            "nb_frames": "21"
+          }
+        ],
+        "format": {
+          "duration": "0.700000",
+          "size": "88024"
+        }
+      },
+      "inspection_contact": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/检视/p11-walk-r2-20261021-all-21-frames.jpg"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p13-r3-blender-walk-cycle.mp4",
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/动作测试/p13-r3-blender-walk-cycle.mp4",
+      "sha256": "bbf88e30ace64510ac517e8a9784fa46a37ef5074a77ad834a4d4744ef21e907",
+      "bytes": 173587,
+      "kind": "既有P11/P13步态测试短片",
+      "use": "非连续对战实录，不冒充P82当前运动效果",
+      "media_info": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 768,
+            "height": 576,
+            "r_frame_rate": "30/1",
+            "nb_frames": "21"
+          }
+        ],
+        "format": {
+          "duration": "0.700000",
+          "size": "173587"
+        }
+      },
+      "inspection_contact": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/检视/p13-r3-blender-walk-cycle-all-21-frames.jpg"
+    }
+  ],
+  "source_asset_count": 16,
+  "source_bytes": 20006880,
+  "not_done": [
+    "没有本次重新启动游戏或新录屏",
+    "没有连续声画检查",
+    "没有录制本人原声、渲染整片或发布"
+  ]
+}

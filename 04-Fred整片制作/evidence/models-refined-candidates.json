@@ -1,0 +1,186 @@
+{
+  "query": "角色 卡片 依次 登场",
+  "sceneType": "relationship",
+  "candidates": [
+    {
+      "id": "library-legacy81-r028",
+      "displayLabel": "L81-R028",
+      "title": "多张参考图依次卷入，汇为结果并交接下一轮",
+      "useWhen": "多图条件合成一张结果、人物+产品+场景、多输入生成结果；可跨三轮展示上一结果继续参与下一次生成。",
+      "sceneTypes": [
+        "image-comparison",
+        "relationship",
+        "prompt-reading"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "Fred 对本批当前成片作整体认可；新内容适配尚未验收。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "L81-R028",
+      "score": 244,
+      "reasons": [
+        "原词命中：卡片",
+        "原词命中：依次",
+        "相近词：依次、卡片"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "video-entry",
+          "explain",
+          "images"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "录屏",
+          "视频",
+          "窗口",
+          "文字",
+          "信息结构",
+          "图片",
+          "作品"
+        ],
+        "action": "多张参考图依次卷入，汇为结果并交接下一轮",
+        "segmentRole": "真实媒体进入讲解",
+        "nativeDurationSeconds": 17.967,
+        "adaptation": "替换真实媒体，保留连续媒体时钟；按片段进出点检查全屏、窗口与设备之间的交接。"
+      },
+      "resolveCommand": "references.py --id library-legacy81-r028 --full"
+    },
+    {
+      "id": "library-new10-n008",
+      "displayLabel": "N008",
+      "title": "商品旁的三个问题转为执行角色和作品",
+      "useWhen": "同一对象的需求如何分配给团队并产出成果。",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+        "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "N008",
+      "score": 177.0,
+      "reasons": [
+        "人物与反应",
+        "原词命中：角色",
+        "相近词：角色"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "images",
+          "explain",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "图片",
+          "作品",
+          "文字",
+          "信息结构",
+          "前后内容",
+          "载体",
+          "人物素材"
+        ],
+        "action": "商品旁的三个问题转为执行角色和作品",
+        "segmentRole": "素材展示舞台",
+        "nativeDurationSeconds": 8.0,
+        "adaptation": "替换本期真实图片，核对比例、裁切、重点和各张阅读时间。"
+      },
+      "resolveCommand": "references.py --id library-new10-n008 --full"
+    },
+    {
+      "id": "fred-wave2-42-t04b",
+      "displayLabel": "T04b",
+      "title": "角色分工：每个工具各管一环",
+      "useWhen": "一件事 → 拆给几个工具，各管一环",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave2-42-20261012",
+      "editableParameters": [],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T04b",
+      "score": 170.3,
+      "reasons": [
+        "卡片与容器",
+        "原词命中：角色",
+        "相近词：角色"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave2-42",
+        "inputObjects": [
+          "任务",
+          "2–4 个环节与工具"
+        ],
+        "action": "一件事 → 拆给几个工具，各管一环",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave2-42-t04b --full"
+    }
+  ],
+  "crossTypeFallback": false,
+  "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+  "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+  "publicFallbackCandidates": [],
+  "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source."
+}

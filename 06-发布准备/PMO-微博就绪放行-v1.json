@@ -1,0 +1,30 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "仅微博本条发布前原生准备增补，不表示所有平台完成",
+  "stage": "06_ADDENDUM_WEIBO_ONLY",
+  "remaining_required_work": [],
+  "account": "Eli-AI/7720929036",
+  "source_video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "native_uploaded_MB": 140.93,
+  "duplicate_check": "本人主页搜索大树守卫返回暂无内容；最新两条为10/21、10/20旧作",
+  "tags": [
+    "AI",
+    "游戏开发",
+    "艾尔登法环",
+    "agent",
+    "codex"
+  ],
+  "native_tag_limits": "AI从原生候选选；游戏开发精确候选未返回，沿本期用户指定五词以微博原生完整#词#格式输入，发表后核实际话题链接，不宣称五个候选均已选",
+  "cover": "cover-3x4-1080x1440-v1.png",
+  "native_cover_crop_seen": "裁切画面完整保留标题/人物/大树守卫，已完成",
+  "AI_declaration": "含AI生成内容",
+  "publish_button_enabled": true,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-profile-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-duplicate-search-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-before-send-v1.png"
+  ]
+}

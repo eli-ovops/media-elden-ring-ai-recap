@@ -1,0 +1,12 @@
+{
+  "observedDate": "2026-10-23",
+  "browser": "Codex IAB",
+  "url": "http://127.0.0.1:55323/preview-v2.html",
+  "currentSrc": "http://127.0.0.1:55323/output/elden-ring-ai-recap-v2-final.mp4",
+  "duration": 104.016667,
+  "width": 1080,
+  "height": 1920,
+  "seekable": [[0, 104.016667]],
+  "mediaError": null,
+  "scope": "Page, current media identity and seekable metadata checked. Not continuous AV or hearing."
+}

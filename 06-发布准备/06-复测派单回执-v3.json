@@ -1,0 +1,37 @@
+{
+  "at": "2026-10-23T19:32:04.444853+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "human_authority": "本聊天用户：开始试试吧。",
+  "scope": "ONE_IAB_READ_TEST_THEN_CONTINUE_PREPARATION_IF_RESTORED_NO_SEND",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "host": "local",
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "usage": {
+    "ordinaryUsageAllowed": true,
+    "usedPercent": 43,
+    "spendControlReached": false
+  },
+  "pre_dispatch_snapshot": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"timedOut\":false,\"wake\":{\"reason\":\"inactiveStatus\",\"threadId\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\",\"hostId\":\"local\"},\"polls\":[{\"schemaVersion\":1,\"cursor\":\"3805be71-33cb-48f3-b9b3-f601944298b4:1\",\"revision\":1,\"changed\":true,\"thread\":{\"id\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\",\"hostId\":\"local\",\"status\":{\"type\":\"notLoaded\"}},\"latestTurn\":{\"id\":\"01a16881-4463-7752-bf03-94f9f40f4af1\",\"status\":\"completed\",\"error\":null,\"startedAt\":1792754664,\"completedAt\":1792754671,\"durationMs\":6685},\"latestAssistantMessageId\":\"msg_082e977710995fa0016adb43ee77708191bb29a1dd8b72a39a\",\"latestAssistantMessage\":{\"id\":\"msg_082e977710995fa0016adb43ee77708191bb29a1dd8b72a39a\",\"turnId\":\"01a16881-4463-7752-bf03-94f9f40f4af1\",\"phase\":\"final_answer\",\"text\":\"已暂停浏览器准备，保持素材、草稿和登录现状，等你明确继续。\"},\"latestToolMarkerId\":null,\"latestToolMarker\":null}]}"
+      }
+    ],
+    "isError": false
+  },
+  "dispatch_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\"}"
+      }
+    ],
+    "isError": false
+  },
+  "message_accepted": true,
+  "read_recovery_verified": false
+}

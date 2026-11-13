@@ -1,0 +1,52 @@
+[
+  {
+    "args": [
+      "import-baseline",
+      "--content",
+      "elden-ring-ai-recap-20261023",
+      "--stage",
+      "02",
+      "--pmo",
+      "01a11194-c40d-7bf0-8396-5bb5d6449444",
+      "--review",
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/PMO-用户选题与来源基线验收-v1.json"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"saved\": true, \"active_content\": \"elden-ring-ai-recap-20261023\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "release",
+      "--content",
+      "elden-ring-ai-recap-20261023",
+      "--stage",
+      "02",
+      "--pmo",
+      "01a11194-c40d-7bf0-8396-5bb5d6449444",
+      "--input",
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/02-完整口播稿任务-v1.md",
+      "--input",
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/来源文件清单.json",
+      "--input",
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/Sac-制作教程原文.txt"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"saved\": true, \"active_content\": \"elden-ring-ai-recap-20261023\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "check",
+      "--content",
+      "elden-ring-ai-recap-20261023",
+      "--stage",
+      "02",
+      "--thread",
+      "01a11a70-35e6-7db1-86ac-80a7ce40a9cb"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"allowed\": true, \"content\": \"elden-ring-ai-recap-20261023\", \"stage\": \"02\"}\n",
+    "stderr": ""
+  }
+]

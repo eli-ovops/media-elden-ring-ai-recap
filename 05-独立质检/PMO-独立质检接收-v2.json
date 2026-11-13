@@ -1,0 +1,54 @@
+{
+  "at": "2026-10-23T18:05:57.833550+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "05_INTERNAL_SCOPED_REVIEW",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "ACCEPT_SCOPED_INTERNAL_QA_FOR_USER_REVIEW",
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+    "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981"
+  },
+  "owner_report": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/审查-v2.md",
+    "sha256": "068a41f02722e2826375ff7f3ff2d67895d2e7b8b54f9843cc6425cc111cd595",
+    "owner_decision": "SCOPED_VISUAL_REVIEW_NO_NEW_MUST_FIX"
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/审查-v2.md",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/审查-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/identity.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/sample-index.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/sheet-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/sheet-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO发送回执-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO-播放入口核验-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO-最终播放页-v2.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/PMO-完整制作接收验收-v2.json"
+  ],
+  "coverage_separated": {
+    "04_v1": "133帧/6张联系表及完整原件/源码，PMO已实审；保留未变范围",
+    "04_v2": "最终文件21帧/两原尺寸帧/源时钟与补片合成逻辑，PMO已实审",
+    "05_v2": "独立对当前同SHA采样98帧/5联系表，05报告全部查看及重点原尺寸；未把v1计入v2覆盖",
+    "PMO_05_intake": "读完整独立报告、身份/98帧索引/发送回执，抽审原证据sheet02/04，审当前浏览器入口；未宣称PMO又逐张复核98帧"
+  },
+  "findings": "C1/C2/C3已在对应采样和源时钟层关闭；独立层本次无新增必修项；四封面尺寸/SHA/手机缩图与PMO原图检查链一致。",
+  "remaining_required_work_for_this_intake": [],
+  "capability_limits": {
+    "direct_hearing": "UNKNOWN",
+    "normal_speed_full_continuous_AV": "UNKNOWN",
+    "subtitle_inner_cue_phoneme_timing": "UNKNOWN",
+    "English_tool_name_direct_hearing": "UNKNOWN"
+  },
+  "user_final_review": {
+    "status": "PENDING",
+    "minimum": "正常速度看听本104秒完整片；特别28.467/71.067秒录音交接、56—63秒工具名/字幕与整体节奏。现有素材已齐，不要求重新上传。"
+  },
+  "formal_workflow_gate": "05保留RELEASED等待实际用户终审，不调用approve填造human_review_source；06未释放，公开发布未授权。",
+  "production_delivery": "完整视频、工程/字幕/来源/SHA及四封面已齐，IAB交付入口已实际打开并保留。",
+  "routing": {
+    "05_requested": "gpt-6-astra/medium",
+    "05_actual": "UNKNOWN",
+    "05_read_versions": "审查-v2.md明确已读项目v3/制作v4"
+  },
+  "publication_authorized": false
+}

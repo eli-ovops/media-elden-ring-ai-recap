@@ -1,0 +1,28 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "仅X本条就绪即发，非所有平台完成",
+  "stage": "06_ADDENDUM_X_ONLY",
+  "remaining_required_work": [],
+  "account": "Eli-AI/@cczij1112",
+  "native_identity": "个人资料与账号菜单均显示@cczij1112、编辑个人资料入口",
+  "duplicate_check": "本轮本人最新三条为10/21、10/20旧作，无本条；发帖编辑器原为空",
+  "source_video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "native_media_ready": "elden-ring-ai-recap-v2-final.mp4: 就绪",
+  "tags": [
+    "AI",
+    "游戏开发",
+    "艾尔登法环",
+    "agent",
+    "codex"
+  ],
+  "cover_capability": "当前原生编辑媒体只有字幕/内容警告，未见自定义缩略图入口，采用实际视频首帧，未伪称封面图已上传",
+  "AI_declaration": "由 AI 生成 已开启并完成",
+  "paid_partnership": false,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-profile-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-before-send-v1.png"
+  ]
+}

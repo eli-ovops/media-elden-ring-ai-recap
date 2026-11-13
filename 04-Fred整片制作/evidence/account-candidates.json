@@ -1,0 +1,540 @@
+{
+  "libraryCandidates": {
+    "query": "数字 累加 汇总 计数",
+    "sceneType": "metric-change",
+    "candidates": [
+      {
+        "id": "fred-wave3-40-t14e",
+        "displayLabel": "T14e",
+        "title": "三个关键数字",
+        "useWhen": "几项指标 → 数字同时滚动、依次落定成一排",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "stats",
+          "hero",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14e",
+        "score": 209.7,
+        "reasons": [
+          "数值与图表",
+          "原词命中：数字",
+          "相近词：数字"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "三个数值",
+            "标签",
+            "单位"
+          ],
+          "action": "几项指标 → 数字同时滚动、依次落定成一排",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t14e --full"
+      },
+      {
+        "id": "fred-native-t14c",
+        "displayLabel": "T14c",
+        "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "useWhen": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-native-16-20261012",
+        "editableParameters": [
+          "label",
+          "value",
+          "decimals",
+          "prefix",
+          "unit",
+          "compareLabel",
+          "compareValue",
+          "deltaText",
+          "deltaKey",
+          "background"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14c",
+        "score": 209.7,
+        "reasons": [
+          "数值与图表",
+          "原词命中：数字",
+          "相近词：数字"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data"
+          ],
+          "sourceId": "fred-native",
+          "inputObjects": [
+            "新旧价格",
+            "单位",
+            "结论"
+          ],
+          "action": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-native-t14c --full"
+      },
+      {
+        "id": "fred-wave3-40-t15e",
+        "displayLabel": "T15e",
+        "title": "折线走势",
+        "useWhen": "一条折线逐段画出 → 关键点落下数值标签",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "series",
+          "labels",
+          "highlight",
+          "xDomain",
+          "yDomain",
+          "xTicks",
+          "yTicks",
+          "xPrefix",
+          "xSuffix",
+          "yPrefix",
+          "ySuffix",
+          "xTitle",
+          "yTitle",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 360,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T15e",
+        "score": 91.7,
+        "reasons": [
+          "数值与图表"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "数据点",
+            "折线",
+            "坐标轴"
+          ],
+          "action": "一条折线逐段画出 → 关键点落下数值标签",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t15e --full"
+      },
+      {
+        "id": "fred-wave2-42-t14a2",
+        "displayLabel": "T14a2",
+        "title": "A/B 耗时赛跑（返修）：轨道加长",
+        "useWhen": "两方同时开跑 → 快的一方先到，倍数落定",
+        "sceneTypes": [
+          "metric-change",
+          "image-comparison"
+        ],
+        "collectionId": "fred-wave2-42-20261012",
+        "editableParameters": [],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14a2",
+        "score": 91.7,
+        "reasons": [
+          "数值与图表"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data",
+            "explain"
+          ],
+          "sourceId": "fred-wave2-42",
+          "inputObjects": [
+            "A/B 两方耗时"
+          ],
+          "action": "两方同时开跑 → 快的一方先到，倍数落定",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave2-42-t14a2 --full"
+      },
+      {
+        "id": "fred-wave2-fix5-t14b",
+        "displayLabel": "T14b",
+        "title": "单项参数落定",
+        "useWhen": "一个参数名 → 数值落定并标出含义",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "collectionId": "fred-wave2-fix5-20261012",
+        "editableParameters": [],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 240,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-fix5-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-fix5-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T14b",
+        "score": 91.7,
+        "reasons": [
+          "数值与图表"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data"
+          ],
+          "sourceId": "fred-wave2-fix5",
+          "inputObjects": [
+            "参数名",
+            "数值",
+            "含义"
+          ],
+          "action": "一个参数名 → 数值落定并标出含义",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 4.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave2-fix5-t14b --full"
+      }
+    ],
+    "crossTypeFallback": false,
+    "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+    "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+    "publicFallbackCandidates": [
+      {
+        "id": "library-legacy81-b062",
+        "displayLabel": "L81-B062",
+        "title": "人物与AI柱状图数值对照",
+        "useWhen": "人物与AI柱状图数值对照",
+        "sceneTypes": [
+          "summary",
+          "metric-change"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "L81-B062",
+        "score": 91.7,
+        "reasons": [
+          "数值与图表"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "data"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "数值",
+            "图表",
+            "人物素材"
+          ],
+          "action": "人物与AI柱状图数值对照",
+          "segmentRole": "数据证据",
+          "nativeDurationSeconds": 9.0,
+          "adaptation": "使用真实数值、单位和比较关系；仅在数据承担解释职责时选用。"
+        },
+        "resolveCommand": "references.py --id library-legacy81-b062 --full"
+      },
+      {
+        "id": "library-legacy81-r005",
+        "displayLabel": "L81-R005",
+        "title": "数字展开为分类分支",
+        "useWhen": "数字展开为分类分支",
+        "sceneTypes": [
+          "summary",
+          "relationship"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "L81-R005",
+        "score": 189.7,
+        "reasons": [
+          "数值与图表",
+          "原词命中：数字",
+          "相近词：数字"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "explain",
+            "data"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "文字",
+            "信息结构",
+            "数值",
+            "图表"
+          ],
+          "action": "数字展开为分类分支",
+          "segmentRole": "一段解释",
+          "nativeDurationSeconds": 9.467,
+          "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。"
+        },
+        "resolveCommand": "references.py --id library-legacy81-r005 --full"
+      },
+      {
+        "id": "ep102-selected-01",
+        "displayLabel": "102-01",
+        "title": "四作品聚拢并显现组合",
+        "useWhen": "把多个成品聚拢为一组工具或品牌组合",
+        "sceneTypes": [
+          "image-comparison",
+          "relationship"
+        ],
+        "collectionId": "ep102-selected-20261005",
+        "editableParameters": [],
+        "knownLimitations": [
+          "认可范围是Fred指定的最终成片区间；新增内容的适配仍需检查。",
+          "预览为最终4K60成片的独立摘录；便携源码与已核验素材安装器随独立工程分发。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "102-01",
+        "score": 106,
+        "reasons": [
+          "原词命中：汇总",
+          "相近词：汇总"
+        ],
+        "sameSceneType": false,
+        "productionUse": {
+          "useIds": [
+            "images",
+            "handoff"
+          ],
+          "sourceId": "ep102",
+          "inputObjects": [
+            "图片",
+            "作品卡片",
+            "汇总文字"
+          ],
+          "action": "四个真实视频沿已测轨迹聚拢，组合文字显现",
+          "segmentRole": "完整场景",
+          "nativeDurationSeconds": 4,
+          "adaptation": "保留源动作与媒体时钟，替换本期对象、素材和cue后检查实际输出。"
+        },
+        "resolveCommand": "references.py --id ep102-selected-01 --full"
+      }
+    ],
+    "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source.",
+    "narrationCandidates": [],
+    "narrationScope": "Matches from the spoken line only. Use them to widen the visual query, not as a selection."
+  },
+  "scene": {
+    "stableId": "account",
+    "oneQuestion": "三天账号用量69.4亿",
+    "sourceSpans": [
+      {
+        "text": "三天账号用量69.4亿"
+      }
+    ],
+    "implementationMode": "adapted",
+    "componentPlan": {
+      "query": "数字 累加 汇总 计数"
+    },
+    "referenceChoices": []
+  },
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/Manifest.json",
+  "next": "Inspect each candidate video/core frames, then read the full packet without --candidates-only."
+}

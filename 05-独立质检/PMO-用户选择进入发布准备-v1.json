@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-23T18:45:07.489702+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "05",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "USER_SELECTED_CURRENT_VERSION_FOR_NONPUBLIC_PREPARATION_ONLY",
+  "human_review_source": {
+    "chat_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "exact_user_text": "准备发布",
+    "interpretation": "用户选择刚交付的v2完整片进入发布准备；不是公开发送授权，也不能证明其已连续看听。"
+  },
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+    "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981"
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/PMO-独立质检接收-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/05-独立质检/审查-v2.md",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/PMO-完整制作接收验收-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/制作总单.md"
+  ],
+  "remaining_required_work": [],
+  "remaining_required_work_scope": "只针对非公开准备交接；不宣布全部声画验收完成。",
+  "retained_limits": {
+    "direct_hearing": "UNKNOWN",
+    "full_continuous_AV": "UNKNOWN",
+    "inner_cue_precise_sync": "UNKNOWN",
+    "English_name_hearing": "UNKNOWN",
+    "human_continuous_review": "NOT_EVIDENCED"
+  },
+  "publication_authorized": false,
+  "comments_or_pins_authorized": false,
+  "onward_scope": "九活跃平台文案与非公开草稿，全部停在发送前。视频号沿安全拒绝交手动包。"
+}

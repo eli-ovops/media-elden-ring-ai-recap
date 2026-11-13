@@ -1,0 +1,146 @@
+{
+  "scope": "Representative v1 only; global20.4–32.55s",
+  "output": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/representative-v1.mp4",
+    "sha256": "1b6b752b4a5386f868b745e52d48d30a8562ec836a8da3dcfe9f925767ed7f7e"
+  },
+  "spec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "videoFrames": 729,
+    "durationSeconds": 12.15,
+    "audio": "AAC 48kHz mono"
+  },
+  "decode": {
+    "status": "PASS",
+    "method": "ffmpeg full AV decode to null exit0; no error output"
+  },
+  "sourceAudio": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edit/voice-master-v2.wav",
+    "sha256": "6af515f35c1ec81894aa0ca43eacd0b76f3911f6dbdf5784811b917b697f97a3",
+    "trimStartSeconds": 20.4,
+    "trimDurationSeconds": 12.15,
+    "gainDB": 0,
+    "speed": 1,
+    "processing": "AAC mux only, no second denoise"
+  },
+  "visualReview": {
+    "status": "SCOPED_PASS_FOR_PMO_REVIEW",
+    "frames": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-01.png",
+        "sha256": "ffb9eb2d3e27c18a44997add1f49a6284b5f05c8edc6dcfbd266d12edfed2617",
+        "frame": 100,
+        "globalFrame": 1324
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-02.png",
+        "sha256": "b34976bbfbda3e8fed3eaca4154476f234c36b4903423a678f6c293e490cbb0d",
+        "frame": 119,
+        "globalFrame": 1343
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-03.png",
+        "sha256": "6b2d3dd0a47b1d043af3ab74e0068561a1b45e4db80041af93efcd191a4a9c31",
+        "frame": 120,
+        "globalFrame": 1344
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-04.png",
+        "sha256": "41ae3b6ae4b5c69041cc98d36f4db6c0caafb0b64bb097252567ce7ea8a480c7",
+        "frame": 135,
+        "globalFrame": 1359
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-05.png",
+        "sha256": "dc22243c91ae8b695905a8a1bce0a6ae2bd83e9831bd3ccb89270448771a029d",
+        "frame": 170,
+        "globalFrame": 1394
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-06.png",
+        "sha256": "df63aad597680da9154684e7bf40f1963aedca316ec9971422723c56d9d7f300",
+        "frame": 240,
+        "globalFrame": 1464
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-07.png",
+        "sha256": "29afb48c1995ac7c974d74c2c96d9fdd82de44b9d8ae21eb6db2fe1f6958f752",
+        "frame": 310,
+        "globalFrame": 1534
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-08.png",
+        "sha256": "00a6e39ab1cd0dff58ce1895f92ae6e247a700e56f30d028e820ad4b4e3de45c",
+        "frame": 370,
+        "globalFrame": 1594
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-09.png",
+        "sha256": "962c710e9b0606ca257658b31b0b8f947d38fd822389ec6e08445452699bbfb5",
+        "frame": 482,
+        "globalFrame": 1706
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-10.png",
+        "sha256": "962c710e9b0606ca257658b31b0b8f947d38fd822389ec6e08445452699bbfb5",
+        "frame": 483,
+        "globalFrame": 1707
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-11.png",
+        "sha256": "723dac825960a4c7c351ff47a43e581e9ec6cedbc563ea82409a60bad3a30211",
+        "frame": 484,
+        "globalFrame": 1708
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-12.png",
+        "sha256": "36f0946bbe14065ce28ab148f64cf22ddf956af3b9e3dd12b721fbb42bbeb1a5",
+        "frame": 485,
+        "globalFrame": 1709
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-13.png",
+        "sha256": "329b07e3d559cfa10677210565938c6ebcf7374c944dfe40a1579e99ef3ffd18",
+        "frame": 540,
+        "globalFrame": 1764
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-14.png",
+        "sha256": "2687de24ebf48be2eb78638afe106958c6ddc1333b933aaa580b5f7d3745c3e1",
+        "frame": 650,
+        "globalFrame": 1874
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-15.png",
+        "sha256": "6f71de1909ebd58802cefe1b0fc2414db43db900f97c505693d3cc729cf39408",
+        "frame": 728,
+        "globalFrame": 1952
+      }
+    ],
+    "checks": {
+      "semanticFit": "26.3/24.3/18.8对应三天账号数据，69.4为和；顶部账号限定清楚，不表示游戏专属或现金。",
+      "corePreserved": "原实现4卡的rise/roll/landed/heroP/heroQ及Surface关系保留；竖屏2x2呈现与原预览阶段一致。",
+      "visualQuality": "实际导出f135/170入场和滚动、f240/310落定、f370突出、f482/483末态以及f484/485真人回场已采样；f370原尺寸数字单位完整，手机联系表无裁字；黑紫变化保留。"
+    },
+    "referenceOriginalSeconds": [
+      0,
+      5.012
+    ],
+    "referenceOutputLocalSeconds": [
+      2,
+      8.066667
+    ]
+  },
+  "limitations": {
+    "directHearing": "UNKNOWN",
+    "continuousAV": "UNKNOWN",
+    "sourceSpeechSubtitlePrecision": "03 SRT候选句内时码；没有听核PASS",
+    "gameSource": "1280x720真实静帧，竖屏cover裁切；非连续游戏，边缘盾牌裁切但人物骑乘主体可辨",
+    "subtitleBoundary": "local8.066667首真人帧无字幕，下一帧出现；来自SRT28.467毫秒舍入，无额外语音剪切"
+  },
+  "pmoAcceptance": "PENDING",
+  "userAcceptance": "PENDING",
+  "fullFilmStatus": "not rendered"
+}

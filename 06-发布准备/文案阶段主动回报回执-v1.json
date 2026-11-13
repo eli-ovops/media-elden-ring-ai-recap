@@ -1,0 +1,14 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "phase": "COPY_STAGE",
+  "receipt": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "continued_after_report": true
+}

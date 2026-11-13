@@ -1,0 +1,54 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "02",
+  "decision": "PASS",
+  "at": "2026-10-23T10:23:45.083094+08:00",
+  "acceptance_scope": "Complete script/storyboard draft for user review only; no user script approval, recording, rendering or audiovisual acceptance.",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/完整口播稿-v1.1.md",
+      "sha256": "2d6294c74621f107b539da17184d35b60c4deba20d6ce806564cf8e0346c310b",
+      "pmo_read_full": true,
+      "owner_report_hash_match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/画面与节奏-v1.1.md",
+      "sha256": "39f3693264c1691753ce170681ed8b0c441c7d2c0f22ebcf4e12587717f9e2bb",
+      "pmo_read_full": true,
+      "owner_report_hash_match": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/事实与素材核对-v1.1.md",
+      "sha256": "f5326ec80c2f77adc07c5d8a504d6b64b55f503804dbae1d8bc4f0f913881f4d",
+      "pmo_read_full": true,
+      "owner_report_hash_match": true
+    }
+  ],
+  "remaining_required_work": [],
+  "checks": {
+    "user_direction": "PASS",
+    "reference_vs_own_game_identity_and_cues": "PASS_DRAFT",
+    "account_three_day_69_4_not_single_game_cost": "PASS",
+    "duration_is_goal_span_not_continuous_compute": "PASS",
+    "author_16_days_multi_tools_including_Astra": "PASS",
+    "github_public_repo_and_release": "PMO_WEB_READ_CONFIRMED",
+    "github_download_requires_restoration_and_build": "PASS_WORDING",
+    "user_token_joke_not_cash_or_balance_claim": "PASS",
+    "firstperson_voice_and_no_fabricated_incidents": "PASS",
+    "timeline": "PROVISIONAL_100_SECONDS_NOT_RECORDED",
+    "source_visual_coverage": "SAMPLES_ONLY_NO_CONTINUOUS_AV_CLAIM"
+  },
+  "revision_review": "One concentrated minor revision closed; current user GitHub addition included in same v1.1. Original v1 retained.",
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "later_stage_gaps": [
+    "本人本期口播未录制，实际时长未测。",
+    "我方连续实机录像未采；参考高清片段待后续。",
+    "04/05/06未释放，未制作或发布。"
+  ],
+  "next_action": "本聊天交用户完整稿和画面节奏，等用户审稿决定。"
+}

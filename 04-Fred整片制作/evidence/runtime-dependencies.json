@@ -1,0 +1,11 @@
+{
+  "versions": {
+    "remotion": "4.0.451",
+    "@remotion/renderer": "4.0.451",
+    "@remotion/bundler": "4.0.451",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  },
+  "nodeModulesRealPath": "/Volumes/EXTERNAL/自媒体/deepseek-deepinfer-20261021/04-Fred整片重制/node_modules",
+  "note": "Reuses existing local dependencies via symlink; package manager lockfile not supplied by this project. Not a standalone installed bundle."
+}

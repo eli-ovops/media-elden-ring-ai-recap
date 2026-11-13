@@ -1,0 +1,61 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/talk-1.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9d4b1a182e0f0074ff92bacbe2bbdc82_raw.mp4",
+    "sourceInSeconds": 0.233333333333,
+    "duration": 28.466666666667,
+    "muted": true,
+    "sha256": "0a0669cb5a43c11b06684a12499e958369910af4a5b559b9e4ebe0629b0bb626"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/talk-2.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/ad772cd8d8dcac13349c4b5b0adcfed8_raw.mp4",
+    "sourceInSeconds": 0.233333333333,
+    "duration": 42.6,
+    "muted": true,
+    "sha256": "b1955a5d83547bbe0e6b2071b8af44a661cc8cac3b8098f4f454a7d0f1a803da"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/talk-3.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9a00fbddfbe4a52eb4e8e26fff93833d_raw.mp4",
+    "sourceInSeconds": 0.55,
+    "duration": 32.95,
+    "muted": true,
+    "sha256": "ee705c7facbe5c9e9cc75ab806a319c46d6b3a31843447fc70548b1e9203674b"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/early.png",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/历史过程/p7-sentinel-side-20261021-085018.png",
+    "sha256": "23268a476e0906d18a680c946ede0648a85725950fac0ff4f72023ea4f389018"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/walk.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/动作测试/p13-r3-blender-walk-cycle.mp4",
+    "sha256": "bbf88e30ace64510ac517e8a9784fa46a37ef5074a77ad834a4d4744ef21e907"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/church.png",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-church_fixed.png",
+    "sha256": "c1fa8c4c38553832a8ceaa8d628acf33650014728eb953ddf84894b16b05502c"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/tree.png",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-tree.png",
+    "sha256": "b73413666865bd1c497a38398ecc73432b2511cc77f54327d7e9158701bc8baa"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/player.png",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p82-ue-player-Idle.png",
+    "sha256": "9e20c6e93d825afabdf42869ea8fa81331469af100deeb08242a3a7c03f45e8c"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/died.png",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/own-gameplay-20261023.png",
+    "sha256": "5750166fe8a118ac60a3099e2491777b53dea28f62a92901717a9840f4395e4e"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/public/prince.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-reference-480x270.mp4",
+    "sha256": "f1222e3471b28a55c8bf51bc852951965663c5749aca2a3126112e10df6457a9"
+  }
+]

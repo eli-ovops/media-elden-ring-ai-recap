@@ -1,0 +1,11 @@
+- generic: 视频发布
+- text: 视频已上传成功，将在转码后发布，发布进度请查
+- text: 看视频管理> 请留意来自
+- link "@微博视频":
+  - /url: https://weibo.com/u/5186027114
+- text: 的私信通知
+- button "再发一条视频":
+  - generic: 再发一条视频
+- text:    
+- generic: 
+- text:   

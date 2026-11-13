@@ -1,0 +1,20 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "version": "v2-final",
+  "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "decision": "SCOPED_VISUAL_REVIEW_NO_NEW_MUST_FIX",
+  "samples": 98,
+  "sampling": "每2秒全片基线，组件中态和C1/C2/C3边界加点，sample-index.json完整帧列表",
+  "C1": "closed in sampled scope",
+  "C2": "continuous source clock plus adjacent frame check",
+  "C3": "both subjects and sentence visible",
+  "direct_hearing": "UNKNOWN",
+  "continuous_AV": "UNKNOWN",
+  "user_review": "PENDING",
+  "publication_authorized": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "preview_UI": "NOT_RECHECKED",
+  "covers": "current four SHA/dimensions and phone contact reviewed; full-resolution edge inspection inherited PMO, not independently repeated"
+}

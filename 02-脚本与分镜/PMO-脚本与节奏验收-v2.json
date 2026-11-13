@@ -1,0 +1,51 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "02",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-23T14:01:54.404469+08:00",
+  "decision": "PASS",
+  "scope": "完整v2口播稿与同步声画规划可交用户看稿，仅阶段02；非用户认可、录制或成片验收",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/完整口播稿-v2.md",
+      "sha256": "30fc050ed0051a9bb207b9f59ba0b6101738c4d7bd49164d06513a6883840c98"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/画面与节奏-v2.md",
+      "sha256": "942eaba2b68e4a937e54473e4ed17735c2102dffcbcf7ed0639565e2b11437c0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/02-脚本与分镜/事实与素材核对-v2.md",
+      "sha256": "15d106768a814546c89c1cd025a7d203ff4790e7740c832273c042a321b05547"
+    }
+  ],
+  "source_crosscheck": {
+    "method": "对照本片冻结原件及本聊天已实际读取/看过的来源，不重开游戏或下载素材",
+    "token_total": "26.3+24.3+18.8=69.4亿，正文明确账号三天总量；不得归因单项目独占",
+    "elapsed": "3d11h55m30s以三天多表述，非连续满负荷时长",
+    "visual_detail": "own-player-p82.png可见板甲/球形关节；own-gameplay-20261023.png可见骑兵/倒地/YOU DIED。未借截图声称运动质量、故障或死因",
+    "little_prince": "动机后置，作者自述16天及Tripo/Blender/Astra组合保留；无同条件模型排名",
+    "github": "沿当天已核公开仓库/Release，按README搭建，非即玩安装包或商用授权"
+  },
+  "narrative_review": {
+    "player_opening": "已并入，先亮我方原型",
+    "concrete_gap": "球形关节/拼装玩具为基于实际画面的主观观感",
+    "rhythm": "结果→账号用量→可见细节→尝试动机→现实落差→GitHub接力；比旧稿减少重复感叹",
+    "timing": "90—105秒仅文字估计，100秒分镜预算；实际录音后再定，不当实测时长"
+  },
+  "remaining_required_work": [],
+  "not_completed_or_authorized": [
+    "用户看稿/认可PENDING",
+    "本人原声、连续实机录像、清晰第三方引用待后续阶段",
+    "准确Fred组件候选/源码调用、实际渲染、完整声画验收均未执行",
+    "04/05/06未释放，未修改游戏、未发布"
+  ],
+  "owner_report": {
+    "received_in_this_chat": true,
+    "source_thread_id": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  }
+}

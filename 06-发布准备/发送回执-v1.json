@@ -1,0 +1,266 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "executor_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "original_owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "authorization_file": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/就绪平台发布授权补充-v2.json",
+  "updated_at_utc": "2026-10-23T17:58:49.776402+00:00",
+  "video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "tags": [
+    "AI",
+    "游戏开发",
+    "艾尔登法环",
+    "agent",
+    "codex"
+  ],
+  "platforms": {
+    "B站": {
+      "account": "Eli-AI/432834855",
+      "draft_id": "4024625",
+      "submit_click_count": 1,
+      "submitted": true,
+      "status": "PUBLISHED_PUBLIC",
+      "public_visibility": "NATIVE_REVIEW_COMPLETED_AND_PUBLIC_PAGE_READBACK",
+      "url": "https://www.bilibili.com/video/BV1ZEn86PEha/",
+      "native_progress_url": "https://member.bilibili.com/platform/upload-manager/archive-process?bvid=BV1ZEn86PEha",
+      "native_process": "上传、转码、1080P60帧、稿件审核均已完成；公开页显示本条与五个原生标签",
+      "native_tags_verified": true,
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-submit-result-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-submit-result-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-progress-after-submit-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-progress-after-submit-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-final-native-status-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-final-native-status-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-public-confirmed-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/bilibili-public-confirmed-v1.png"
+      ],
+      "authorization_consumed": true,
+      "native_publication_time": "2026-10-23 23:37:02"
+    },
+    "YouTube": {
+      "account": "Eli-AI/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "video_id": "2ZQ6YZ8Yv34",
+      "publish_click_count": 1,
+      "submitted": true,
+      "status": "PUBLISHED_PUBLIC",
+      "url": "https://youtube.com/shorts/2ZQ6YZ8Yv34",
+      "native_public_selection_checked": true,
+      "native_confirmation": "视频发布时间：发布于2026年10月23日，显示本条分享链接",
+      "body_has_exact_five_tags": true,
+      "backend_tags_exact_five": true,
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-five-tags-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-publish-result-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-publish-result-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-public-confirmed-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/youtube-public-confirmed-v1.png"
+      ],
+      "authorization_consumed": true,
+      "native_public_saved_readback": "公开范围：公开，发布后保存按钮disabled"
+    },
+    "抖音": {
+      "status": "PUBLISHED_PUBLIC",
+      "submitted": true,
+      "original_draft_cross_chat_unavailable": true,
+      "duplicate_check": "恢复前读取原生作品9条，无本条；原06草稿跨会话未恢复。随后仅在本会话恢复同版v2素材一次并提交一次，原生列表变为10条且本条审核中。",
+      "submit_click_count": 1,
+      "authorization_consumed": true,
+      "account": "Eli-Ai/25296649142",
+      "native_time": "2026年10月23日 23:46",
+      "native_duration": "01:44",
+      "public_visibility": "NATIVE_PUBLISHED_AND_PUBLIC_PAGE_READBACK",
+      "url": "https://www.douyin.com/video/7699890072421698857",
+      "native_tags_verified": true,
+      "cover_files": [
+        "cover-3x4-1080x1440-v1.png",
+        "cover-4x3-1440x1080-v1.png"
+      ],
+      "native_video": {
+        "duration": 104.016667,
+        "width": 1080,
+        "height": 1920,
+        "readyState": 4
+      },
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-five-tags-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-native-tags-v1.json",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-before-send-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-management-after-publish-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-management-after-publish-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-final-native-status-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-final-native-status-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-work-detail-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-public-confirmed-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-public-confirmed-v1.png"
+      ],
+      "work_id": "7699890072421698857",
+      "native_final_status": "已发布；作品状态正常；公开页显示本条标题、Eli-Ai、五个原生话题与01:44"
+    },
+    "微博": {
+      "account": "Eli-AI/7720929036",
+      "submit_click_count": 1,
+      "submitted": true,
+      "status": "PUBLISHED_PUBLIC",
+      "public_visibility": "OWN_PROFILE_POST_READBACK",
+      "url": "https://weibo.com/7720929036/Ro3sI7C63",
+      "native_confirmation": "视频已上传成功，将在转码后发布",
+      "cover_file": "cover-3x4-1080x1440-v1.png",
+      "declaration": "含AI生成内容",
+      "tags_requested": [
+        "AI",
+        "游戏开发",
+        "艾尔登法环",
+        "agent",
+        "codex"
+      ],
+      "public_tag_links": "五个指定话题均为原生可点击搜索链接",
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-profile-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-duplicate-search-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-before-send-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-submit-result-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-submit-result-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-profile-after-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/weibo-profile-after-send-v1.png"
+      ],
+      "authorization_consumed": true,
+      "video_url": "https://video.weibo.com/show?fid=1034:5357330448187404",
+      "native_duration": "01:44"
+    },
+    "LinkedIn": {
+      "submitted": false,
+      "status": "BLOCKED_VERIFICATION_REDIRECT_EMPTY_PAGE",
+      "url": "https://www.linkedin.com/check/china/add-phone",
+      "original_profile": "https://www.linkedin.com/in/eli-chao-548a7a43b/",
+      "native_dom_empty": true,
+      "ordinary_reload_count": 1,
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/linkedin-verification-blocker-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/linkedin-verification-blocker-v1.png"
+      ],
+      "phone_entered": false,
+      "verification_bypassed": false,
+      "authorization_consumed": false
+    },
+    "X": {
+      "account": "Eli-AI/@cczij1112",
+      "status": "PUBLISHED_PUBLIC",
+      "submitted": true,
+      "submit_click_count": 1,
+      "authorization_consumed": true,
+      "url": "https://x.com/cczij1112/status/2113662529859919990",
+      "native_duration": "01:44",
+      "native_ai_label": "由 AI 生成",
+      "native_tag_links": [
+        "AI",
+        "游戏开发",
+        "艾尔登法环",
+        "agent",
+        "codex"
+      ],
+      "cover_capability": "原生编辑媒体只显示字幕、内容警告；未见自定义封面入口，采用视频首帧",
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-public-confirmed-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/x-public-confirmed-v1.png"
+      ]
+    },
+    "TikTok": {
+      "account": "Eli-AI/@elimakesapps",
+      "status": "PUBLISHED_PUBLIC",
+      "submitted": true,
+      "submit_click_count": 1,
+      "authorization_consumed": true,
+      "url": "https://www.tiktok.com/@elimakesapps/video/7699897661360442676",
+      "native_confirmation": "作品25（原24），本条01:44，内容审查中",
+      "public_visibility": "原生本条隐私所有人，已无内容审查中提示",
+      "cover_file": "cover-3x4-1080x1440-v1.png",
+      "ai_label": "创作者已标记为由AI生成",
+      "tags": [
+        "AI",
+        "游戏开发",
+        "艾尔登法环",
+        "agent",
+        "codex"
+      ],
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-before-send-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-cover-before-save-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-after-submit-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-after-submit-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-public-confirmed-20261024.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-public-confirmed-20261024.png"
+      ],
+      "old_draft_retained": "AI认知漏斗，草稿1条未改",
+      "previous_submission_status": {
+        "status": "SUBMITTED_UNDER_REVIEW",
+        "public_visibility": "原生当前仅自己；发送前选择所有人，尚未证实公开"
+      },
+      "native_publication_time": "10月24日 0:15",
+      "pmo_readback_at": "2026-10-24T01:58:49.776172+08:00",
+      "native_play_count_at_readback": 13
+    },
+    "小红书": {
+      "account": "Eli AI FDE",
+      "submitted": false,
+      "submit_click_count": 0,
+      "authorization_consumed": false,
+      "status": "READY_ON_PAGE_MANUAL_SEND_CONTROL_UNAVAILABLE",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=menu&target=video",
+      "current_tab_id": "8",
+      "duplicate_check": "本人笔记搜索大树守卫显示没有找到相关笔记；原生草稿箱三条，已恢复2026-10-23 22:48:50的本条01:44草稿，其他两条未改",
+      "old_saved_draft_recovered": true,
+      "five_tag_edit_saved": "UNKNOWN；当前编辑页已填好并保留",
+      "native_tags": [
+        "ai",
+        "游戏开发",
+        "艾尔登法环",
+        "agent",
+        "codex"
+      ],
+      "tag_case_note": "用户AI挂载到平台既有#ai话题，未另建重复话题",
+      "cover_file": "cover-3x4-1080x1440-v1.png",
+      "native_media": {
+        "duration": 104.016667,
+        "width": 1080,
+        "height": 1920,
+        "readyState": 4,
+        "error": null
+      },
+      "declaration": "笔记含AI合成内容",
+      "native_visibility": "公开可见，定时发布未选",
+      "blocker": "底部xhs-publish-btn封闭控件，具体发布/暂存文字不在可访问DOM；本轮无可定位的发布按钮，键盘控件焦点尝试失败，未提交、未绕过",
+      "evidence": [
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-account-before-send-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-duplicate-search-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-native-media-v1.json",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-ready-manual-v1.txt",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-ready-manual-v1.png",
+        "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/xiaohongshu-control-blocker-v1.json"
+      ]
+    },
+    "视频号": {
+      "submitted": false,
+      "submit_click_count": 0,
+      "authorization_consumed": false,
+      "status": "MANUAL_REQUIRED_EXISTING_SITE_SAFETY_BLOCK",
+      "url": "https://channels.weixin.qq.com/platform",
+      "account": "UNKNOWN，未访问",
+      "access_attempted_this_execution": false,
+      "cover_file": "cover-3x4-1080x1440-v1.png",
+      "manual_package": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/手动接续文案-五标签-v1.md",
+      "note": "既有明确站点安全拒绝继续有效，本轮未重试、未换通道。"
+    }
+  },
+  "completed_all_targets": false,
+  "no_comments_pins_dms_or_paid_actions": true,
+  "updated_at": "2026-10-24T01:58:49.776172+08:00",
+  "submitted_count": 6,
+  "public_confirmed_count": 6,
+  "under_review_count": 0,
+  "unsubmitted_count": 3,
+  "cleanup_trigger": false,
+  "execution_result": "本次所有可由当前受支持入口完成的平台均已单次提交；三站有具体人工阻断，未标九站完成。"
+}

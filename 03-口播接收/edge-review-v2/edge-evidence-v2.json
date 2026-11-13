@@ -1,0 +1,368 @@
+[
+  {
+    "attachment": 1,
+    "times": [
+      0,
+      0.5,
+      1,
+      33.475,
+      33.975,
+      34.425000000000004
+    ],
+    "energy_first_last_1s": [
+      {
+        "from": 0.0,
+        "to": 0.1,
+        "rms_dbfs": -59.6
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "rms_dbfs": -60.7
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "rms_dbfs": -60.9
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "rms_dbfs": -61.3
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "rms_dbfs": -62.2
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "rms_dbfs": -60.2
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "rms_dbfs": -61.3
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "rms_dbfs": -25.7
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "rms_dbfs": -19.3
+      },
+      {
+        "from": 0.9,
+        "to": 1.0,
+        "rms_dbfs": -32.5
+      },
+      {
+        "from": 33.4733,
+        "to": 33.5733,
+        "rms_dbfs": -68.1
+      },
+      {
+        "from": 33.5733,
+        "to": 33.6733,
+        "rms_dbfs": -70.5
+      },
+      {
+        "from": 33.6733,
+        "to": 33.7733,
+        "rms_dbfs": -69.3
+      },
+      {
+        "from": 33.7733,
+        "to": 33.8733,
+        "rms_dbfs": -71.5
+      },
+      {
+        "from": 33.8733,
+        "to": 33.9733,
+        "rms_dbfs": -69.2
+      },
+      {
+        "from": 33.9733,
+        "to": 34.0733,
+        "rms_dbfs": -67.1
+      },
+      {
+        "from": 34.0733,
+        "to": 34.1733,
+        "rms_dbfs": -65.2
+      },
+      {
+        "from": 34.1733,
+        "to": 34.2733,
+        "rms_dbfs": -65.7
+      },
+      {
+        "from": 34.2733,
+        "to": 34.3733,
+        "rms_dbfs": -70.5
+      },
+      {
+        "from": 34.3733,
+        "to": 34.4733,
+        "rms_dbfs": -68.3
+      }
+    ],
+    "silence_first": [
+      "[silencedetect @ 0x145075ad0] silence_start: 0",
+      "[silencedetect @ 0x145075ad0] silence_end: 0.751646 | silence_duration: 0.751646"
+    ],
+    "silence_last": [
+      "[silencedetect @ 0x145075ad0] silence_end: 30.7407 | silence_duration: 0.495479",
+      "[silencedetect @ 0x145075ad0] silence_start: 33.2899",
+      "[silencedetect @ 0x145075ad0] silence_end: 34.4733 | silence_duration: 1.18348"
+    ]
+  },
+  {
+    "attachment": 2,
+    "times": [
+      0,
+      0.5,
+      1,
+      42.025,
+      42.525,
+      42.975
+    ],
+    "energy_first_last_1s": [
+      {
+        "from": 0.0,
+        "to": 0.1,
+        "rms_dbfs": -70.6
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "rms_dbfs": -73.0
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "rms_dbfs": -71.9
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "rms_dbfs": -65.9
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "rms_dbfs": -24.9
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "rms_dbfs": -14.0
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "rms_dbfs": -16.2
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "rms_dbfs": -20.7
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "rms_dbfs": -16.3
+      },
+      {
+        "from": 0.9,
+        "to": 1.0,
+        "rms_dbfs": -26.2
+      },
+      {
+        "from": 42.028,
+        "to": 42.128,
+        "rms_dbfs": -25.4
+      },
+      {
+        "from": 42.128,
+        "to": 42.228,
+        "rms_dbfs": -25.8
+      },
+      {
+        "from": 42.228,
+        "to": 42.328,
+        "rms_dbfs": -27.3
+      },
+      {
+        "from": 42.328,
+        "to": 42.428,
+        "rms_dbfs": -42.0
+      },
+      {
+        "from": 42.428,
+        "to": 42.528,
+        "rms_dbfs": -37.7
+      },
+      {
+        "from": 42.528,
+        "to": 42.628,
+        "rms_dbfs": -35.9
+      },
+      {
+        "from": 42.628,
+        "to": 42.728,
+        "rms_dbfs": -53.2
+      },
+      {
+        "from": 42.728,
+        "to": 42.828,
+        "rms_dbfs": -67.2
+      },
+      {
+        "from": 42.828,
+        "to": 42.928,
+        "rms_dbfs": -70.8
+      },
+      {
+        "from": 42.928,
+        "to": 43.028,
+        "rms_dbfs": -56.3
+      }
+    ],
+    "silence_first": [
+      "[silencedetect @ 0x13ad6fcb0] silence_start: 0",
+      "[silencedetect @ 0x13ad6fcb0] silence_end: 0.407812 | silence_duration: 0.407812"
+    ],
+    "silence_last": [
+      "[silencedetect @ 0x13ad6fcb0] silence_end: 41.0111 | silence_duration: 0.467771",
+      "[silencedetect @ 0x13ad6fcb0] silence_start: 42.6302",
+      "[silencedetect @ 0x13ad6fcb0] silence_end: 43.028 | silence_duration: 0.397792"
+    ]
+  },
+  {
+    "attachment": 3,
+    "times": [
+      0,
+      0.5,
+      1,
+      27.973333,
+      28.473333,
+      28.923333
+    ],
+    "energy_first_last_1s": [
+      {
+        "from": 0.0,
+        "to": 0.1,
+        "rms_dbfs": -51.0
+      },
+      {
+        "from": 0.1,
+        "to": 0.2,
+        "rms_dbfs": -54.5
+      },
+      {
+        "from": 0.2,
+        "to": 0.3,
+        "rms_dbfs": -54.9
+      },
+      {
+        "from": 0.3,
+        "to": 0.4,
+        "rms_dbfs": -59.1
+      },
+      {
+        "from": 0.4,
+        "to": 0.5,
+        "rms_dbfs": -20.1
+      },
+      {
+        "from": 0.5,
+        "to": 0.6,
+        "rms_dbfs": -17.6
+      },
+      {
+        "from": 0.6,
+        "to": 0.7,
+        "rms_dbfs": -15.9
+      },
+      {
+        "from": 0.7,
+        "to": 0.8,
+        "rms_dbfs": -16.3
+      },
+      {
+        "from": 0.8,
+        "to": 0.9,
+        "rms_dbfs": -14.9
+      },
+      {
+        "from": 0.9,
+        "to": 1.0,
+        "rms_dbfs": -19.8
+      },
+      {
+        "from": 27.9907,
+        "to": 28.0907,
+        "rms_dbfs": -30.8
+      },
+      {
+        "from": 28.0907,
+        "to": 28.1907,
+        "rms_dbfs": -39.7
+      },
+      {
+        "from": 28.1907,
+        "to": 28.2907,
+        "rms_dbfs": -60.7
+      },
+      {
+        "from": 28.2907,
+        "to": 28.3907,
+        "rms_dbfs": -73.2
+      },
+      {
+        "from": 28.3907,
+        "to": 28.4907,
+        "rms_dbfs": -65.3
+      },
+      {
+        "from": 28.4907,
+        "to": 28.5907,
+        "rms_dbfs": -64.6
+      },
+      {
+        "from": 28.5907,
+        "to": 28.6907,
+        "rms_dbfs": -71.9
+      },
+      {
+        "from": 28.6907,
+        "to": 28.7907,
+        "rms_dbfs": -73.3
+      },
+      {
+        "from": 28.7907,
+        "to": 28.8907,
+        "rms_dbfs": -72.2
+      },
+      {
+        "from": 28.8907,
+        "to": 28.9907,
+        "rms_dbfs": -60.2
+      }
+    ],
+    "silence_first": [
+      "[silencedetect @ 0x149710680] silence_start: 0.006",
+      "[silencedetect @ 0x149710680] silence_end: 0.425146 | silence_duration: 0.419146"
+    ],
+    "silence_last": [
+      "[silencedetect @ 0x149710680] silence_end: 28.5041 | silence_duration: 0.353479",
+      "[silencedetect @ 0x149710680] silence_start: 28.5043",
+      "[silencedetect @ 0x149710680] silence_end: 28.9907 | silence_duration: 0.486354"
+    ]
+  }
+]

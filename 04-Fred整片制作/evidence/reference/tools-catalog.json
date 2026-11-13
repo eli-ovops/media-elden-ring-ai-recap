@@ -1,0 +1,417 @@
+[
+  {
+    "key": "fred-preview:T18b-1-preview.mp4",
+    "id": "component:fred-wave2-fix5-t18b",
+    "label": "T18b",
+    "title": "多工具组合成一条工作流",
+    "source": "Fred 归档预览",
+    "group": "fred-wave2-fix5-20261012",
+    "category": "讲解段落",
+    "description": "几个工具 Logo → 排成一条工作流",
+    "use": "把多个工具按先后排列，同一任务逐站转成相应产物，结果归到链下。",
+    "entry": "真实工作流须先核每站输入/输出与实际操作，图形不执行工具。",
+    "exit": "沿最终产物胶囊转到真实文件，不能用动画产物替代文件回执。",
+    "avoid": "预填产物当真实跨工具执行成功；透明Logo不保证能把token完全挡住。",
+    "capacity": "tools最多4、须非空；按输入顺序无自动排序。token最小30仍可超gap，需短输出名。Logo本体透明处可透出下层token。",
+    "variant": "T18b",
+    "filename": "T18b-1-preview.mp4",
+    "seconds": 5.0,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T18b-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/f5b6b83baf1a250b36396560",
+      "bytes": 314444,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T18b-1-preview.mp4",
+      "sha256": "ff75a3f594e3bd2aa2d13cee2cb27bdc9519d2fa5bb48b57f0dd53e934a21a50",
+      "expected_sha256": "ff75a3f594e3bd2aa2d13cee2cb27bdc9519d2fa5bb48b57f0dd53e934a21a50",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T18b.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/c570385f4f6a71283add9880",
+      "bytes": 4295,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T18b.md",
+      "sha256": "989b5ad84e0d5cf0a0b3e74ff7d48dc88488fbd1e85a47b6c25805d24800303d"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T18b.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/d4b5c94f3bc08f3109740cf0",
+      "bytes": 18348,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T18b.json",
+      "sha256": "e1bd57321f6ec316f1b72bcc533536f19b021faf2bb6af59a7df91b7076e50cb"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/components/T18b-ToolChain.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/9e9c571541c2d49b0325c296",
+        "bytes": 6645,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/components/T18b-ToolChain.tsx",
+        "sha256": "c7c004155f2821aaa6977f6b09ffc8daf493212eb4d9e505977373c21d35eb9d",
+        "expected_sha256": "c7c004155f2821aaa6977f6b09ffc8daf493212eb4d9e505977373c21d35eb9d",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/611a8e1474825c8a93579e51",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/ce7cc26de0826d3fd5e9acf3",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-fix5-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "把多个工具按先后排列，同一任务逐站转成相应产物，结果归到链下。 预填产物当真实跨工具执行成功；透明Logo不保证能把token完全挡住。 tools最多4、须非空；按输入顺序无自动排序。token最小30仍可超gap，需短输出名。Logo本体透明处可透出下层token。 真实工作流须先核每站输入/输出与实际操作，图形不执行工具。 沿最终产物胶囊转到真实文件，不能用动画产物替代文件回执。 arrange=cues[0]或.5，各工具错.16；tokenIn=arrange+(n-1)*.16+.75；cues[1+i]逐站pass，默认间.64或.54、每程.5；末结果先下移再水平归中。 export type ChainTool = { logo: string; name: string; output: string; }; export type ToolChainProps = HandoffProps & { tools: ChainTool[]; input: string; cues?: number[]; }; 几个工具 Logo → 排成一条工作流",
+    "current_installation": {
+      "id": "component:fred-wave2-fix5-t18b",
+      "label": "T18b",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/c7c004155f2821aaa6977f6b09ffc8daf493212eb4d9e505977373c21d35eb9d",
+          "label": "T18b-ToolChain.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/dec32d06f28c379337d1ba4358c451bf4683625b248b29dbd8d8de456c168b65",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:T04b-1-preview.mp4",
+    "id": "component:fred-wave2-42-t04b",
+    "label": "T04b",
+    "title": "角色分工：每个工具各管一环",
+    "source": "Fred 归档预览",
+    "group": "fred-wave2-42-20261012",
+    "category": "讲解段落",
+    "description": "一件事 → 拆给几个工具，各管一环",
+    "use": "总任务胶囊裂成环节，各环节下方再落负责工具。",
+    "entry": "从前镜已有总任务延续，裂开的每段语义对应真实环节。",
+    "exit": "选一个工具/产物进入实操，其余退，不把全链当完成。",
+    "avoid": "分工图没有调用工具；默认ChatGPT/豆包/Codex仅作者示例。",
+    "capacity": "roles前4、建议2–4非空；step可两行、tool缩字号；task高亮只用唯一词，重复split会丢尾文。",
+    "variant": "T04b",
+    "filename": "T04b-1-preview.mp4",
+    "seconds": 5.0,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04b-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/5b8be28e744ed6e43fdb5b3d",
+      "bytes": 323220,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04b-1-preview.mp4",
+      "sha256": "888bcb60e7b15783d4de2a3af7645cd0904cee92040f7b1c3d6ecf12d4390950",
+      "expected_sha256": "888bcb60e7b15783d4de2a3af7645cd0904cee92040f7b1c3d6ecf12d4390950",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T04b.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/fa8192b8ee4f27ef2576418b",
+      "bytes": 4092,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T04b.md",
+      "sha256": "3f3fc281d0a3b062cd8d81dcaea1b3440d69849d754bfa63f0ab3412279063fe"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T04b.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/5d052ac49d0780ee650e5a23",
+      "bytes": 18443,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/T04b.json",
+      "sha256": "7f16ee29f44024a42295b9ac63c4c4c0070e0e84ff287f0c682544c67730c4ea"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/034e88e916ff0863248ed992",
+        "bytes": 7169,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+        "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+        "expected_sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+        "hash_match": true
+      }
+    ],
+    "kits": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/kit/theme.ts",
+        "label": "theme.ts",
+        "exists": true,
+        "url": "/asset/71ac6e4bf7ad52257836670c",
+        "bytes": 3786,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "expected_sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/kit/ui.tsx",
+        "label": "ui.tsx",
+        "exists": true,
+        "url": "/asset/91a760b18f73dab031ee1084",
+        "bytes": 9509,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "expected_sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+        "hash_match": true
+      }
+    ],
+    "status": "有本地预览",
+    "search": "总任务胶囊裂成环节，各环节下方再落负责工具。 分工图没有调用工具；默认ChatGPT/豆包/Codex仅作者示例。 roles前4、建议2–4非空；step可两行、tool缩字号；task高亮只用唯一词，重复split会丢尾文。 从前镜已有总任务延续，裂开的每段语义对应真实环节。 选一个工具/产物进入实操，其余退，不把全链当完成。 split=cues[0]或1.1，tool_i=cues[i+1]或split+.75+i×.5。 export type Role = { step: string; tool: string; logo: string }; export type RoleSplitProps = HandoffProps & { task: string; roles: Role[]; highlight: string; cues?: number[]; }; 一件事 → 拆给几个工具，各管一环",
+    "current_installation": {
+      "id": "component:fred-wave2-42-t04b",
+      "label": "T04b",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+          "label": "T04b-RoleSplit.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "label": "theme.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "label": "ui.tsx",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/.artifacts/objects/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "label": "registry.ts",
+          "exists": false,
+          "state": "主Skill仓库无此文件；对应归档实现单独列出"
+        }
+      ],
+      "installed_any": false,
+      "installed_all": false
+    }
+  },
+  {
+    "key": "fred-preview:102-01-1-preview.mp4",
+    "id": "component:ep102-selected-01",
+    "label": "102-01",
+    "title": "四作品聚拢并显现组合",
+    "source": "Fred 归档预览",
+    "group": "ep102-selected-20261005",
+    "category": "图片与作品",
+    "description": "把多个成品聚拢为一组工具或品牌组合",
+    "use": "多个作品聚为一个工具组合说明。",
+    "entry": "先建立四个实际作品并归属明确。",
+    "exit": "组合稳定后接本人实际使用入口，别用作者示例代替个人成果。",
+    "avoid": "固定原片时钟示例，非通用任意长度模板；示例行为/产品版本/结果均不能据此当本期已验证。",
+    "capacity": "EP102SelectedProps只includeAudio/includeSubtitles/includeBrand，默认true；公开export01–07。默认3840×2160/60fps、1920逻辑舞台一次缩放，Remotion4.0.473/React19.2.4声明；EP102Selected01，原15–19秒240f，S03 native69–309。ToolCombinationV7仅frame；B027 tracks映射nf，collect210–265、conceal240–275；230后硬编码WorkBuddy，250后Flova覆oriental动态圆。素材4固定ID，storm从1.5秒。",
+    "variant": "102-01",
+    "filename": "102-01-1-preview.mp4",
+    "seconds": null,
+    "current_catalog": true,
+    "import_render": "本期未 import / 渲染",
+    "evidence": "沿用既有调用卡；历史全时段采样不等于连续看听。",
+    "media": {
+      "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/102-01-1-preview.mp4",
+      "label": "原预览 MP4",
+      "exists": true,
+      "url": "/asset/1fb90f9bfb125ea1cde1678f",
+      "bytes": 6841562,
+      "realpath": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/102-01-1-preview.mp4",
+      "sha256": "f70bc0ae49842ff3eebab1489aac8780db73c672652de13411ae0c0a6f41d233",
+      "expected_sha256": "f70bc0ae49842ff3eebab1489aac8780db73c672652de13411ae0c0a6f41d233",
+      "hash_match": true
+    },
+    "card": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/102-01.md",
+      "label": "准确调用卡",
+      "exists": true,
+      "url": "/asset/ad5e7a76d1adbd0c4acc823e",
+      "bytes": 5077,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/102-01.md",
+      "sha256": "cb5054bd89855f0b7b1923d19aa803f266e6fa5bf76c3b5f43c3945d18e8c264"
+    },
+    "card_json": {
+      "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/102-01.json",
+      "label": "调用卡 JSON",
+      "exists": true,
+      "url": "/asset/71dd247caa4dbcd23033c7d3",
+      "bytes": 66280,
+      "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/研读/01/组件调用库/102-01.json",
+      "sha256": "8eee42f8fec65bf8baffe66a3df621628ab8f7263c378a35d49fa66ed750d4c3"
+    },
+    "sources": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+        "label": "准确实现",
+        "exists": true,
+        "url": "/asset/822d8970faa14a6f5590a009",
+        "bytes": 5147,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+        "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+        "expected_sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+        "label": "NativeSceneClock.tsx",
+        "exists": true,
+        "url": "/asset/bb1d122b2d3b4dbc42b9a95e",
+        "bytes": 2102,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+        "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+        "expected_sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/README.md",
+        "label": "README.md",
+        "exists": true,
+        "url": "/asset/08f5177a511154cdae3708f7",
+        "bytes": 3304,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/README.md",
+        "sha256": "f1f6691bf9597e68c5da1f418774ce2cf37f3e492d387d2551d0088ed59147c7",
+        "expected_sha256": "f1f6691bf9597e68c5da1f418774ce2cf37f3e492d387d2551d0088ed59147c7",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/index.tsx",
+        "label": "index.tsx",
+        "exists": true,
+        "url": "/asset/fd14e04476f7fa9c8c4d2c9d",
+        "bytes": 763,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/index.tsx",
+        "sha256": "841a2ec22286d807ff2a3bf05804e1e06b46cd969e85b98354fe74073a3ab54d",
+        "expected_sha256": "841a2ec22286d807ff2a3bf05804e1e06b46cd969e85b98354fe74073a3ab54d",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/package.json",
+        "label": "package.json",
+        "exists": true,
+        "url": "/asset/3e996513d50ababd5891621f",
+        "bytes": 630,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/package.json",
+        "sha256": "800a1989e5b4f59dd610be696d6b7146a55749541e455362b1ec7c9edd0d2d4e",
+        "expected_sha256": "800a1989e5b4f59dd610be696d6b7146a55749541e455362b1ec7c9edd0d2d4e",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/component-specs.json",
+        "label": "component-specs.json",
+        "exists": true,
+        "url": "/asset/a9405078dca39db06907880f",
+        "bytes": 13752,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/component-specs.json",
+        "sha256": "8e760aeb3f0145704e35d036cfc3e94aeab0f84d245ef4e16e967f6b16afa1d1",
+        "expected_sha256": "8e760aeb3f0145704e35d036cfc3e94aeab0f84d245ef4e16e967f6b16afa1d1",
+        "hash_match": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/versions/direction-a/adapters/ToolCombinationV7.tsx",
+        "label": "ToolCombinationV7.tsx",
+        "exists": true,
+        "url": "/asset/5dcfb249f151c0f3bda9a314",
+        "bytes": 2481,
+        "realpath": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/FredTalk公开仓库/components/projects/ep102-selected-20261005/source/versions/direction-a/adapters/ToolCombinationV7.tsx",
+        "sha256": "14862f2129a8b920997648f49fb2020cbe76342c6cc176abb7bccec4384465e8",
+        "expected_sha256": "14862f2129a8b920997648f49fb2020cbe76342c6cc176abb7bccec4384465e8",
+        "hash_match": true
+      }
+    ],
+    "kits": [],
+    "status": "有本地预览",
+    "search": "多个作品聚为一个工具组合说明。 固定原片时钟示例，非通用任意长度模板；示例行为/产品版本/结果均不能据此当本期已验证。 EP102SelectedProps只includeAudio/includeSubtitles/includeBrand，默认true；公开export01–07。默认3840×2160/60fps、1920逻辑舞台一次缩放，Remotion4.0.473/React19.2.4声明；EP102Selected01，原15–19秒240f，S03 native69–309。ToolCombinationV7仅frame；B027 tracks映射nf，collect210–265、conceal240–275；230后硬编码WorkBuddy，250后Flova覆oriental动态圆。素材4固定ID，storm从1.5秒。 先建立四个实际作品并归属明确。 组合稳定后接本人实际使用入口，别用作者示例代替个人成果。   把多个成品聚拢为一组工具或品牌组合",
+    "current_installation": {
+      "id": "component:ep102-selected-01",
+      "label": "102-01",
+      "sources": [
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "label": "Independent component",
+          "exists": true,
+          "url": "/asset/f5a2cdb880c72a08c355e4c9",
+          "bytes": 5147,
+          "realpath": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "expected_sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "hash_match": true
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/versions/direction-a/adapters/ToolCombinationV7.tsx",
+          "label": "Adopted scene source",
+          "exists": true,
+          "url": "/asset/ffb342af87ac7df2942709d6",
+          "bytes": 2481,
+          "realpath": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/versions/direction-a/adapters/ToolCombinationV7.tsx",
+          "sha256": "14862f2129a8b920997648f49fb2020cbe76342c6cc176abb7bccec4384465e8",
+          "expected_sha256": "14862f2129a8b920997648f49fb2020cbe76342c6cc176abb7bccec4384465e8",
+          "hash_match": true
+        },
+        {
+          "path": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "label": "Native scene clock",
+          "exists": true,
+          "url": "/asset/c0e21c9fdb65a885e3dc2da4",
+          "bytes": 2102,
+          "realpath": "/Users/USER/.codex/skill-repos/FredTalk/components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "expected_sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "hash_match": true
+        }
+      ],
+      "installed_any": true,
+      "installed_all": true
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "scope": "抖音同版恢复及本轮五标签，准备原件接收；发布前最后核原生视频就绪",
+  "decision": "PASS",
+  "native_tags": [
+    {
+      "editable": null,
+      "mention": "#",
+      "text": " #AI "
+    },
+    {
+      "editable": null,
+      "mention": "#",
+      "text": " #游戏开发 "
+    },
+    {
+      "editable": null,
+      "mention": "#",
+      "text": " #艾尔登法环 "
+    },
+    {
+      "editable": null,
+      "mention": "#",
+      "text": " #agent "
+    },
+    {
+      "editable": null,
+      "mention": "#",
+      "text": " #codex "
+    }
+  ],
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-five-tags-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-before-send-v1.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/douyin-native-tags-v1.json"
+  ],
+  "video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "cover_files": [
+    "cover-3x4-1080x1440-v1.png",
+    "cover-4x3-1440x1080-v1.png"
+  ],
+  "original_06_draft_preserved": true,
+  "cross_chat_resume_result": "原06草稿入口本聊天为空；本聊天恢复原视频/原封面/原文，当前已核无同条已发布作品，未创建新媒体版本",
+  "public_and_immediate_checked": true,
+  "AI_declared": true,
+  "full_AV_claim_added": false,
+  "stage": "06_ADDENDUM_DOUYIN_ONLY",
+  "remaining_required_work": [],
+  "native_video": {
+    "duration": 104.016667,
+    "width": 1080,
+    "height": 1920,
+    "readyState": 4,
+    "error": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "recipientThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "status": "TOOL_ACCEPTED",
+  "toolResult": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoRead": "UNKNOWN",
+  "pmoAcceptance": "PENDING",
+  "version": "v2",
+  "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981"
+}

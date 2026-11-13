@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,600"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5600
+			},
+			"text": "我做的这本大数所谓和我真的想要的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,600",
+				"to": "00:00:08,160"
+			},
+			"offsets": {
+				"from": 5600,
+				"to": 8160
+			},
+			"text": "其实差距还是比较远的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,160",
+				"to": "00:00:11,760"
+			},
+			"offsets": {
+				"from": 8160,
+				"to": 11760
+			},
+			"text": "但是我真的是烧不动偷肯了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,760",
+				"to": "00:00:16,960"
+			},
+			"offsets": {
+				"from": 11760,
+				"to": 16960
+			},
+			"text": "我把圆码还有模型的那些资源都已经放得给它了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,960",
+				"to": "00:00:23,700"
+			},
+			"offsets": {
+				"from": 16960,
+				"to": 23700
+			},
+			"text": "然后如果说有兴趣的大神的话可以去接着我的模型继续"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,700",
+				"to": "00:00:24,480"
+			},
+			"offsets": {
+				"from": 23700,
+				"to": 24480
+			},
+			"text": "接下去做"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,480",
+				"to": "00:00:27,400"
+			},
+			"offsets": {
+				"from": 24480,
+				"to": 27400
+			},
+			"text": "我是真的实在是烧不动了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,400",
+				"to": "00:00:33,800"
+			},
+			"offsets": {
+				"from": 27400,
+				"to": 33800
+			},
+			"text": "如果说你们有兴趣的话可以问我要给它们的练结"
+		}
+	]
+}

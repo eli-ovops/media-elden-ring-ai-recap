@@ -1,0 +1,79 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-1080x1440-v1.png",
+    "match": true,
+    "size": [
+      1080,
+      1440
+    ]
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-1080x1920-v2.png",
+    "match": true,
+    "size": [
+      1080,
+      1920
+    ]
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-1920x1080-v1.png",
+    "match": true,
+    "size": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-1440x1080-v1.png",
+    "match": true,
+    "size": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edit/voice-master-v2.wav",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/同步字幕-v2.srt",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/源时码与剪辑EDL-v2.json",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T14e-StatTriplet.tsx",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/theme.ts",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/ui.tsx",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T17c-FileTree.tsx",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/theme.ts",
+    "match": true,
+    "size": null
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/ui.tsx",
+    "match": true,
+    "size": null
+  }
+]

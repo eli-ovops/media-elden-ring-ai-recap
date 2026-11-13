@@ -1,0 +1,499 @@
+{
+  "libraryCandidates": {
+    "query": "文件 包 模型 源码 分享 接力 展开",
+    "sceneType": "relationship",
+    "candidates": [
+      {
+        "id": "fred-wave3-40-t17c",
+        "displayLabel": "T17c",
+        "title": "文件夹结构",
+        "useWhen": "一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+        "sceneTypes": [
+          "relationship"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "tree",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 300,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T17c",
+        "score": 279.7,
+        "reasons": [
+          "全文与文档",
+          "原词命中：文件",
+          "原词命中：展开",
+          "相近词：展开、文件"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "文件夹",
+            "子目录",
+            "关键文件"
+          ],
+          "action": "一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 5.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t17c --full"
+      },
+      {
+        "id": "ep107-selected-02",
+        "displayLabel": "107-02",
+        "title": "三项流程收束，接力真实案例",
+        "useWhen": "沟通、安排、跟进三项建立后收束，并交给下一段真实工作案例。",
+        "sceneTypes": [
+          "relationship",
+          "summary"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "认可只覆盖所选最终R7区间；新文案、素材与数量变化需实际短样检查。",
+          "原媒体、源帧与字体一起保存；保持连续源时钟，不重启中途状态。",
+          "48–50秒包含49.8167秒开始的下一段原媒体交接。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "107-02",
+        "score": 278.8,
+        "reasons": [
+          "接力与让位",
+          "原词命中：接力",
+          "相近词：接力"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "explain",
+            "video-entry"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "文字",
+            "信息结构",
+            "录屏",
+            "视频",
+            "窗口"
+          ],
+          "action": "三项流程收束，接力真实案例",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 2,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id ep107-selected-02 --full"
+      },
+      {
+        "id": "library-legacy81-r052",
+        "displayLabel": "L81-R052",
+        "title": "两组参考视频各展开三个独立结果，再回到实操",
+        "useWhen": "两类输入分别生成多个结果、角色一致性/产品衍生、不同输入得到不同分支；分行维持对应关系。",
+        "sceneTypes": [
+          "image-comparison",
+          "relationship"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "Fred 对本批当前成片作整体认可；新内容适配尚未验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "L81-R052",
+        "score": 266.8,
+        "reasons": [
+          "接力与让位",
+          "原词命中：展开",
+          "相近词：展开"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "video-entry",
+            "images",
+            "handoff"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "录屏",
+            "视频",
+            "窗口",
+            "图片",
+            "作品",
+            "前后内容",
+            "载体"
+          ],
+          "action": "两组参考视频各展开三个独立结果，再回到实操",
+          "segmentRole": "真实媒体进入讲解",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "替换真实媒体，保留连续媒体时钟；按片段进出点检查全屏、窗口与设备之间的交接。"
+        },
+        "resolveCommand": "references.py --id library-legacy81-r052 --full"
+      },
+      {
+        "id": "fred-wave3-40-t02h",
+        "displayLabel": "T02h",
+        "title": "几个必备文件",
+        "useWhen": "几个文件卡依次立起 → 每张翻面露出一句用途",
+        "sceneTypes": [
+          "relationship"
+        ],
+        "collectionId": "fred-wave3-40-20261012",
+        "editableParameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "files",
+          "cues"
+        ],
+        "knownLimitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ],
+        "nativeTiming": {
+          "fps": 60,
+          "durationInFrames": 360,
+          "width": 1920,
+          "height": 1080
+        },
+        "sourceAvailability": {
+          "available": false,
+          "status": "needs-auth",
+          "authRequired": true,
+          "installationRequired": true,
+          "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+          "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+          "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+          "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+        },
+        "earlyAccess": {
+          "enabled": true,
+          "audience": "exclusive_group",
+          "requiredMembershipLevels": [
+            "exclusive_group"
+          ],
+          "durationDays": 14,
+          "startsAt": "2026-10-13T03:15:00.000Z",
+          "publicAt": "2026-10-27T03:15:00.000Z"
+        },
+        "label": "T02h",
+        "score": 173.7,
+        "reasons": [
+          "全文与文档",
+          "原词命中：文件",
+          "相近词：文件"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "explain"
+          ],
+          "sourceId": "fred-wave3-40",
+          "inputObjects": [
+            "文件卡",
+            "文件名",
+            "用途"
+          ],
+          "action": "几个文件卡依次立起 → 每张翻面露出一句用途",
+          "segmentRole": "新做参数化组件（Fred 认可入库）",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+        },
+        "resolveCommand": "references.py --id fred-wave3-40-t02h --full"
+      },
+      {
+        "id": "ep107-selected-03",
+        "displayLabel": "107-03",
+        "title": "同尺度版本窗，箭头建立比较",
+        "useWhen": "旧版本与新版本按口播先后建立，箭头明确更新关系，下方落一个判断。",
+        "sceneTypes": [
+          "relationship",
+          "image-comparison"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "认可只覆盖所选最终R7区间；新文案、素材与数量变化需实际短样检查。",
+          "原媒体、源帧与字体一起保存；保持连续源时钟，不重启中途状态。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "107-03",
+        "score": 160.8,
+        "reasons": [
+          "接力与让位"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "explain"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "文字",
+            "信息结构"
+          ],
+          "action": "同尺度版本窗，箭头建立比较",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 7.0,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id ep107-selected-03 --full"
+      }
+    ],
+    "crossTypeFallback": false,
+    "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+    "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+    "publicFallbackCandidates": [
+      {
+        "id": "ep107-selected-02",
+        "displayLabel": "107-02",
+        "title": "三项流程收束，接力真实案例",
+        "useWhen": "沟通、安排、跟进三项建立后收束，并交给下一段真实工作案例。",
+        "sceneTypes": [
+          "relationship",
+          "summary"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "认可只覆盖所选最终R7区间；新文案、素材与数量变化需实际短样检查。",
+          "原媒体、源帧与字体一起保存；保持连续源时钟，不重启中途状态。",
+          "48–50秒包含49.8167秒开始的下一段原媒体交接。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "107-02",
+        "score": 278.8,
+        "reasons": [
+          "接力与让位",
+          "原词命中：接力",
+          "相近词：接力"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "explain",
+            "video-entry"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "文字",
+            "信息结构",
+            "录屏",
+            "视频",
+            "窗口"
+          ],
+          "action": "三项流程收束，接力真实案例",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 2,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id ep107-selected-02 --full"
+      },
+      {
+        "id": "library-legacy81-r052",
+        "displayLabel": "L81-R052",
+        "title": "两组参考视频各展开三个独立结果，再回到实操",
+        "useWhen": "两类输入分别生成多个结果、角色一致性/产品衍生、不同输入得到不同分支；分行维持对应关系。",
+        "sceneTypes": [
+          "image-comparison",
+          "relationship"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "Fred 对本批当前成片作整体认可；新内容适配尚未验收。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "L81-R052",
+        "score": 266.8,
+        "reasons": [
+          "接力与让位",
+          "原词命中：展开",
+          "相近词：展开"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "video-entry",
+            "images",
+            "handoff"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "录屏",
+            "视频",
+            "窗口",
+            "图片",
+            "作品",
+            "前后内容",
+            "载体"
+          ],
+          "action": "两组参考视频各展开三个独立结果，再回到实操",
+          "segmentRole": "真实媒体进入讲解",
+          "nativeDurationSeconds": 6.0,
+          "adaptation": "替换真实媒体，保留连续媒体时钟；按片段进出点检查全屏、窗口与设备之间的交接。"
+        },
+        "resolveCommand": "references.py --id library-legacy81-r052 --full"
+      },
+      {
+        "id": "ep107-selected-03",
+        "displayLabel": "107-03",
+        "title": "同尺度版本窗，箭头建立比较",
+        "useWhen": "旧版本与新版本按口播先后建立，箭头明确更新关系，下方落一个判断。",
+        "sceneTypes": [
+          "relationship",
+          "image-comparison"
+        ],
+        "editableParameters": [],
+        "knownLimitations": [
+          "认可只覆盖所选最终R7区间；新文案、素材与数量变化需实际短样检查。",
+          "原媒体、源帧与字体一起保存；保持连续源时钟，不重启中途状态。"
+        ],
+        "nativeTiming": {},
+        "sourceAvailability": {
+          "available": true,
+          "status": "ready",
+          "authRequired": false,
+          "installationRequired": false,
+          "reason": "Verified source is installed.",
+          "importCommand": null,
+          "downloadCommand": null,
+          "installCommand": null
+        },
+        "label": "107-03",
+        "score": 160.8,
+        "reasons": [
+          "接力与让位"
+        ],
+        "sameSceneType": true,
+        "productionUse": {
+          "useIds": [
+            "handoff",
+            "explain"
+          ],
+          "sourceId": "fredtalk",
+          "inputObjects": [
+            "前后内容",
+            "载体",
+            "文字",
+            "信息结构"
+          ],
+          "action": "同尺度版本窗，箭头建立比较",
+          "segmentRole": "短交接",
+          "nativeDurationSeconds": 7.0,
+          "adaptation": "衔接前后段的实际对象和终态；用于短交接，不能把整段讲解单纯放慢。"
+        },
+        "resolveCommand": "references.py --id ep107-selected-03 --full"
+      }
+    ],
+    "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source.",
+    "narrationCandidates": [],
+    "narrationScope": "Matches from the spoken line only. Use them to widen the visual query, not as a selection."
+  },
+  "scene": {
+    "stableId": "handoff",
+    "oneQuestion": "源码和模型已放GitHub供继续",
+    "sourceSpans": [
+      {
+        "text": "源码和模型已放GitHub供继续"
+      }
+    ],
+    "implementationMode": "adapted",
+    "componentPlan": {
+      "query": "文件 包 模型 源码 分享 接力 展开"
+    },
+    "referenceChoices": []
+  },
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/Manifest.json",
+  "next": "Inspect each candidate video/core frames, then read the full packet without --candidates-only."
+}

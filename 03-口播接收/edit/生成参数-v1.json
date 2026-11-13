@@ -1,0 +1,29 @@
+{
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-v",
+    "error",
+    "-n",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9d4b1a182e0f0074ff92bacbe2bbdc82_raw.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/ad772cd8d8dcac13349c4b5b0adcfed8_raw.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/原片/9a00fbddfbe4a52eb4e8e26fff93833d_raw.mp4",
+    "-filter_complex",
+    "[0:a]atrim=start=0:end=28.973333,asetpts=PTS-STARTPTS[a0];[1:a]atrim=start=0:end=43.025,asetpts=PTS-STARTPTS[a1];[2:a]atrim=start=0:end=34.475,asetpts=PTS-STARTPTS[a2];[a0][a1][a2]concat=n=3:v=0:a=1[out]",
+    "-map",
+    "[out]",
+    "-ar",
+    "48000",
+    "-ac",
+    "1",
+    "-c:a",
+    "pcm_s24le",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-口播接收/edit/voice-master-v1.wav"
+  ],
+  "speed": 1,
+  "gain_db": 0,
+  "denoise": false,
+  "limiter": false
+}

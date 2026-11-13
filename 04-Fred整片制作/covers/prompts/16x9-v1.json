@@ -1,0 +1,9 @@
+{
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/02-思考分析-图5-深蓝衬衫.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-generated-v1.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-sentinel.png"
+  ],
+  "transparent_background": false,
+  "prompt": "Use case: compositing / identity-preserve. Create ONE finished LANDSCAPE 16:9 cover target 1920x1080. Image1 is facial identity reference: preserve man's recognisable face, thin round glasses and black hair. Image2 is this episode's portrait design, use its white/black/purple style and grey hoodie presentation pose but independently RECOMPOSE for a wide canvas, do not crop or stretch. Image3 is actual rough game knight and horse, retain simplified armor/horse geometry and rear three-quarter view. Layout: left 52% is giant typography, small top kicker exactly 'AI复刻大树守卫', main line '三天后' BLACK, next line '长这样' ELECTRIC PURPLE #6100E8. Right 48% contains the man in grey hoodie in foreground and the gold knight/horse as a large companion object beside him, one palm presenting it with a slightly amused tired smile. Man's head fully inside frame and large enough to recognise; do not block Chinese text. Plain pure white background with subtle natural grounded shadows; no frames, no card windows, no glass; no extra words or logos. All title characters entire, readable at phone thumbnail. Keep horse tail/armor edges inside safe margins; shoulders may crop naturally at bottom. Clean photoreal face and crisp heavy Chinese typography. This is an editorial creator cover, not fake gameplay."
+}

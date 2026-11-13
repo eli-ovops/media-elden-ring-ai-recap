@@ -1,0 +1,49 @@
+{
+  "url": "http://127.0.0.1:55323/preview.html",
+  "observedAt": "2026-10-23",
+  "browser": "Codex IAB",
+  "video": {
+    "duration": 104.016667,
+    "width": 1080,
+    "height": 1920,
+    "readyState": 4,
+    "seekable": [
+      [
+        0,
+        104.016667
+      ]
+    ],
+    "error": null
+  },
+  "images": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-3x4-1080x1440-v1.png",
+      "sha256": "8a69eea37520d328c357f6b06402a761c5184b6a46f2f020aea85778af944209",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-9x16-1080x1920-v2.png",
+      "sha256": "efa41ceaebb268829be101d61d6aab5fb01ba3f5037d0382e2194127ab17f883",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-16x9-1920x1080-v1.png",
+      "sha256": "7f0ebac7e56d6c1b2b4aa760312d23d6aef7b9f6384449cbdb3fe244468211f3",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-4x3-1440x1080-v1.png",
+      "sha256": "25a49fecac543e306cd2cde90cce230a5dd8b910057f54a2197b8a64d0eee7e1",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "rangeProbe": {
+    "status": 206,
+    "contentRange": "bytes 100-199/164559034"
+  },
+  "limit": "Metadata/range/load check only; no direct audio or normal-speed continuous AV acceptance."
+}

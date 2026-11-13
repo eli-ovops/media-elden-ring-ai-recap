@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-23T20:33:04.809569+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "user_exact": "现在试试",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "usage": {
+    "ordinaryUsageAllowed": true,
+    "usedPercent": 44
+  },
+  "pre_dispatch_snapshot": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"timedOut\":false,\"wake\":{\"reason\":\"inactiveStatus\",\"threadId\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\",\"hostId\":\"local\"},\"polls\":[{\"schemaVersion\":1,\"cursor\":\"7f3be69f-c7b5-4164-97c4-5ac540ccff4f:1\",\"revision\":1,\"changed\":true,\"thread\":{\"id\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\",\"hostId\":\"local\",\"status\":{\"type\":\"notLoaded\"}},\"latestTurn\":{\"id\":\"01a16887-af99-7811-9ba1-a854e5da5f94\",\"status\":\"completed\",\"error\":null,\"startedAt\":1792755085,\"completedAt\":1792755360,\"durationMs\":275689},\"latestAssistantMessageId\":\"msg_082e977710995fa0016adb469f062881919ff98ddf9efa024b\",\"latestAssistantMessage\":{\"id\":\"msg_082e977710995fa0016adb469f062881919ff98ddf9efa024b\",\"turnId\":\"01a16887-af99-7811-9ba1-a854e5da5f94\",\"phase\":\"final_answer\",\"text\":\"复测仍在 60 秒后超时，未恢复页面读取。已保存证据并报告 PMO，停止重复尝试；未上传、未发布。 九站发布包仍完整保留，原生草稿准备尚未完成。\"},\"latestToolMarkerId\":\"exec-e48bc5ff-e580-45ac-8c70-13fd29bf8f29\",\"latestToolMarker\":{\"id\":\"exec-e48bc5ff-e580-45ac-8c70-13fd29bf8f29\",\"turnId\":\"01a16887-af99-7811-9ba1-a854e5da5f94\",\"type\":\"commandExecution\",\"name\":\"commandExecution\",\"status\":\"completed\"}}]}"
+      }
+    ],
+    "isError": false
+  },
+  "dispatch_response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a7f-9a85-7481-9e6c-75f11280ba56\"}"
+      }
+    ],
+    "isError": false
+  },
+  "message_accepted": true,
+  "read_recovery_verified": false,
+  "public_send_authorized": false
+}

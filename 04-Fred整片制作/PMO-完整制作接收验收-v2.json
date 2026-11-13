@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-23T17:46:50.200904+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "04完整制作交付接收及PMO已查视觉/源码/版本范围，通过后交05首次独立检查；不是05、人类终审或全项连续声画验收",
+  "output": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+    "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981"
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/交付索引-v2.md",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/Manifest-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/04-定向返修自检-v2.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/PMO-完整片定向返修-v1.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/PMO-v1-identity-check.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/PMO-v2-identity-check.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/actual-f2520.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/actual-f4020.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/cloud-export-contact-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/relation-export-contact-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/full-index.tsx",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/assemble-revision-v2.sh",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/assembly-final.log",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/cover-review-v1.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/covers/phone-review.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/来源与使用范围-v1.md"
+  ],
+  "preserved_review": "v1的6张联系表133帧、组件/kit源码与原预览、四封面全图及手机缩图、文件身份23项都已实审，原件/方法/限制记录于PMO-完整片定向返修-v1.json；未变范围复用该已做检查，不重测。",
+  "closed_findings": [
+    {
+      "id": "C1",
+      "result": "CLOSED_IN_SAMPLED_SCOPE",
+      "evidence": "v2实际f2520原尺寸图与云海联系表人物头身完整，草地/云海仍清楚；首尾点没有提前移动/画面回落。"
+    },
+    {
+      "id": "C2",
+      "result": "CLOSED_SOURCE_CLOCK_AND_SAMPLED_BOUNDARY",
+      "evidence": "完整src改为一个32.55—42.633的连续Prince Shot，from1.5；旧f2363/2364分别source8.333333/8.35，实际帧位置连续，无源6秒重置。"
+    },
+    {
+      "id": "C3",
+      "result": "CLOSED_IN_SAMPLED_SCOPE",
+      "evidence": "最终f4020中小王子左、狐狸右与完整英文句子同框，非v1主体被裁；仅f3968—4219使用1080×810，进出点随源切镜，f4220切回火车。"
+    }
+  ],
+  "version_checks": "v2最终MP4/字幕/EDL/主原声/实际callSite SHA、Manifest主文件与v2副本、SRT v1/v2字节一致；另14项修复来源、补片、合成脚本、组件保留与四封面SHA匹配，零不符。",
+  "remaining_required_work": [],
+  "remaining_for_downstream": {
+    "independent_05": "PENDING，必须对同SHA首次独立检查后才交用户",
+    "user_final_review": "PENDING；未获发布授权",
+    "direct_hearing": "UNKNOWN，保留既定能力边界，不能用波形/ASR冒充",
+    "normal_speed_continuous_AV": "UNKNOWN；本期检查为离散实帧与源代码/媒体时钟，不是连续看听",
+    "subtitle_inner_cue_and_English_names_hearing": "UNKNOWN；SRT忠于既有候选实录与拼写依据但未听核"
+  },
+  "next_action": "释放原05 Astra/medium执行当前完整v2必要独立检查，不增加其他制作/发布任务。"
+}

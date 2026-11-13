@@ -1,0 +1,99 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "status": "LOCAL_HANDOFF_READY_WITH_REVIEW_GAPS",
+  "stage_complete": false,
+  "gate": {
+    "allowed": true,
+    "stage": "03"
+  },
+  "semantic_order": [
+    3,
+    2,
+    1
+  ],
+  "raw_and_master_duration": 106.473333,
+  "decoded_wav_duration_seconds": 106.47166666666666,
+  "duration_note": "EDL按视频容器时长；WAV实测短约1.67毫秒，来自解码音轨样本数，不是主动删词。三原片SHA全部匹配；38条字幕。",
+  "asr": {
+    "engine": "existing whisper.cpp base local CPU",
+    "coverage": "3/3 full decoded audio supplied; transcript extends to each ending",
+    "paths": [
+      "asr/clip1.json",
+      "asr/clip2.json",
+      "asr/clip3.json"
+    ],
+    "direct_listening": false,
+    "continuous_av": false
+  },
+  "visual": {
+    "frames": "frames/clip1.jpg clip2.jpg clip3.jpg",
+    "source_times": [
+      2,
+      2,
+      2
+    ],
+    "scope": "3 still samples only"
+  },
+  "edit": {
+    "speed": 1,
+    "internal_deletions": 0,
+    "reason": "no verified failed retakes; preserve natural delivery and tails",
+    "wav": "edit/voice-master-v1.wav",
+    "sample_rate": 48000,
+    "channels": 1,
+    "encoding": "PCM24",
+    "gain_db": 0,
+    "loudness_lufs": -22.2,
+    "true_peak_dbfs": -1.8,
+    "loudness_range_lu": 5.5,
+    "hearing": "PENDING"
+  },
+  "subtitles": {
+    "path": "同步字幕-v1.srt",
+    "alignment": "ASR segment timing; proportional long cue splits, not word/phoneme accurate",
+    "pending": "proper-name and cue timing review"
+  },
+  "facts_to_pmo": [
+    {
+      "attachment": 3,
+      "source": [
+        24.6,
+        28.28
+      ],
+      "issue": "speech near70bn follows game effort without account qualifier; overlay must say account three-day total69.4bn"
+    },
+    {
+      "attachment": 2,
+      "source": [
+        28.16,
+        35.44
+      ],
+      "issue": "tool names ASR uncertain, candidate Claude/Astra/Blender; do not rewrite to older script or claim author exact pipeline verified from speech"
+    }
+  ],
+  "owner04_can_start": "EDL reconstructs full original video in semantic order; master and candidate subtitles usable for planning, no need to wait for additional gameplay; PMO assign owner04",
+  "pending": [
+    "direct listening and both joins",
+    "uncertain tool names",
+    "subtitle precision",
+    "current gameplay capture by later04"
+  ],
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261022-v3",
+    "CODEX-MEDIA-20261021-v2",
+    "ELI-PRODUCTION-20261022-v4"
+  ],
+  "target_route": "gpt-6.1-sol/medium",
+  "actual_route": {
+    "model": "UNKNOWN",
+    "effort": "UNKNOWN",
+    "speed": "UNKNOWN"
+  },
+  "file_inventory": "原片清单-v1.json contains exact source SHA and metadata; asr WAV/log/transcript outputs, frames, build_intake.py and edit outputs retained for review/reproduction; no files deleted",
+  "report": {
+    "send": "SUCCESS",
+    "tool_receipt": {"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+    "received": "UNKNOWN",
+    "accepted": "PENDING"
+  }
+}

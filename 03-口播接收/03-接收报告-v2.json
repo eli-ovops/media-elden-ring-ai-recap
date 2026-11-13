@@ -1,0 +1,121 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "status": "KNOWN_REVISIONS_COMPLETE_PENDING_PMO",
+  "stage_complete": false,
+  "gate": {
+    "allowed": true,
+    "stage": "03"
+  },
+  "semantic_order": [
+    3,
+    2,
+    1
+  ],
+  "raw_and_master_duration": 104.01666666666667,
+  "decoded_wav_duration_seconds": 104.01666666666667,
+  "duration_note": "EDLv2与实测WAV均104.0166667秒；全部v1保留。39条字幕。",
+  "asr": {
+    "engine": "existing whisper.cpp base local CPU",
+    "coverage": "3/3 full decoded audio supplied; transcript extends to each ending",
+    "paths": [
+      "asr/clip1.json",
+      "asr/clip2.json",
+      "asr/clip3.json"
+    ],
+    "direct_listening": false,
+    "continuous_av": false
+  },
+  "visual": {
+    "frames": "frames/clip1.jpg clip2.jpg clip3.jpg",
+    "source_times": [
+      2,
+      2,
+      2
+    ],
+    "scope": "3 still samples only"
+  },
+  "edit": {
+    "speed": 1,
+    "internal_deletions": 0,
+    "reason": "只删六处头尾空段，安全余量约0.2秒，内部PCM不变",
+    "wav": "edit/voice-master-v2.wav",
+    "sample_rate": 48000,
+    "channels": 1,
+    "encoding": "PCM24",
+    "gain_db": 0,
+    "loudness_lufs": -22.2,
+    "true_peak_dbfs": -1.8,
+    "loudness_range_lu": 5.4,
+    "hearing": "PENDING",
+    "edl": "源时码与剪辑EDL-v2.json"
+  },
+  "subtitles": {
+    "path": "同步字幕-v2.srt",
+    "alignment": "按完整词与语义重分；候选句内时码，仍待听核",
+    "pending": "proper-name and cue timing review"
+  },
+  "facts_to_pmo": [
+    {
+      "attachment": 3,
+      "source": [
+        24.6,
+        28.28
+      ],
+      "issue": "speech near70bn follows game effort without account qualifier; overlay must say account three-day total69.4bn"
+    },
+    {
+      "attachment": 2,
+      "source": [
+        28.16,
+        35.44
+      ],
+      "issue": "tool names ASR uncertain, candidate Claude/Astra/Blender; do not rewrite to older script or claim author exact pipeline verified from speech"
+    }
+  ],
+  "owner04_can_start": "EDL reconstructs full original video in semantic order; master and candidate subtitles usable for planning, no need to wait for additional gameplay; PMO assign owner04",
+  "pending": [
+    "direct listening and both joins",
+    "uncertain tool names",
+    "subtitle precision",
+    "current gameplay capture by later04"
+  ],
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261022-v3",
+    "CODEX-MEDIA-20261021-v2",
+    "ELI-PRODUCTION-20261022-v4"
+  ],
+  "target_route": "gpt-6.1-sol/medium",
+  "actual_route": {
+    "model": "UNKNOWN",
+    "effort": "UNKNOWN",
+    "speed": "UNKNOWN"
+  },
+  "file_inventory": "保留全部v1；新增v2 EDL/SRT/校字/master/参数/响度记录、局部头尾图与能量证据、重建脚本；没有清理。",
+  "report": {
+    "send": "SUCCESS",
+    "tool_receipt": {"content":[{"type":"text","text":"{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"}],"isError":false},
+    "received": "UNKNOWN",
+    "accepted": "PENDING"
+  },
+  "version": "v2",
+  "edge_review": {
+    "evidence": "edge-review-v2/edge-evidence-v2.json",
+    "frames": "三张clipN-edges.jpg，每条头尾各三帧实际查看",
+    "scope": "仅头尾约1秒；沿既有静音日志与本地解码WAV能量",
+    "saved_seconds": 2.456666333333331,
+    "safety_margin": "头约0.175—0.202秒，尾约0.196—0.210秒",
+    "continuous_viewing": false
+  },
+  "validation": {
+    "subtitle_text": "与v1文字逐字拼接对比，仅这本→这版、恶梦→噩梦两处改字，其他均保留",
+    "timeline": "39条均在EDLv2范围，按顺序无重叠",
+    "audio": "1倍速、0dB、只收六处头尾，未新ASR、未听审",
+    "known_fixes": "S1/S2/E1已按可核范围完成；工具链仍待听核"
+  },
+  "output_hashes": {
+    "同步字幕-v2.srt": "7145cee7d78ad247c2f685d336883d35e213ea388203e0266fb2a3bebcf0da72",
+    "字幕重映射与校字-v2.json": "35bb5d6c7649b86c0d5d035eef5a5e3b29429edf4d8d237c55aaa2ff133c871c",
+    "源时码与剪辑EDL-v2.json": "bc8a3711dec5981c61d1b31dc046af11f630bde28e1ae67e2b499fd45d6b290f",
+    "edit/voice-master-v2.wav": "6af515f35c1ec81894aa0ca43eacd0b76f3911f6dbdf5784811b917b697f97a3"
+  }
+}

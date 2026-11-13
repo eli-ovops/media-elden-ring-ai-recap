@@ -1,0 +1,47 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "at": "2026-10-23T14:34:59.436590+08:00",
+  "scope": "ChatCut本地基础流程的有界试用，不是视频美感或整片验收",
+  "app_path": "/Applications/ChatCut.app",
+  "project_id": "672bded4-e8f5-47b0-8059-426172b25641",
+  "project_name": "AI-Limgrave-ChatCut-Test",
+  "timeline_name": "Limgrave-Materials-Test",
+  "actions_verified": [
+    "创建独立项目与时间线",
+    "导入7张本片真实游戏原图，素材列表逐个可见",
+    "将p78-ue-sentinel.png加入时间线",
+    "通过原生界面选择1080p/60fps，保存到独立目录",
+    "界面显示已保存，实际文件探测成功"
+  ],
+  "export": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/工具试用/ChatCut/chatcut-export-test-1080p60.mp4",
+    "sha256": "55947018204e83f5833cd53dca3e5b37a65923b7f6bf88d344efef5172c70451",
+    "bytes": 5056497,
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "duration_seconds": 5.0,
+    "video_frames": 300,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "content": "单张原始截图5秒，用于基础导出验证，不是动效样片或当前连续游戏录像"
+  },
+  "visual_checks": {
+    "method": "实际查看0.1秒与2.5秒解码帧，真实骑兵/场景可见；非完整连续视听",
+    "paths": [
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/工具试用/ChatCut/export-frame-0.1.png",
+      "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/工具试用/ChatCut/export-frame-2.5.png"
+    ]
+  },
+  "screenshot": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/工具试用/ChatCut/chatcut-project-and-export.png",
+  "still_unverified": [
+    "1080×1920竖屏布局",
+    "真实动作与转场流畅度",
+    "Fred组件原效果接入",
+    "口播剪切/同步字幕",
+    "完整片实际声画"
+  ],
+  "ai_generation_submitted": false,
+  "additional_purchase": false,
+  "agent_ui_configuration": "Codex CLI / 6.1 Sol Ultra（用户界面已选；未实际向该Agent提交生成）"
+}

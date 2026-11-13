@@ -1,0 +1,34 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "仅TikTok本条就绪即发，非所有平台完成",
+  "stage": "06_ADDENDUM_TIKTOK_ONLY",
+  "remaining_required_work": [],
+  "account": "Eli-AI/@elimakesapps",
+  "native_identity": "本轮账号菜单原生主页链接为https://www.tiktok.com/@elimakesapps，已登录",
+  "duplicate_check": "内容24条无本条，草稿1条为旧AI认知漏斗，未改旧草稿",
+  "source_video_sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+  "native_media_ready": "elden-ring-ai-recap-v2-final.mp4 已上传147.77MB，1080P，1m44s",
+  "tags": [
+    "AI",
+    "游戏开发",
+    "艾尔登法环",
+    "agent",
+    "codex"
+  ],
+  "tags_scope": "编辑器正文与预览完整五标签；发布后再核实际标签链接",
+  "cover_file": "cover-3x4-1080x1440-v1.png",
+  "cover_visual": "原生预览标4:3但实际竖框；9:16和4:3输入会截字，最终3:4原件完整展示标题、脸和模型，截图已审",
+  "privacy": "所有人",
+  "when": "现在",
+  "AI_declaration": "AI生成的内容开关已选，预览显示创作者已标记为由AI生成",
+  "native_checks": "音乐版权与内容快速检查均未发现问题",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-content-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-before-send-v1.txt",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-before-send-v1.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/06-发布准备/tiktok-cover-before-save-v1.png"
+  ],
+  "created_at": "2026-10-24T00:15:19.788006+08:00"
+}

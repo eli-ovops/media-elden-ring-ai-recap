@@ -1,0 +1,79 @@
+[
+  {
+    "source": "/tmp/eli-little-prince-reference-20261023/author-workflow.txt",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/Sac-制作教程原文.txt",
+    "bytes": 7198,
+    "sha256": "3e724654ea0bec5353d9040d9ccf70ee1fe40754712d17d5b68541c9524066be",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/tmp/eli-little-prince-reference-20261023/little-prince-270.mp4",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-reference-480x270.mp4",
+    "bytes": 1136893,
+    "sha256": "f1222e3471b28a55c8bf51bc852951965663c5749aca2a3126112e10df6457a9",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/tmp/eli-little-prince-reference-20261023/visual-sheet-01.jpg",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-samples-01.jpg",
+    "bytes": 288942,
+    "sha256": "7f9e54537b1f4e48604a938275df8b8aad5088e4c6fff6db43c2e129f9adb90a",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/tmp/eli-little-prince-reference-20261023/visual-sheet-02.jpg",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/little-prince-samples-02.jpg",
+    "bytes": 239162,
+    "sha256": "71cb5bcc5bbc59b19d32ba1714e08350b5b759ccb5209023430a46c296c86875",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/tmp/eli-little-prince-reference-20261023/reading-record.json",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/对标读取记录.json",
+    "bytes": 2018,
+    "sha256": "fdf65f414e0dcdadf125594af0082b749f4d9451f7d02bef94f86abb2343655c",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-d034de5d-09ba-45e3-a24d-d145b605a862.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-goal-timer.png",
+    "bytes": 20745,
+    "sha256": "0db4e6e7708172d12e557dd015e9d2ddc7feadf4844324d7d8b7f2137709900d",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-0b2108df-a671-4068-aa8e-de67b401abd4.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261019.png",
+    "bytes": 8197,
+    "sha256": "6a5c863272347d0f6e4c680d92415f82fe1a0368ef9df2ac06d31ad12469b8e9",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-24d787ff-166d-4ff2-9f6e-650b82d059e9.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261020.png",
+    "bytes": 9859,
+    "sha256": "261fc2d4b2135ebdf72ffdc2376018113e9943971c7c1a68b3172aefbd0c0a66",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-8e517d08-eeba-4d15-b343-b283bf25bbfd.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/user-token-20261021.png",
+    "bytes": 10185,
+    "sha256": "a636d6e1e27a4d24548ecc0caf546958f04db69cbd3b675592f1bb88e8eb4b87",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/game-20261023-090325/play-639283144580780000.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/own-gameplay-20261023.png",
+    "bytes": 1735248,
+    "sha256": "5750166fe8a118ac60a3099e2491777b53dea28f62a92901717a9840f4395e4e",
+    "status": "COPIED_VERIFIED"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/艾尔登法环/AI_Limgrave_Lab_20261020_1610/evidence/p82-ue-player-Idle.png",
+    "destination": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/01-来源与对标/own-player-p82.png",
+    "bytes": 2016719,
+    "sha256": "9e20c6e93d825afabdf42869ea8fa81331469af100deeb08242a3a7c03f45e8c",
+    "status": "COPIED_VERIFIED"
+  }
+]

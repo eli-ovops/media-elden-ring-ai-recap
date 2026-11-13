@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-23T18:45:07.489702+08:00",
+  "usage": {
+    "ordinaryUsageAllowed": true,
+    "usedPercent": 42,
+    "windowDurationMins": 10080,
+    "spendControlReached": false
+  },
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "snapshot": {
+    "status": "notLoaded",
+    "latestTurnStatus": "completed",
+    "latestTurnId": "01a15d44-3d3b-7c52-8fe9-84313822d87c",
+    "cursor": "b0ca97e7-52ab-446a-9de0-aa4f0ef4b953:1"
+  },
+  "no_duplicate_dispatch": true,
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

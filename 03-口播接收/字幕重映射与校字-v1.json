@@ -1,0 +1,246 @@
+{
+  "segments": [
+    {
+      "source_in": 0.0,
+      "source_out": 5.44,
+      "text": "玩过艾尔登法环的玩家应该都还记得有一个东西叫大树守卫",
+      "raw": "玩过爱顿法环的玩家应该都还记得有一个东西叫大树手",
+      "attachment": 3
+    },
+    {
+      "source_in": 5.44,
+      "source_out": 8.44,
+      "text": "真的是每个新手的恶梦啊",
+      "raw": "真的是每个新手的恶梦啊",
+      "attachment": 3
+    },
+    {
+      "source_in": 8.44,
+      "source_out": 16.04,
+      "text": "然后前两天我让我的Codex帮我复刻了一版大树守卫",
+      "raw": "然后前两天我让我的Codex帮我付科了一半大树手",
+      "attachment": 3
+    },
+    {
+      "source_in": 16.04,
+      "source_out": 22.64,
+      "text": "我用的模型是Astra还有Sol 6.1的Ultra",
+      "raw": "我用的模型是Astra还有Soul6.1的Aut",
+      "attachment": 3
+    },
+    {
+      "source_in": 22.64,
+      "source_out": 24.6,
+      "text": "然后折腾了整整三天",
+      "raw": "然后折腾了整整三天",
+      "attachment": 3
+    },
+    {
+      "source_in": 24.6,
+      "source_out": 28.28,
+      "text": "花了差不多70个亿左右的Token",
+      "raw": "花了差不多70个亿左右的Token",
+      "attachment": 3
+    },
+    {
+      "source_in": 0.0,
+      "source_out": 2.88,
+      "text": "不过我为什么忽然想要做游戏呢",
+      "raw": "不过我为什么忽然想要做游戏呢",
+      "attachment": 2
+    },
+    {
+      "source_in": 2.88,
+      "source_out": 4.32,
+      "text": "其实是有原因的",
+      "raw": "其实是有原因的",
+      "attachment": 2
+    },
+    {
+      "source_in": 4.32,
+      "source_out": 7.8,
+      "text": "因为前几天我刷到有大神",
+      "raw": "因为前几天我刷到有大神",
+      "attachment": 2
+    },
+    {
+      "source_in": 7.8,
+      "source_out": 10.64,
+      "text": "用Opus 5.5做了一个小王子啊",
+      "raw": "用opus5.5做了一个小王子啊",
+      "attachment": 2
+    },
+    {
+      "source_in": 11.16,
+      "source_out": 14.4,
+      "text": "他的那个小王子有云海上的草地",
+      "raw": "他的那个小王子有云海上的草地",
+      "attachment": 2
+    },
+    {
+      "source_in": 14.4,
+      "source_out": 15.64,
+      "text": "还有宫殿",
+      "raw": "还有弓墊",
+      "attachment": 2
+    },
+    {
+      "source_in": 15.64,
+      "source_out": 17.08,
+      "text": "还有玫瑰花园",
+      "raw": "还有玫瑰花园",
+      "attachment": 2
+    },
+    {
+      "source_in": 17.08,
+      "source_out": 18.76,
+      "text": "我看完了我就想过",
+      "raw": "我看完了我就想过",
+      "attachment": 2
+    },
+    {
+      "source_in": 19.76,
+      "source_out": 21.2,
+      "text": "为什么我不能试一下呢",
+      "raw": "为什么我不能试一下呢",
+      "attachment": 2
+    },
+    {
+      "source_in": 21.2,
+      "source_out": 23.04,
+      "text": "然后我就开始尝试",
+      "raw": "然后我就开始尝试",
+      "attachment": 2
+    },
+    {
+      "source_in": 23.84,
+      "source_out": 27.0,
+      "text": "这个作者他总共花了16天",
+      "raw": "这个作者他总共花了16天",
+      "attachment": 2
+    },
+    {
+      "source_in": 27.0,
+      "source_out": 28.16,
+      "text": "然后结合了",
+      "raw": "然后结合了",
+      "attachment": 2
+    },
+    {
+      "source_in": 28.16,
+      "source_out": 30.16,
+      "text": "Claude然后Astra",
+      "raw": "claw的然后austra",
+      "attachment": 2
+    },
+    {
+      "source_in": 30.16,
+      "source_out": 32.16,
+      "text": "然后用Astra再去",
+      "raw": "然后用austra再去",
+      "attachment": 2
+    },
+    {
+      "source_in": 33.28,
+      "source_out": 34.8,
+      "text": "运用那些Blender",
+      "raw": "运用那些blander",
+      "attachment": 2
+    },
+    {
+      "source_in": 35.44,
+      "source_out": 38.16,
+      "text": "最终完成了优化和修Bug",
+      "raw": "最终完成了优化和修Bug",
+      "attachment": 2
+    },
+    {
+      "source_in": 38.68,
+      "source_out": 40.52,
+      "text": "然后才能呈现出来我们",
+      "raw": "然后才能呈现出来我们",
+      "attachment": 2
+    },
+    {
+      "source_in": 40.92,
+      "source_out": 42.68,
+      "text": "最终看到的小王子",
+      "raw": "最终看到的小王子",
+      "attachment": 2
+    },
+    {
+      "source_in": 0.0,
+      "source_out": 5.6,
+      "text": "我做的这本大树守卫和我真的想要的",
+      "raw": "我做的这本大数所谓和我真的想要的",
+      "attachment": 1
+    },
+    {
+      "source_in": 5.6,
+      "source_out": 8.16,
+      "text": "其实差距还是比较远的",
+      "raw": "其实差距还是比较远的",
+      "attachment": 1
+    },
+    {
+      "source_in": 8.16,
+      "source_out": 11.76,
+      "text": "但是我真的是烧不动Token了",
+      "raw": "但是我真的是烧不动偷肯了",
+      "attachment": 1
+    },
+    {
+      "source_in": 11.76,
+      "source_out": 16.96,
+      "text": "我把源码还有模型的那些资源都已经放到GitHub了",
+      "raw": "我把圆码还有模型的那些资源都已经放得给它了",
+      "attachment": 1
+    },
+    {
+      "source_in": 16.96,
+      "source_out": 23.7,
+      "text": "然后如果说有兴趣的大神的话可以去接着我的模型继续",
+      "raw": "然后如果说有兴趣的大神的话可以去接着我的模型继续",
+      "attachment": 1
+    },
+    {
+      "source_in": 23.7,
+      "source_out": 24.48,
+      "text": "接下去做",
+      "raw": "接下去做",
+      "attachment": 1
+    },
+    {
+      "source_in": 24.48,
+      "source_out": 27.4,
+      "text": "我是真的实在是烧不动了",
+      "raw": "我是真的实在是烧不动了",
+      "attachment": 1
+    },
+    {
+      "source_in": 27.4,
+      "source_out": 33.8,
+      "text": "如果说你们有兴趣的话可以问我要GitHub的链接",
+      "raw": "如果说你们有兴趣的话可以问我要给它们的练结",
+      "attachment": 1
+    }
+  ],
+  "corrections": {
+    "大数所谓": "大树守卫",
+    "偷肯": "Token",
+    "圆码": "源码",
+    "放得给它": "放到GitHub",
+    "给它们的练结": "GitHub的链接",
+    "弓墊": "宫殿",
+    "opus5.5": "Opus 5.5",
+    "austra": "Astra",
+    "blander": "Blender",
+    "claw的": "Claude",
+    "爱顿法环": "艾尔登法环",
+    "大树手": "大树守",
+    "付科了一半": "复刻了一版",
+    "Soul6.1的Aut": "Sol 6.1的Ult"
+  },
+  "alignment": "ASR片段时码；长句按比例拆候选，非逐字精对齐",
+  "pending": "附件2源28.16—35.44工具链需听核；Claude是候选，不是已核作者事实"
+}

@@ -1,0 +1,54 @@
+{
+  "at": "2026-10-23T16:10:51.603311+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS_FOR_FULL_PRODUCTION_SCOPED",
+  "scope": "代表片段20.4—32.55秒的准确组件复用、竖屏构图、数值表达和已取样接缝；允许同04继续整片，不是完整片或用户验收",
+  "output": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/representative-v1.mp4",
+    "sha256": "1b6b752b4a5386f868b745e52d48d30a8562ec836a8da3dcfe9f925767ed7f7e"
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/代表片段审阅入口.md",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/04-代表片段自检-v1.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/Manifest-representative-keyframes.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/gate-representative-keyframes.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/gate-representative-suggestion.json",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/reference/T14e.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-contact.jpg",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-08.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/stills/export-04.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/index.tsx",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/components/T14e-StatTriplet.tsx",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/ui.tsx",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/src/kit/theme.ts",
+    "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T14e-StatTriplet.tsx",
+    "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/ui.tsx"
+  ],
+  "methods": [
+    "实际MP4 SHA与Manifest/源码/kit SHA核对",
+    "准确原T14e预览2fps联系表与实际导出15帧联系表对照",
+    "实际f135/f370原尺寸图查看；联系表手机尺寸阅读检查",
+    "逐行源码差异检查T14e及wave3 UI；审原技术解码证据，不重复解码"
+  ],
+  "findings": [
+    "T14e原实现支持2—4项，默认预览3项；本期4项来自真实26.3/24.3/18.8与69.4，未用近似重画冒充引用。",
+    "完整rise/roll/landed/heroP/heroQ、Surface/Num字体/阴影/色变实现沿准确源码；变更限424×390竖屏2×2几何、卡片位置/Frame1080×1920、品牌关闭和去未核音效。",
+    "原预览0—5.012秒与本期local2—8.066667秒呈现升起、错峰落定和末卡黑紫突出；落定后总量卡略放大，有阅读停留。不是横版整体缩入小窗。",
+    "f370原尺寸数值、日期、亿Token单位与账号三天总量限定完整，卡片/阴影留边无裁切；最小联系表可读。",
+    "game f119→account f120是明确新场景硬切，白底标题可读，后续卡片入场，不是单帧半透明白闪。",
+    "account f482/483→真人f484/485采样无半透明残影；真人面部不被标签覆盖，嘴形状态可见但不能据此证明首音听感。",
+    "真人首帧字幕晚一帧是毫秒舍入已披露，不扩大为返修；最终统一cue采样可沿稳定源时钟处理。",
+    "前2秒游戏图为真实静帧cover，盾牌边缘裁切已披露；只批准该短镜头，不能据此声称连续游戏运动已验。"
+  ],
+  "remaining_required_work_for_this_scope": [],
+  "unchanged_limits": {
+    "direct_hearing": "UNKNOWN",
+    "normal_speed_continuous_AV": "UNKNOWN",
+    "full_film": "PENDING",
+    "other_component_families": "PENDING actual full-film evidence",
+    "independent_05": "PENDING",
+    "user_acceptance": "PENDING"
+  },
+  "next_action": "原04继续104.016667秒整片及默认四比例封面；其他场景沿准确组件/kit、真实媒体与实际门禁，自检完整原件后主动报告PMO。不重复本代表段大测试，不另要用户逐段批准。"
+}

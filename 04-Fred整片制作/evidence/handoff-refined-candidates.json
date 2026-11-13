@@ -1,0 +1,206 @@
+{
+  "query": "文件夹 打开 文件 取出 展开",
+  "sceneType": "relationship",
+  "candidates": [
+    {
+      "id": "fred-wave3-40-t17c",
+      "displayLabel": "T17c",
+      "title": "文件夹结构",
+      "useWhen": "一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "tree",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 300,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T17c",
+      "score": 420.7,
+      "reasons": [
+        "全文与文档",
+        "原词命中：文件夹",
+        "原词命中：文件",
+        "原词命中：展开",
+        "相近词：件夹、展开、文件"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "文件夹",
+          "子目录",
+          "关键文件"
+        ],
+        "action": "一个文件夹 → 逐层展开成目录树，关键文件被点亮并标注",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t17c --full"
+    },
+    {
+      "id": "fred-wave3-40-t02h",
+      "displayLabel": "T02h",
+      "title": "几个必备文件",
+      "useWhen": "几个文件卡依次立起 → 每张翻面露出一句用途",
+      "sceneTypes": [
+        "relationship"
+      ],
+      "collectionId": "fred-wave3-40-20261012",
+      "editableParameters": [
+        "enter",
+        "exit",
+        "exitAt",
+        "files",
+        "cues"
+      ],
+      "knownLimitations": [
+        "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+        "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+      ],
+      "nativeTiming": {
+        "fps": 60,
+        "durationInFrames": 360,
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": true,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "label": "T02h",
+      "score": 208.7,
+      "reasons": [
+        "全文与文档",
+        "原词命中：文件",
+        "相近词：文件"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "inputObjects": [
+          "文件卡",
+          "文件名",
+          "用途"
+        ],
+        "action": "几个文件卡依次立起 → 每张翻面露出一句用途",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。"
+      },
+      "resolveCommand": "references.py --id fred-wave3-40-t02h --full"
+    },
+    {
+      "id": "library-legacy81-r005",
+      "displayLabel": "L81-R005",
+      "title": "数字展开为分类分支",
+      "useWhen": "数字展开为分类分支",
+      "sceneTypes": [
+        "summary",
+        "relationship"
+      ],
+      "editableParameters": [],
+      "knownLimitations": [
+        "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+        "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+      ],
+      "nativeTiming": {},
+      "sourceAvailability": {
+        "available": false,
+        "status": "missing",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Public source is missing or changed; restore the repository source.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "label": "L81-R005",
+      "score": 126,
+      "reasons": [
+        "原词命中：展开",
+        "相近词：展开"
+      ],
+      "sameSceneType": true,
+      "productionUse": {
+        "useIds": [
+          "explain",
+          "data"
+        ],
+        "sourceId": "fredtalk",
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "数值",
+          "图表"
+        ],
+        "action": "数字展开为分类分支",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 9.467,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。"
+      },
+      "resolveCommand": "references.py --id library-legacy81-r005 --full"
+    }
+  ],
+  "crossTypeFallback": false,
+  "scope": "Candidates only; inspect exact video and interface before selecting. No approval inferred.",
+  "selectionRule": "Inspect every listed candidate; record each as selected or rejected with a concrete reason before any original route.",
+  "publicFallbackCandidates": [],
+  "availabilityRule": "Unavailable member candidates remain discoverable and require a reason; select only verified installed source or use the public fallback. componentPlan.access=public limits the comparison to public source."
+}

@@ -1,0 +1,80 @@
+- generic: 
+- link " 主站":
+  - /url: //www.bilibili.com/
+  - generic: 
+  - text: 主站
+- generic: 试试更多AI创作工具吧
+- generic: 
+- generic: "9"
+- link "":
+  - /url: //message.bilibili.com/
+  - generic: 
+- generic: 成为UP主的第17天
+- text:      
+- link:
+  - /url: //space.bilibili.com/
+- region "scrollable content":
+  - link "投稿":
+    - /url: /platform/upload?page_from=creative_home_top_upload
+    - generic: 
+    - text: 投稿
+  - list:
+    - generic: 
+    - generic: 首页
+    - generic: 
+    - generic: 内容管理
+    - generic: 
+    - generic: 稿件管理
+    - generic: 申诉管理
+    - generic: 字幕管理
+    - generic: 
+    - generic: 数据中心
+    - generic: 
+    - generic: 粉丝管理
+    - generic: 
+    - generic: 互动管理
+    - generic: 
+    - generic: 
+    - generic: 收益管理
+    - generic: 
+    - generic: 花生
+    - generic: updream
+    - generic: 
+    - generic: 创作成长
+    - generic: 
+    - generic: 任务中心
+    - generic: 必火推广
+    - link "创作学院":
+      - /url: https://member.bilibili.com/academy
+      - generic: 创作学院
+    - generic: 
+    - generic: 创作权益
+    - generic: 
+    - generic: 
+    - generic: 社区公约
+    - generic: 
+    - generic: 创作设置
+- text:   
+- text: 
+- generic: 稿件处理进度
+- generic: 稿件上传
+- generic: 上传完成
+- generic: 上传完成
+- text: 稿件转码
+- generic: 
+- generic: 转码完成
+- generic: 
+- generic: 360P 流畅
+- generic: 已完成
+- generic: 480P 标清
+- generic: 已完成
+- generic: 720P 准高清
+- generic: 已完成
+- generic: 1080P 高清
+- generic: 已完成
+- generic: 1080P 60帧
+- generic: 已完成
+- generic: 稿件审核
+- generic: 已完成
+- text:      
+- generic: 遇到问题

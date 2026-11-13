@@ -1,0 +1,71 @@
+{
+  "content_id": "elden-ring-ai-recap-20261023",
+  "version": "v2",
+  "owner": "04",
+  "status": "TARGETED_SELF_CHECK_COMPLETE_PMO_PENDING",
+  "output": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/output/elden-ring-ai-recap-v2-final.mp4",
+    "sha256": "0c1a009e1f943d051c755742e026149f9c78a94b78404828d7f3c17759a2c981",
+    "frames": 6241,
+    "durationSeconds": 104.01666666666667,
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "request": {
+    "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/PMO-完整片定向返修-v1.json",
+    "sha256": "1f95153c28cf42d22ad67fdbbb39e2e623f9aa73e24e4743aec83146229cf503"
+  },
+  "fixes": [
+    {
+      "id": "C1",
+      "change": "云海原序列一次连续播放，按原源人物位置设置跟随；42秒人物完整可见。",
+      "evidence": "evidence/revision-v2/final/actual-f2520.png"
+    },
+    {
+      "id": "C2",
+      "change": "原1953→2364及2364→2558两段合为1953→2558；source1.5→11.583333，原2363/2364处source8.333333→8.35，无回跳。",
+      "evidence": "evidence/revision-v2/final/targeted-frame-map.json"
+    },
+    {
+      "id": "C3",
+      "change": "只在真实狐狸镜头f3968–4219改为1080×810全宽较宽取景；两主体和英文原句完整，f4220按源切回原火车镜头。",
+      "evidence": "evidence/revision-v2/final/actual-f4020.png"
+    }
+  ],
+  "checks": {
+    "probe": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/probe-v2.json",
+      "sha256": "067d3f95b8c3ba0c1a2b280defab84c4e5b9b0a2acf8a82fd9c56ac311797509"
+    },
+    "targetedFrames": 21,
+    "targetedMap": {
+      "path": "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/04-Fred整片制作/evidence/revision-v2/final/targeted-frame-map.json",
+      "sha256": "0c60a7c6ad569dc0ca02f8c6679d76eb53037273bbdf9b3f2bd4090e26a17c3a"
+    },
+    "visualScope": "最终final文件两段首尾/原错误回跳点/原右侧越界点，加原尺寸42及67秒帧；上一内部fixed的67帧已检变化区间继续作中段辅助证据；狐狸中段完整镜头关系已在相同补片/上一内部合成实际输出中检查。离散帧，不是连续视听。",
+    "protected": "T14e/T17c实现与kit原SHA、AccountScene/HandoffScene调用文字逐行一致；冻结SRT/四封面SHA未变；原声AAC直接复制。",
+    "internalCorrections": "第一轮局部实际导出复核拦住提前左移跟随和补片末帧回落；已调整到原源切镜9.066667秒及eof_action=repeat+repeatlast=1+严格边界。未将内部候选交PMO。"
+  },
+  "limits": {
+    "directHearing": "UNKNOWN; PMO范围补充明确不阻断制作，用户终审PENDING",
+    "continuousAV": "UNKNOWN; 本轮只新增修复区间及接缝实际导出帧检查",
+    "subtitlePrecision": "候选句内时码，未作听核PASS",
+    "externalAcceptance": "PMO v2 / 05 / user PENDING",
+    "sampling": "Sparse actual-export frames and contact sheets, not continuous normal-speed playback or all-frame inspection.",
+    "sourceCropFix": "v1 C1/C2/C3已按定向修复；以本轮实际输出证据为准，不再将主体丢失作为可放行限制。"
+  },
+  "acceptances": {
+    "pmo": "PENDING",
+    "05": "NOT_RELEASED",
+    "user": "PENDING"
+  },
+  "reworkMetrics": {
+    "pmoFindings": 3,
+    "pmoRevisionRounds": 1,
+    "internalCorrectionPasses": 2,
+    "audioReprocessing": 0,
+    "coverChanges": 0,
+    "runtimeCost": "UNKNOWN"
+  }
+}

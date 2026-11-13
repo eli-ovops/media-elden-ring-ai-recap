@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-23T16:11:28.546495+08:00",
+  "content_id": "elden-ring-ai-recap-20261023",
+  "purpose": "代表片段内验后原04续接完整片，不新建Owner",
+  "target_thread_id": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11a6f-49ef-7653-934a-4312979fd4e7\"}"
+      }
+    ],
+    "isError": false
+  },
+  "status": "TOOL_ACCEPTED",
+  "owner_received": "UNKNOWN",
+  "full_delivery": "PENDING"
+}

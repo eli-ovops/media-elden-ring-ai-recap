@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-23T10:19:32.930722+08:00",
+  "source_urls": [
+    "https://github.com/eli-ovops/AI-Limgrave-Lab",
+    "https://github.com/eli-ovops/AI-Limgrave-Lab/releases/tag/p82-20261023"
+  ],
+  "method": "web open exact public source URLs; both readable",
+  "repository_visibility": "Public",
+  "readme_scope": "source/scripts/docs plus separate asset release; requires resource restoration and configured UE/Xcode build; no independent double-click game package",
+  "release_description": "P82Fix1 player + P78 environment/mounted boss; page says 15 ZIP volumes/about 4.95 GB download/6.84 GB extracted",
+  "downloads_performed": false,
+  "remote_hash_validation_reperformed": false,
+  "voiceover_use": "源码和模型资源已放到GitHub；按README搭起来，自己接着做；用户自嘲Token烧不动",
+  "rights_wording": "Do not claim uniform open-source license or unrestricted commercial reuse."
+}

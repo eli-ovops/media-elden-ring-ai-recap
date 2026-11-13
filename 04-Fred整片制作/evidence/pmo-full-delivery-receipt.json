@@ -1,0 +1,19 @@
+{
+  "recipientThreadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "hostId": "local",
+  "action": "04 full v1 delivery report",
+  "authority": "User-authored project AGENTS requires Owner active report to original PMO",
+  "status": "TOOL_ACCEPTED",
+  "toolResult": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmoRead": "UNKNOWN",
+  "pmoAcceptance": "PENDING",
+  "sha256": "227cfd7e5dc0f167eeb09660d54684b6b17844d23b7b4d256583a8cb36705dd0"
+}

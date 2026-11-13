@@ -1,0 +1,9 @@
+{
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/02-思考分析-图5-深蓝衬衫.png",
+    "/Volumes/EXTERNAL/自媒体/qianwen-go-case-20261013/flow/06/封面/简体-白底本人-3x4-v3.png",
+    "/Volumes/EXTERNAL/自媒体/elden-ring-ai-recap-20261023/03-实机素材/干净原图/p78-ue-sentinel.png"
+  ],
+  "transparent_background": false,
+  "prompt": "Use case: compositing / identity-preserve. Create one finished Chinese creator video cover, portrait 3:4 canvas, target 1080x1440. Image1 is the ONLY facial identity reference: preserve recognizable Asian man's face, neat black hair, thin round metal glasses. Change clothing to relaxed light grey hoodie, standing upper-body pose, slightly tired amused smile, one palm presenting the crude gold mounted knight. Image2 is style/layout reference ONLY: clean pure white background, huge heavy black and electric-purple Chinese typography, dominant cutout subject, no frames/cards, no tiny paragraphs; do not copy its person or wording. Image3 is the actual rough game result: use the exact recognizably simplified gold-armored knight riding brown horse, same visible rear three-quarter view and armor shapes; isolate it from grass/church and place on cover as a large secondary object, retain rough game geometry, do not turn it into a polished fantasy knight. Text verbatim only: small black upper kicker 'AI复刻大树守卫', extremely large two-line main title '三天后' in black and '长这样' in electric purple #6100E8. Portrait composition: text fills upper 40%, man lower left with entire head clear, large crude knight/horse lower right clearly separate from face and text. Strong phone-thumbnail readability, naturally cropped shoulders at bottom, hair/glasses and all title characters fully inside canvas with 5% safe margins. No numbers about tokens, no extra logos, no disclaimers, no frame, no glass. Render sharp Chinese lettering and clean photoreal skin without double eyeglasses or duplicated features."
+}

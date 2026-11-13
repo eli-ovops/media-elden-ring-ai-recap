@@ -1,0 +1,79 @@
+- complementary:
+  - button "作品发布":
+    - generic: 作品发布
+  - menu:
+    - menuitem "首页":
+      - generic: 首页
+    - menuitem "内容管理":
+      - generic: 内容管理
+    - menuitem "数据中心":
+      - generic: 数据中心
+    - menuitem "收入变现":
+      - generic: 收入变现
+    - menuitem "创作服务":
+      - generic: 创作服务
+- navigation "智能创作":
+  - button "首页":
+    - text: 首页
+  - button "AI分身": AI分身
+  - button "随变": 随变
+  - button "世界书": 世界书
+  - button "造世界": 造世界
+  - button "AI工坊": AI工坊
+- button "星光余额 0，查看星光明细":
+  - generic: "0"
+- generic: 数据指标说明
+- generic: 内容管理
+- generic: 0:01:44
+- generic: "用AI折腾三天，我的大树守卫长这样 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？ #AI #游戏开发 #艾尔登法环 #agent #codex"
+- generic: 2026年10月23日 23:46
+- text: 作品状态正常
+- tab "总览" [selected]
+- tab "流量分析"
+- tab "观众分析"
+- tab "评论热词"
+- tab "评论管理"
+- text: 流量
+- button "导出":
+  - generic: 导出
+- generic: 播放量
+- generic: "1"
+- generic: 点赞量
+- generic: "0"
+- generic: 评论量
+- generic: "0"
+- generic: 分享量
+- generic: "0"
+- generic: 收藏量
+- generic: "0"
+- generic: 弹幕量
+- generic: "0"
+- generic: 完播率
+- generic: "0.00"
+- generic: "%"
+- generic: 2s跳出率
+- generic: "0.00"
+- generic: "%"
+- generic: 新增
+- generic: 累计
+- generic: 每小时
+- generic: 每天
+- generic: 粉丝
+- button "导出":
+  - generic: 导出
+- generic: 涨粉量
+- generic: "0"
+- generic: 脱粉量
+- generic: "0"
+- generic: 粉丝播放占比
+- generic: "0"
+- generic: "%"
+- generic: 新增
+- generic: 累计
+- generic: 每小时
+- generic: 每天
+- dialog "点这里进入评论管理":
+  - banner:
+    - heading "点这里进入评论管理" [level=3]
+  - contentinfo:
+    - button "知道了"
